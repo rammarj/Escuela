@@ -1,0 +1,15 @@
+<resources>
+    <string name="cargando">Cargando</string>
+    <string name="title_activity_inicio">Recetas Edaman</string>
+    <string name="ingredientes">Ingredientes: \n\n%s</string>
+    <string name="calorias">Calorias: %f</string>
+    <string name="buscar_recetas">Buscar</string>
+    <string name="title_activity_receta">Receta</string>
+    <string name="buscar">Buscar</string>
+    <string name="bundle_extra_receta">receta</string>
+    <string name="bundle_extra_ingredientes">ingredientes</string>
+    <string name="bundle_extra_calorias">calorias</string>
+    <string name="bundle_extra_url">url</string>
+    <string name="bundle_extra_imagen">imagen</string>
+    <string name="buscando">Buscando...</string>
+</resources>
