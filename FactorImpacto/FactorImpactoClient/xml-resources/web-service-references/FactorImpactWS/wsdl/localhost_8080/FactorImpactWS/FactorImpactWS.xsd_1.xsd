@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.2-hudson-740-. --><xs:schema xmlns:tns="http://websecurity.rammarj.com/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://websecurity.rammarj.com/">
+
+<xs:element name="add" type="tns:add" />
+
+<xs:element name="addResponse" type="tns:addResponse" />
+
+<xs:element name="delete" type="tns:delete" />
+
+<xs:element name="deleteResponse" type="tns:deleteResponse" />
+
+<xs:element name="find" type="tns:find" />
+
+<xs:element name="findResponse" type="tns:findResponse" />
+
+<xs:element name="find_1" type="tns:find_1" />
+
+<xs:element name="find_1Response" type="tns:find_1Response" />
+
+<xs:element name="find_2" type="tns:find_2" />
+
+<xs:element name="find_2Response" type="tns:find_2Response" />
+
+<xs:element name="getCount" type="tns:getCount" />
+
+<xs:element name="getCountResponse" type="tns:getCountResponse" />
+
+<xs:element name="update" type="tns:update" />
+
+<xs:element name="updateResponse" type="tns:updateResponse" />
+
+<xs:complexType name="delete">
+<xs:sequence>
+<xs:element name="id" type="xs:int" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="deleteResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getCount">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getCountResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:int" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="update">
+<xs:sequence>
+<xs:element name="data" type="tns:factorImpact" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="factorImpact">
+<xs:complexContent>
+<xs:extension base="tns:mySQLEntity">
+<xs:sequence>
+<xs:element name="eigenFactorMetrics" type="tns:eigenFactorMetrics" minOccurs="0" />
+<xs:element name="id" type="xs:int" />
+<xs:element name="issn" type="xs:string" minOccurs="0" />
+<xs:element name="title" type="xs:string" minOccurs="0" />
+<xs:element name="jCRData" type="tns:jcrData" minOccurs="0" />
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+
+<xs:complexType name="mySQLEntity" abstract="true">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="eigenFactorMetrics">
+<xs:sequence>
+<xs:element name="articleInfluenceScore" type="xs:float" />
+<xs:element name="eigenFactorScore" type="xs:float" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="jcrData">
+<xs:sequence>
+<xs:element name="articles" type="xs:int" />
+<xs:element name="citedHalfLife" type="xs:string" minOccurs="0" />
+<xs:element name="factorImpact" type="xs:float" />
+<xs:element name="fiveImpactFactor" type="xs:float" />
+<xs:element name="immediacy" type="xs:float" />
+<xs:element name="totalCities" type="xs:int" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="find">
+<xs:sequence>
+<xs:element name="search" type="xs:string" minOccurs="0" />
+<xs:element name="limit" type="xs:int" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:mySQLEntity" minOccurs="0" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="find_2">
+<xs:sequence>
+<xs:element name="json" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="find_2Response">
+<xs:sequence>
+<xs:element name="return" type="tns:mySQLEntity" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="find_1">
+<xs:sequence>
+<xs:element name="inicio" type="xs:int" />
+<xs:element name="fin" type="xs:int" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="find_1Response">
+<xs:sequence>
+<xs:element name="return" type="tns:mySQLEntity" minOccurs="0" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="add">
+<xs:sequence>
+<xs:element name="parameter" type="tns:factorImpact" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="addResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
