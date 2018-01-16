@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://wsDatos/" targetNamespace="http://wsDatos/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="actualizar" type="tns:actualizar" />
+  <xs:element name="actualizarResponse" type="tns:actualizarResponse" />
+  <xs:element name="borrar" type="tns:borrar" />
+  <xs:element name="borrarResponse" type="tns:borrarResponse" />
+  <xs:element name="consulta" type="tns:consulta" />
+  <xs:element name="consultaResponse" type="tns:consultaResponse" />
+  <xs:element name="insertar" type="tns:insertar" />
+  <xs:element name="insertarResponse" type="tns:insertarResponse" />
+  <xs:complexType name="actualizar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="json" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="actualizarResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="insertar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="json" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="insertarResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="borrar">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="json" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="borrarResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="consulta">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="consultaResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appFBTest</string>
+    <string name="facebook_app_id">1910704399141865</string>
+    <string name="login">Se ha cancelado la operación</string>
+    <string name="loginError">Ha ocasionado un error intentalo nuevamente!</string>
+    <string name="title">Find\n\tMe!</string>
+    <string name="iniciar">¡Iniciar!</string>
+</resources>

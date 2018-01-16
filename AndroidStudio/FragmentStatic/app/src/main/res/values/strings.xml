@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="frag1">Fragment 1</string>
+    <string name="frag2">Fragment 2</string>
+    <string name="texto_edit">Hola @rammarj</string>
+    <string name="texto_boton">gracias</string>
+</resources>

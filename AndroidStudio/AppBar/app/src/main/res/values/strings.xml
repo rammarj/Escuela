@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="configuracion">Configuración</string>
+    <string name="acerca_de">Acercca de</string>
+</resources>

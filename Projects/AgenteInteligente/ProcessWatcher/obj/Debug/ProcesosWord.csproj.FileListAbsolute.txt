@@ -1,0 +1,6 @@
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\bin\Debug\ProcessWatcher.exe.config
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\bin\Debug\ProcessWatcher.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\bin\Debug\ProcessWatcher.pdb
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\obj\Debug\ProcesosWord.csprojResolveAssemblyReference.cache
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\obj\Debug\ProcessWatcher.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\obj\Debug\ProcessWatcher.pdb

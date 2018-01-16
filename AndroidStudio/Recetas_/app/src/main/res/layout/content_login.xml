@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.rammarj.recetas.Login"
+    tools:showIn="@layout/activity_login">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_marginTop="@dimen/margin_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/recetas_nutritivas"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_below="@+id/logo"
+        android:layout_width="match_parent"
+        android:text="@string/app_name"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/tam_titulo"
+        android:textAlignment="center"
+        android:textColor="@color/primaryText"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/subtitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/tam_subtitulo"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:layout_below="@+id/titulo"
+        android:text="@string/login_subtitulo"
+        android:layout_margin="@dimen/margin_login"/>
+
+    <RelativeLayout
+        android:layout_marginTop="@dimen/margin_login"
+        android:layout_below="@id/subtitulo"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/sign_in_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btn_sign_out"
+                android:text="@string/desconectar"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

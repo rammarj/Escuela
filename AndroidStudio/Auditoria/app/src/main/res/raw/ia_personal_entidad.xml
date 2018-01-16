@@ -1,0 +1,940 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InicioAuditorias>
+  <PersonalEntidad IDAuditoriasIniciadas="218" IDPersonalOrganismoAuditoriasIniciadas="1440" Nombre="C. Genaro Antonio" Apellido=" González Guarneros" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="5" IDPersonalOrganismoAuditoriasIniciadas="1567" Nombre="C. Genaro Antonio" Apellido=" González Guarneros" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="219" IDPersonalOrganismoAuditoriasIniciadas="899" Nombre="Lic. Erick Arnulfo " Apellido="Sosa Campos" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="75" IDPersonalOrganismoAuditoriasIniciadas="277" Nombre="Arq. Gregorio " Apellido="Hernández Serrano" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="220" IDPersonalOrganismoAuditoriasIniciadas="1221" Nombre="Arq. Gregorio " Apellido="Hernández Serrano" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="42" IDPersonalOrganismoAuditoriasIniciadas="156" Nombre="C. Adán " Apellido="Solís Moreno" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="221" IDPersonalOrganismoAuditoriasIniciadas="1227" Nombre="C. Adán " Apellido="Solís Moreno" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="29" IDPersonalOrganismoAuditoriasIniciadas="78" Nombre="Lic. Oscar Adalberto " Apellido="Ángeles García" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="234" IDPersonalOrganismoAuditoriasIniciadas="1322" Nombre="Lic. Oscar Adalberto " Apellido="Ángeles García" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="239" IDPersonalOrganismoAuditoriasIniciadas="1697" Nombre="C. Gerardo " Apellido="López Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="78" IDPersonalOrganismoAuditoriasIniciadas="286" Nombre="C. José Fernando " Apellido="Hernández Durán" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="256" IDPersonalOrganismoAuditoriasIniciadas="1128" Nombre="C. José Fernando " Apellido="Hernández Durán" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="114" IDPersonalOrganismoAuditoriasIniciadas="426" Nombre="C. Paulino Jaime " Apellido="Reyes Galindo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="298" IDPersonalOrganismoAuditoriasIniciadas="1195" Nombre="C. Paulino Jaime " Apellido="Reyes Galindo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="25" IDPersonalOrganismoAuditoriasIniciadas="67" Nombre="Ing. Antero " Apellido="Nochebuena Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="311" IDPersonalOrganismoAuditoriasIniciadas="1385" Nombre="Ing. Antero " Apellido="Nochebuena Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="137" IDPersonalOrganismoAuditoriasIniciadas="518" Nombre="Ing. Francisco Javier " Apellido="Téllez Sánchez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="287" IDPersonalOrganismoAuditoriasIniciadas="1134" Nombre="Ing. Francisco Javier " Apellido="Téllez Sánchez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="24" IDPersonalOrganismoAuditoriasIniciadas="63" Nombre="Dr. Rodrigo " Apellido="Rodríguez Cisneros" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="338" IDPersonalOrganismoAuditoriasIniciadas="1456" Nombre="Dr. Rodrigo " Apellido="Rodríguez Cisneros" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="19" IDPersonalOrganismoAuditoriasIniciadas="44" Nombre="C. Javier" Apellido=" Pérez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="229" IDPersonalOrganismoAuditoriasIniciadas="837" Nombre="C. Javier" Apellido=" Pérez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="11" IDPersonalOrganismoAuditoriasIniciadas="10" Nombre="C. Eustorgio Serafín " Apellido="Benítez Guerrero" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="153" IDPersonalOrganismoAuditoriasIniciadas="581" Nombre="C. Eustorgio Serafín " Apellido="Benítez Guerrero" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="247" IDPersonalOrganismoAuditoriasIniciadas="932" Nombre="C. Eustorgio Serafín " Apellido="Benítez Guerrero" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="56" IDPersonalOrganismoAuditoriasIniciadas="201" Nombre="C. Silvano " Apellido="Ramos López" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="260" IDPersonalOrganismoAuditoriasIniciadas="987" Nombre="C. Silvano " Apellido="Ramos López" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="57" IDPersonalOrganismoAuditoriasIniciadas="202" Nombre="C. José Gerardo " Apellido="Olmedo Arista" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="325" IDPersonalOrganismoAuditoriasIniciadas="1391" Nombre="C. José Gerardo " Apellido="Olmedo Arista" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="157" IDPersonalOrganismoAuditoriasIniciadas="602" Nombre="Lic. Adelfa " Apellido="Zúñiga Fuentes" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="288" IDPersonalOrganismoAuditoriasIniciadas="1144" Nombre="Lic. Adelfa " Apellido="Zúñiga Fuentes" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="17" IDPersonalOrganismoAuditoriasIniciadas="40" Nombre="C. Baltazar " Apellido="Hernández Delgado" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="15" IDPersonalOrganismoAuditoriasIniciadas="32" Nombre="C. Alejandro " Apellido="González Méndez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="346" IDPersonalOrganismoAuditoriasIniciadas="1496" Nombre="C. Alejandro " Apellido="González Méndez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="3" IDPersonalOrganismoAuditoriasIniciadas="11" Nombre="L. A. E. Carlos " Apellido="Santillán Muñoz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="160" IDPersonalOrganismoAuditoriasIniciadas="611" Nombre="L. A. E. Carlos " Apellido="Santillán Muñoz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="263" IDPersonalOrganismoAuditoriasIniciadas="1008" Nombre="L. A. E. Carlos " Apellido="Santillán Muñoz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="41" IDPersonalOrganismoAuditoriasIniciadas="148" Nombre="Q. F. B. Blanca " Apellido="Juárez Mora" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="81" IDPersonalOrganismoAuditoriasIniciadas="296" Nombre="C. Felipe " Apellido="Juárez Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="321" IDPersonalOrganismoAuditoriasIniciadas="1351" Nombre="C. Felipe " Apellido="Juárez Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="13" IDPersonalOrganismoAuditoriasIniciadas="27" Nombre="Profr. Héctor " Apellido="Martínez Galindo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="166" IDPersonalOrganismoAuditoriasIniciadas="634" Nombre="Profr. Héctor " Apellido="Martínez Galindo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="339" IDPersonalOrganismoAuditoriasIniciadas="1461" Nombre="Profr. Héctor " Apellido="Martínez Galindo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="87" Nombre="C. Ruperto " Apellido="Manilla Vigueras" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="327" IDPersonalOrganismoAuditoriasIniciadas="1407" Nombre="C. Ruperto " Apellido="Manilla Vigueras" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="59" IDPersonalOrganismoAuditoriasIniciadas="207" Nombre="Lic. Fernando " Apellido="Jiménez Uribe" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="476" Nombre="Profr. Claudio " Apellido="Salas García" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="232" IDPersonalOrganismoAuditoriasIniciadas="851" Nombre="Profr. Claudio " Apellido="Salas García" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="23" IDPersonalOrganismoAuditoriasIniciadas="59" Nombre="Dr. Hipólito " Apellido="Hernández Aquino" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="312" IDPersonalOrganismoAuditoriasIniciadas="1301" Nombre="Dr. Hipólito " Apellido="Hernández Aquino" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="38" IDPersonalOrganismoAuditoriasIniciadas="131" Nombre="Ing. Sabulón " Apellido="Melo Vargas" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="267" IDPersonalOrganismoAuditoriasIniciadas="1038" Nombre="Ing. Sabulón " Apellido="Melo Vargas" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="99" IDPersonalOrganismoAuditoriasIniciadas="361" Nombre="Lic. Wilibaldo " Apellido="López Cervantes" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="1" IDPersonalOrganismoAuditoriasIniciadas="24" Nombre="C. Guillermo " Apellido="Hernández Morales" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="161" IDPersonalOrganismoAuditoriasIniciadas="615" Nombre="C. Guillermo " Apellido="Hernández Morales" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="40" IDPersonalOrganismoAuditoriasIniciadas="145" Nombre="Lic. Camilo " Apellido="Nava Rosales" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="300" IDPersonalOrganismoAuditoriasIniciadas="1205" Nombre="Lic. Camilo " Apellido="Nava Rosales" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="96" IDPersonalOrganismoAuditoriasIniciadas="349" Nombre="C. Isidoro " Apellido="Monroy Reyes" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="343" IDPersonalOrganismoAuditoriasIniciadas="1481" Nombre="C. Isidoro " Apellido="Monroy Reyes" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="138" IDPersonalOrganismoAuditoriasIniciadas="522" Nombre="Dr. Einar Severiano " Apellido="Torres León" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="253" IDPersonalOrganismoAuditoriasIniciadas="1234" Nombre="Dr. Einar Severiano " Apellido="Torres León" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="139" IDPersonalOrganismoAuditoriasIniciadas="525" Nombre="Ing. Juan " Apellido="Carlos Zarco Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="39" IDPersonalOrganismoAuditoriasIniciadas="141" Nombre="Ing. Eleazar " Apellido="Eduardo García Sánchez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="111" IDPersonalOrganismoAuditoriasIniciadas="409" Nombre="C. Francisco " Apellido="Casas Chávez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="22" IDPersonalOrganismoAuditoriasIniciadas="58" Nombre="C. José Luis " Apellido="Dávalos López" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="34" IDPersonalOrganismoAuditoriasIniciadas="112" Nombre="Profr. Alfredo " Apellido="Zúñiga Avilés" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="322" IDPersonalOrganismoAuditoriasIniciadas="1358" Nombre="Profr. Alfredo " Apellido="Zúñiga Avilés" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="301" IDPersonalOrganismoAuditoriasIniciadas="1241" Nombre="C. Pedro Melecio " Apellido="Olivares Arellano" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="58" IDPersonalOrganismoAuditoriasIniciadas="206" Nombre="C. Belén Arturo " Apellido="Hernández Máximo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="262" IDPersonalOrganismoAuditoriasIniciadas="1002" Nombre="C. Belén Arturo " Apellido="Hernández Máximo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="242" IDPersonalOrganismoAuditoriasIniciadas="912" Nombre="Profr. Sergio " Apellido="García Monter" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="115" IDPersonalOrganismoAuditoriasIniciadas="432" Nombre="L. A. E. Manuel de Jesús " Apellido="Rivera Fernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="33" IDPersonalOrganismoAuditoriasIniciadas="100" Nombre="Lic. Ismael " Apellido="Martínez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="326" IDPersonalOrganismoAuditoriasIniciadas="1399" Nombre="Lic. Ismael " Apellido="Martínez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="30" IDPersonalOrganismoAuditoriasIniciadas="86" Nombre="Arq. Fidencio " Apellido="Gachuz Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="342" IDPersonalOrganismoAuditoriasIniciadas="1476" Nombre="Arq. Fidencio " Apellido="Gachuz Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="27" IDPersonalOrganismoAuditoriasIniciadas="71" Nombre="Lic. Jesus Alberto " Apellido="Aguilar Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="21" IDPersonalOrganismoAuditoriasIniciadas="54" Nombre="Profr. Alberto " Apellido="Sánchez González" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="286" IDPersonalOrganismoAuditoriasIniciadas="1122" Nombre="Profr. Alberto " Apellido="Sánchez González" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="18" IDPersonalOrganismoAuditoriasIniciadas="49" Nombre="Lic. Mauricio " Apellido="Trejo Mejía" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="224" IDPersonalOrganismoAuditoriasIniciadas="821" Nombre="Lic. Mauricio " Apellido="Trejo Mejía" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="9" IDPersonalOrganismoAuditoriasIniciadas="16" Nombre="Lic. Alejandro " Apellido="Barranco Flores" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="135" IDPersonalOrganismoAuditoriasIniciadas="516" Nombre="Lic. Alejandro " Apellido="Barranco Flores" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="337" IDPersonalOrganismoAuditoriasIniciadas="1451" Nombre="Lic. Alejandro " Apellido="Barranco Flores" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="113" IDPersonalOrganismoAuditoriasIniciadas="422" Nombre="Ing. Alberto " Apellido="Franco Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="347" IDPersonalOrganismoAuditoriasIniciadas="1501" Nombre="Ing. Alberto " Apellido="Franco Ramírez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="10" IDPersonalOrganismoAuditoriasIniciadas="3" Nombre="Ing. Fernando " Apellido="Miranda Torres" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="77" IDPersonalOrganismoAuditoriasIniciadas="281" Nombre="Ing. Fernando " Apellido="Miranda Torres" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="265" IDPersonalOrganismoAuditoriasIniciadas="1020" Nombre="Ing. Fernando " Apellido="Miranda Torres" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="12" IDPersonalOrganismoAuditoriasIniciadas="26" Nombre="Lic. Melchor " Apellido="Jiménez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="162" IDPersonalOrganismoAuditoriasIniciadas="616" Nombre="Lic. Melchor " Apellido="Jiménez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="255" IDPersonalOrganismoAuditoriasIniciadas="1033" Nombre="Lic. Melchor " Apellido="Jiménez Cruz" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="310" IDPersonalOrganismoAuditoriasIniciadas="1296" Nombre="C. Zacarías" Apellido=" Hernández Mendoza" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="136" IDPersonalOrganismoAuditoriasIniciadas="517" Nombre="Profr. Austreberto " Apellido="Carpio Alarcón" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="233" IDPersonalOrganismoAuditoriasIniciadas="856" Nombre="Profr. Austreberto " Apellido="Carpio Alarcón" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="74" IDPersonalOrganismoAuditoriasIniciadas="274" Nombre="C. Juan " Apellido="Núñez Perea" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="993" Nombre="C. Juan " Apellido="Núñez Perea" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="83" IDPersonalOrganismoAuditoriasIniciadas="316" Nombre="Dr. Jaime " Apellido="Moreno Contreras" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="266" IDPersonalOrganismoAuditoriasIniciadas="1214" Nombre="Dr. Jaime " Apellido="Moreno Contreras" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="351" IDPersonalOrganismoAuditoriasIniciadas="1724" Nombre="Ing. Israel " Apellido="Martínez Rivera" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="6" IDPersonalOrganismoAuditoriasIniciadas="15" Nombre="Dr. Arturo " Apellido="Ramírez Damián" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="319" IDPersonalOrganismoAuditoriasIniciadas="1332" Nombre="Dr. Arturo " Apellido="Ramírez Damián" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="352" IDPersonalOrganismoAuditoriasIniciadas="1734" Nombre="Lic. Gabino " Apellido="Hernández Vite" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="8" IDPersonalOrganismoAuditoriasIniciadas="20" Nombre="C. Miguel Ángel " Apellido="López Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="164" IDPersonalOrganismoAuditoriasIniciadas="618" Nombre="C. Miguel Ángel " Apellido="López Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="341" IDPersonalOrganismoAuditoriasIniciadas="1471" Nombre="C. Miguel Ángel " Apellido="López Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="14" IDPersonalOrganismoAuditoriasIniciadas="28" Nombre="Lic. Raymundo " Apellido="Arriaga Cea" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="116" IDPersonalOrganismoAuditoriasIniciadas="436" Nombre="Arq. Julio César " Apellido="Soto Márquez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="305" IDPersonalOrganismoAuditoriasIniciadas="1258" Nombre="Arq. Julio César " Apellido="Soto Márquez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="36" IDPersonalOrganismoAuditoriasIniciadas="122" Nombre="Profr. Pedro " Apellido="Bustos Hinojosa" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="328" IDPersonalOrganismoAuditoriasIniciadas="1414" Nombre="Profr. Pedro " Apellido="Bustos Hinojosa" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="4" IDPersonalOrganismoAuditoriasIniciadas="25" Nombre="C. Baltazar " Apellido="Soni Guillermo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="257" IDPersonalOrganismoAuditoriasIniciadas="978" Nombre="C. Baltazar " Apellido="Soni Guillermo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="32" IDPersonalOrganismoAuditoriasIniciadas="101" Nombre="C. Perfecto " Apellido="Hernández Bautista" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="340" IDPersonalOrganismoAuditoriasIniciadas="1466" Nombre="C. Perfecto " Apellido="Hernández Bautista" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="104" IDPersonalOrganismoAuditoriasIniciadas="386" Nombre="Profr. Julio " Apellido="César Hernández Jiménez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="7" IDPersonalOrganismoAuditoriasIniciadas="2" Nombre="Lic.. Mariano " Apellido="Escorcia Gómez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="152" IDPersonalOrganismoAuditoriasIniciadas="577" Nombre="Lic.. Mariano " Apellido="Escorcia Gómez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="238" IDPersonalOrganismoAuditoriasIniciadas="887" Nombre="Profr. Rodolfo" Apellido="Soler Castillo" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="154" IDPersonalOrganismoAuditoriasIniciadas="590" Nombre="C. Genaro Antonio" Apellido=" González Guarneros" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="130" IDPersonalOrganismoAuditoriasIniciadas="497" Nombre="LIC. SERGIO" Apellido="ASHANE BULOS" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="132" IDPersonalOrganismoAuditoriasIniciadas="503" Nombre="LIC. MARCO ANTONIO" Apellido="GONZALEZ PEREZ" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="133" IDPersonalOrganismoAuditoriasIniciadas="506" Nombre="L. C. Irma Margarita " Apellido="Ramírez Ramírez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="189" IDPersonalOrganismoAuditoriasIniciadas="705" Nombre="L. C. Irma Margarita " Apellido="Ramírez Ramírez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="62" IDPersonalOrganismoAuditoriasIniciadas="242" Nombre="C. P. Jorge" Apellido="de la Cajiga Arellano" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="240" IDPersonalOrganismoAuditoriasIniciadas="911" Nombre="C. P. Jorge" Apellido="de la Cajiga Arellano" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="62" IDPersonalOrganismoAuditoriasIniciadas="243" Nombre="C.P. Luis" Apellido="Méndez Romero" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="63" IDPersonalOrganismoAuditoriasIniciadas="244" Nombre="Lic. Alberto" Apellido=" Meléndez Apodaca" Cargo="Secretario de Planeación, Desarrollo Regional y Metropolitano" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="63" IDPersonalOrganismoAuditoriasIniciadas="245" Nombre="L. A. E. Lourdes Magdalena" Apellido="Quiroz Olvera" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="63" IDPersonalOrganismoAuditoriasIniciadas="246" Nombre="L. C. Juan Martiniano" Apellido="Pérez Rodríguez" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="190" IDPersonalOrganismoAuditoriasIniciadas="697" Nombre="L. C. Juan Martiniano" Apellido="Pérez Rodríguez" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="65" IDPersonalOrganismoAuditoriasIniciadas="414" Nombre="Cap. y Lic. Alfredo" Apellido="Ahedo Mayorga" Cargo="Secretario de Seguridad Pública" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="65" IDPersonalOrganismoAuditoriasIniciadas="248" Nombre="Maestra Yadira" Apellido="Fernández Ortíz" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="191" IDPersonalOrganismoAuditoriasIniciadas="711" Nombre="Maestra Yadira" Apellido="Fernández Ortíz" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="64" IDPersonalOrganismoAuditoriasIniciadas="238" Nombre="Ing. José Pablo" Apellido=" Maauad Ponton" Cargo="Secretario de Desarrollo Económico" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="208" IDPersonalOrganismoAuditoriasIniciadas="764" Nombre="Ing. José Pablo" Apellido=" Maauad Ponton" Cargo="Secretario de Desarrollo Económico" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="249" IDPersonalOrganismoAuditoriasIniciadas="946" Nombre="Lic. José Alberto " Apellido="Narváez Gómez" Cargo="Secretario de Desarrollo Agropecuario" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="88" IDPersonalOrganismoAuditoriasIniciadas="337" Nombre="M. G. P. Jesus" Apellido="Romero Quintanar" Cargo="Secretario de Obras Públicas y Ordenamiento Territorial" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="133" IDPersonalOrganismoAuditoriasIniciadas="507" Nombre="LIC. ALDO " Apellido="ARAUJO MARTÍNEZ" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="189" IDPersonalOrganismoAuditoriasIniciadas="706" Nombre="LIC. ALDO " Apellido="ARAUJO MARTÍNEZ" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="88" IDPersonalOrganismoAuditoriasIniciadas="338" Nombre="L. C. Lised " Apellido="Pontaza Peralta" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="188" IDPersonalOrganismoAuditoriasIniciadas="703" Nombre="L. C. Lised " Apellido="Pontaza Peralta" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="2" IDPersonalOrganismoAuditoriasIniciadas="1" Nombre="Lic. Selene " Apellido="Peña Ávila" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="168" IDPersonalOrganismoAuditoriasIniciadas="641" Nombre="Lic. Selene " Apellido="Peña Ávila" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="350" IDPersonalOrganismoAuditoriasIniciadas="1712" Nombre="Lic. Selene " Apellido="Peña Ávila" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="16" IDPersonalOrganismoAuditoriasIniciadas="36" Nombre="Profr. Joel " Apellido="González Gómez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="293" IDPersonalOrganismoAuditoriasIniciadas="1163" Nombre="Profr. Joel " Apellido="González Gómez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="102" IDPersonalOrganismoAuditoriasIniciadas="374" Nombre="Lic. Jaime Jacobo " Apellido="Allende González" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="264" IDPersonalOrganismoAuditoriasIniciadas="1014" Nombre="Lic. Jaime Jacobo " Apellido="Allende González" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="26" IDPersonalOrganismoAuditoriasIniciadas="73" Nombre="C. P. Adolfo " Apellido="Ochoa Chávez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="215" IDPersonalOrganismoAuditoriasIniciadas="787" Nombre="C. P. Adolfo " Apellido="Ochoa Chávez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="231" IDPersonalOrganismoAuditoriasIniciadas="842" Nombre="Profra. Isabel Modesta " Apellido="Negrete Sánchez" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="43" IDPersonalOrganismoAuditoriasIniciadas="163" Nombre="Lic. René" Apellido="González Estrada" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="248" IDPersonalOrganismoAuditoriasIniciadas="944" Nombre="Lic. René" Apellido="González Estrada" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="73" IDPersonalOrganismoAuditoriasIniciadas="272" Nombre="C. P. Patricio Ernesto" Apellido="Straffon Martín del Campo" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="186" IDPersonalOrganismoAuditoriasIniciadas="693" Nombre="C. P. Patricio Ernesto" Apellido="Straffon Martín del Campo" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="248" IDPersonalOrganismoAuditoriasIniciadas="943" Nombre="DIP. JOSÉ ERNESTO" Apellido="GIL ELORDUY" Cargo="Presidente de la Junta de Gobierno del Congreso del Estado Libre y Soberano de Hidalgo" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="43" IDPersonalOrganismoAuditoriasIniciadas="161" Nombre="C. P. Lucio Raúl" Apellido="Baños Soto" Cargo="Director General de Servicios Administrativos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="248" IDPersonalOrganismoAuditoriasIniciadas="945" Nombre="C. P. Lucio Raúl" Apellido="Baños Soto" Cargo="Director General de Servicios Administrativos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="254" IDPersonalOrganismoAuditoriasIniciadas="973" Nombre="Ing. Rafael" Apellido="Martínez Rojo" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="250" IDPersonalOrganismoAuditoriasIniciadas="948" Nombre="L. C. C. Pablo " Apellido=" Pérez Martínez" Cargo="Subsecretario de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="294" IDPersonalOrganismoAuditoriasIniciadas="1169" Nombre="M. en G. P. A. Alma Irays" Apellido="Ramírez Vega" Cargo="Directora Ejecutiva" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="155" IDPersonalOrganismoAuditoriasIniciadas="594" Nombre="Lic. María Magdalena" Apellido="Espinosa Hernández" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="353" IDPersonalOrganismoAuditoriasIniciadas="1747" Nombre="Lic. María Magdalena" Apellido="Espinosa Hernández" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="107" IDPersonalOrganismoAuditoriasIniciadas="400" Nombre="Ing. Daniel " Apellido="Barrera Martínez" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="284" IDPersonalOrganismoAuditoriasIniciadas="1114" Nombre="L. A. Jorge Alberto" Apellido="Ruiz Navarro" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="119" IDPersonalOrganismoAuditoriasIniciadas="447" Nombre="ARQ. JUAN MARTÍN" Apellido="HABIB NICOLÁS" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="146" IDPersonalOrganismoAuditoriasIniciadas="553" Nombre="MTRO. JOSÉ ALONSO " Apellido="HUERTA CRUZ" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="198" IDPersonalOrganismoAuditoriasIniciadas="731" Nombre="Lic. Jorge Eduardo " Apellido="Daniel Escamilla" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="278" IDPersonalOrganismoAuditoriasIniciadas="1097" Nombre="LIC. MARTÍN" Apellido="ISLAS FUENTES" Cargo="Consejero Presidente" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="197" IDPersonalOrganismoAuditoriasIniciadas="728" Nombre="Mtro. Pablo" Apellido="Moreno Calva" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="178" IDPersonalOrganismoAuditoriasIniciadas="662" Nombre=" M. G. P. Ricardo " Apellido="Ludlow Reverter" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="227" IDPersonalOrganismoAuditoriasIniciadas="833" Nombre=" M. G. P. Ricardo " Apellido="Ludlow Reverter" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="167" IDPersonalOrganismoAuditoriasIniciadas="635" Nombre="Lic. Leticia " Apellido="Santos Salcedo" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="323" IDPersonalOrganismoAuditoriasIniciadas="1366" Nombre="Lic. Leticia " Apellido="Santos Salcedo" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="46" IDPersonalOrganismoAuditoriasIniciadas="170" Nombre="Lic. Mario Ernesto" Apellido="Pfeiffer Islas" Cargo="Consejero Presidente" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="316" IDPersonalOrganismoAuditoriasIniciadas="1315" Nombre="Profr. Natalio" Apellido="Daniel Cano" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="143" IDPersonalOrganismoAuditoriasIniciadas="545" Nombre="Mtra. María de Lourdes " Apellido="Camacho González" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="91" IDPersonalOrganismoAuditoriasIniciadas="467" Nombre="C.  P.  Oscar" Apellido="Labra  Braña" Cargo="Secretario Técnico de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="158" IDPersonalOrganismoAuditoriasIniciadas="606" Nombre="L. A. Juan" Apellido="Butrón García" Cargo="Encargado de la Dirección General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="193" IDPersonalOrganismoAuditoriasIniciadas="716" Nombre="L. A. Juan" Apellido="Butrón García" Cargo="Encargado de la Dirección General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="151" IDPersonalOrganismoAuditoriasIniciadas="576" Nombre="Ing. María Angélica" Apellido="Bravo Cadena" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="277" IDPersonalOrganismoAuditoriasIniciadas="1091" Nombre="Ing. María Angélica" Apellido="Bravo Cadena" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="94" IDPersonalOrganismoAuditoriasIniciadas="343" Nombre="Mtro. José Antonio" Apellido="Zamora Guido" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="268" IDPersonalOrganismoAuditoriasIniciadas="1060" Nombre="Mtro. José Antonio" Apellido="Zamora Guido" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="142" IDPersonalOrganismoAuditoriasIniciadas="543" Nombre="Lic. María Oralia" Apellido="Vega Ortíz" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="79" IDPersonalOrganismoAuditoriasIniciadas="290" Nombre="Lic. Sergio" Apellido="Islas Olvera" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="177" IDPersonalOrganismoAuditoriasIniciadas="667" Nombre="LIC. ALAIN " Apellido="SOUVERBILLE GARCÍA" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="85" IDPersonalOrganismoAuditoriasIniciadas="326" Nombre="Mtro. Humberto Augusto" Apellido="Veras Godoy" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="304" IDPersonalOrganismoAuditoriasIniciadas="1252" Nombre="Mtro. Humberto Augusto" Apellido="Veras Godoy" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="206" IDPersonalOrganismoAuditoriasIniciadas="758" Nombre="Ing. Juan de Dios" Apellido="Nochebuena Hernández" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="171" IDPersonalOrganismoAuditoriasIniciadas="648" Nombre="Mtro. Sergio Alejandro" Apellido="Arteaga Carreño" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="87" IDPersonalOrganismoAuditoriasIniciadas="332" Nombre="Dr. Luis" Apellido="Téllez Reyes" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="159" IDPersonalOrganismoAuditoriasIniciadas="608" Nombre="M. en C. Leodan" Apellido="Portes Vargas" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="89" IDPersonalOrganismoAuditoriasIniciadas="356" Nombre="Lic. Marco Antonio" Apellido="Ocadiz Cruz" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="334" IDPersonalOrganismoAuditoriasIniciadas="1435" Nombre="Lic. Marco Antonio" Apellido="Ocadiz Cruz" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="106" IDPersonalOrganismoAuditoriasIniciadas="397" Nombre="L. E. Ana Oliva" Apellido="Enciso Vargas" Cargo="Directora General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="274" IDPersonalOrganismoAuditoriasIniciadas="1081" Nombre="L. E. Ana Oliva" Apellido="Enciso Vargas" Cargo="Directora General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="26" IDPersonalOrganismoAuditoriasIniciadas="74" Nombre="C.P. LUIS ENRIQUE" Apellido="FALCON TAPIA" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="26" IDPersonalOrganismoAuditoriasIniciadas="75" Nombre=" Ing. Agustin " Apellido="Trejo Camacho" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="26" IDPersonalOrganismoAuditoriasIniciadas="76" Nombre="Ing. Julian" Apellido="Cruz Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="215" IDPersonalOrganismoAuditoriasIniciadas="788" Nombre="Ing. Julian" Apellido="Cruz Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="214" IDPersonalOrganismoAuditoriasIniciadas="846" Nombre="Ing. Gabriel Nery " Apellido="Hernández Valdez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="20" IDPersonalOrganismoAuditoriasIniciadas="50" Nombre="Tec. Isidro" Apellido="Bustos Oaxaca" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="20" IDPersonalOrganismoAuditoriasIniciadas="51" Nombre="Arq. Rodrigo" Apellido="Hernández Franco" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="214" IDPersonalOrganismoAuditoriasIniciadas="848" Nombre="Arq. Rodrigo" Apellido="Hernández Franco" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="61" IDPersonalOrganismoAuditoriasIniciadas="235" Nombre="Lic. Juan Manuel" Apellido="Menes Orea" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="61" IDPersonalOrganismoAuditoriasIniciadas="236" Nombre="L.C. Javier" Apellido="Guzmán Ramírez" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="88" IDPersonalOrganismoAuditoriasIniciadas="339" Nombre="Lic. Rubén" Apellido="Rodríguez Romero" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="188" IDPersonalOrganismoAuditoriasIniciadas="704" Nombre="Lic. Rubén" Apellido="Rodríguez Romero" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="28" IDPersonalOrganismoAuditoriasIniciadas="84" Nombre="C. Maria Maricela " Apellido="Vargas Fuentes" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="86" IDPersonalOrganismoAuditoriasIniciadas="331" Nombre="C. P. Nayra" Apellido="Ruiz Laguna" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="202" IDPersonalOrganismoAuditoriasIniciadas="744" Nombre="C. P. Nayra" Apellido="Ruiz Laguna" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="198" IDPersonalOrganismoAuditoriasIniciadas="732" Nombre="Lic. Nathalie" Apellido="Fernández Escamilla" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="332" IDPersonalOrganismoAuditoriasIniciadas="1432" Nombre="Lic. Gilberto" Apellido="Medina González" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="85" IDPersonalOrganismoAuditoriasIniciadas="328" Nombre="Mtra. Laura Elena" Apellido="Islas Márquez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="304" IDPersonalOrganismoAuditoriasIniciadas="1255" Nombre="Mtra. Laura Elena" Apellido="Islas Márquez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="44" IDPersonalOrganismoAuditoriasIniciadas="167" Nombre="Lic. Norman Enrique" Apellido="Rabling Conde" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="159" IDPersonalOrganismoAuditoriasIniciadas="609" Nombre="L. A. E. Jacinto" Apellido="Porras Hernández" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="245" IDPersonalOrganismoAuditoriasIniciadas="929" Nombre="L. A. E. Jacinto" Apellido="Porras Hernández" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="154" IDPersonalOrganismoAuditoriasIniciadas="591" Nombre="Ing. Roberto " Apellido="Ortiz López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="218" IDPersonalOrganismoAuditoriasIniciadas="1442" Nombre="Ing. Roberto " Apellido="Ortiz López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="5" IDPersonalOrganismoAuditoriasIniciadas="1575" Nombre="Ing. Roberto " Apellido="Ortiz López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="154" IDPersonalOrganismoAuditoriasIniciadas="592" Nombre="Arq. Ana Maria " Apellido="Guzman Lopez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="218" IDPersonalOrganismoAuditoriasIniciadas="1443" Nombre="Arq. Ana Maria " Apellido="Guzman Lopez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="5" IDPersonalOrganismoAuditoriasIniciadas="1583" Nombre="Arq. Ana Maria " Apellido="Guzman Lopez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="82" IDPersonalOrganismoAuditoriasIniciadas="304" Nombre="C.P. Elias" Apellido="Avila Ruiz" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="82" IDPersonalOrganismoAuditoriasIniciadas="305" Nombre="Ing. Armando" Apellido="Salazar Baltazar" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="219" IDPersonalOrganismoAuditoriasIniciadas="900" Nombre="Ing. Armando" Apellido="Salazar Baltazar" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="84" IDPersonalOrganismoAuditoriasIniciadas="321" Nombre="C. Jorge " Apellido="Onofre López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="84" IDPersonalOrganismoAuditoriasIniciadas="322" Nombre="Ing. Luis Enrique" Apellido="Garcia Delgado" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="223" IDPersonalOrganismoAuditoriasIniciadas="1373" Nombre="Ing. Luis Enrique" Apellido="Garcia Delgado" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="29" IDPersonalOrganismoAuditoriasIniciadas="79" Nombre="C. Daniel " Apellido="Guerrero Trejo" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="234" IDPersonalOrganismoAuditoriasIniciadas="1323" Nombre="C. Daniel " Apellido="Guerrero Trejo" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="29" IDPersonalOrganismoAuditoriasIniciadas="80" Nombre="C. Miguel Angel " Apellido="Sanchez Olguin" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="28" IDPersonalOrganismoAuditoriasIniciadas="85" Nombre="C. Gilberto " Apellido="Martinez Aguilar" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="239" IDPersonalOrganismoAuditoriasIniciadas="1699" Nombre="C. Gilberto " Apellido="Martinez Aguilar" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="78" IDPersonalOrganismoAuditoriasIniciadas="287" Nombre="T. C. Mateo Juan" Apellido="Ramírez Hernández" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="78" IDPersonalOrganismoAuditoriasIniciadas="288" Nombre="Arq. Miguel Angel " Apellido="López Lozano" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="256" IDPersonalOrganismoAuditoriasIniciadas="1129" Nombre="Arq. Miguel Angel " Apellido="López Lozano" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="114" IDPersonalOrganismoAuditoriasIniciadas="430" Nombre="Lic. Norma " Apellido="Acevedo Garcia" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="137" IDPersonalOrganismoAuditoriasIniciadas="519" Nombre="L. A. E. Miguel" Apellido="Montiel Guzman" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="137" IDPersonalOrganismoAuditoriasIniciadas="520" Nombre="Arq. Hector" Apellido="Mendoza Alvarez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="16" IDPersonalOrganismoAuditoriasIniciadas="37" Nombre="Lic. Ignacio" Apellido="Tavera Mociños" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="293" IDPersonalOrganismoAuditoriasIniciadas="1164" Nombre="Lic. Ignacio" Apellido="Tavera Mociños" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="41" IDPersonalOrganismoAuditoriasIniciadas="149" Nombre="T. C. Alejandro" Apellido="Bautista Ramírez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="299" IDPersonalOrganismoAuditoriasIniciadas="1201" Nombre="T. C. Alejandro" Apellido="Bautista Ramírez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="41" IDPersonalOrganismoAuditoriasIniciadas="150" Nombre="Ing. Francisco" Apellido="González Alvarez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="299" IDPersonalOrganismoAuditoriasIniciadas="1203" Nombre="Ing. Francisco" Apellido="González Alvarez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="7" IDPersonalOrganismoAuditoriasIniciadas="5" Nombre="L. A. E David Israel " Apellido="Muñoz Pineda" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="345" IDPersonalOrganismoAuditoriasIniciadas="1492" Nombre="L. A. E David Israel " Apellido="Muñoz Pineda" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="7" IDPersonalOrganismoAuditoriasIniciadas="6" Nombre="ING. Sinuhe Giovanni " Apellido="Hernández Avante" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="10" IDPersonalOrganismoAuditoriasIniciadas="7" Nombre="C. P. Dulce Maria " Apellido="Valdivieso Vega" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="77" IDPersonalOrganismoAuditoriasIniciadas="282" Nombre="C. P. Dulce Maria " Apellido="Valdivieso Vega" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="265" IDPersonalOrganismoAuditoriasIniciadas="1026" Nombre="C. P. Dulce Maria " Apellido="Valdivieso Vega" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="10" IDPersonalOrganismoAuditoriasIniciadas="8" Nombre="Ing. Alberto" Apellido="Arteaga Garcia" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="2" IDPersonalOrganismoAuditoriasIniciadas="4" Nombre="Lic. Regina" Apellido="Meneses Zarco" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="168" IDPersonalOrganismoAuditoriasIniciadas="642" Nombre="Lic. Regina" Apellido="Meneses Zarco" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="168" IDPersonalOrganismoAuditoriasIniciadas="643" Nombre="Lic. Alejandro" Apellido="Aguirre Bustos" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="350" IDPersonalOrganismoAuditoriasIniciadas="1713" Nombre="Lic. Alejandro" Apellido="Aguirre Bustos" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="338" IDPersonalOrganismoAuditoriasIniciadas="1458" Nombre="C.P Berenice" Apellido="San Martin San martin" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="24" IDPersonalOrganismoAuditoriasIniciadas="64" Nombre="Arq. Alejandro Javier" Apellido="Rivera Guerrero" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="24" IDPersonalOrganismoAuditoriasIniciadas="65" Nombre="Profr. Ricardo " Apellido="Granados Olguin" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="24" IDPersonalOrganismoAuditoriasIniciadas="66" Nombre="C. P. Berenice " Apellido=" San Martin San Martin" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="37" IDPersonalOrganismoAuditoriasIniciadas="482" Nombre="Ing. Liliana " Apellido="Muñoz Aguilar" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="307" IDPersonalOrganismoAuditoriasIniciadas="1277" Nombre="Ing. Liliana " Apellido="Muñoz Aguilar" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="157" IDPersonalOrganismoAuditoriasIniciadas="603" Nombre="Arq. Luis Alberto" Apellido="Zamora Moctezuma" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="288" IDPersonalOrganismoAuditoriasIniciadas="1145" Nombre="Arq. Luis Alberto" Apellido="Zamora Moctezuma" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="157" IDPersonalOrganismoAuditoriasIniciadas="604" Nombre="Lic. Rosalba " Apellido="Suarez Uribe" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="15" IDPersonalOrganismoAuditoriasIniciadas="33" Nombre="C. Hugo" Apellido="Elizondo Martinez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="15" IDPersonalOrganismoAuditoriasIniciadas="34" Nombre="Lic. Oron" Apellido="Cortez Aviles" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="346" IDPersonalOrganismoAuditoriasIniciadas="1658" Nombre="T. C. Jose Ricardo " Apellido="Espinoza Fernandez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="3" IDPersonalOrganismoAuditoriasIniciadas="12" Nombre="L. C. Yuridia " Apellido="Huayatla Jimenez" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="160" IDPersonalOrganismoAuditoriasIniciadas="612" Nombre="L. C. Yuridia " Apellido="Huayatla Jimenez" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="3" IDPersonalOrganismoAuditoriasIniciadas="13" Nombre="L. C. Miguel Angel" Apellido="Pérez Nava" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="160" IDPersonalOrganismoAuditoriasIniciadas="613" Nombre="L. C. Miguel Angel" Apellido="Pérez Nava" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="263" IDPersonalOrganismoAuditoriasIniciadas="1009" Nombre="L. C. Miguel Angel" Apellido="Pérez Nava" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="3" IDPersonalOrganismoAuditoriasIniciadas="14" Nombre="C. Neri Alejandro " Apellido="Padilla Islas" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="160" IDPersonalOrganismoAuditoriasIniciadas="614" Nombre="C. Neri Alejandro " Apellido="Padilla Islas" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="16" IDPersonalOrganismoAuditoriasIniciadas="38" Nombre="Lic. Citlalli" Apellido="Pérez Reyes" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="293" IDPersonalOrganismoAuditoriasIniciadas="1165" Nombre="Lic. Citlalli" Apellido="Pérez Reyes" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="16" IDPersonalOrganismoAuditoriasIniciadas="39" Nombre="Ing. David " Apellido="Porras Gomez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="293" IDPersonalOrganismoAuditoriasIniciadas="1166" Nombre="Ing. David " Apellido="Porras Gomez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="41" IDPersonalOrganismoAuditoriasIniciadas="151" Nombre="L. A. Esperanza " Apellido="López Hernández" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="299" IDPersonalOrganismoAuditoriasIniciadas="1202" Nombre="L. A. Esperanza " Apellido="López Hernández" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="81" IDPersonalOrganismoAuditoriasIniciadas="297" Nombre="Profa. Josefina " Apellido="Fores Guzman" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="81" IDPersonalOrganismoAuditoriasIniciadas="315" Nombre="Prof. Jose " Apellido="Ramirez Flores" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="89" Nombre="C. Antonio" Apellido="Flores zavala" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="90" Nombre="Lic. Javier" Apellido="Santillan Melo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="97" Nombre="Lic. Osvaldo" Apellido="Vera Cabrera" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="103" IDPersonalOrganismoAuditoriasIniciadas="376" Nombre="C. P. Gyllmmard" Apellido="Hernández Corona" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="103" IDPersonalOrganismoAuditoriasIniciadas="377" Nombre="C. Francisco Javier" Apellido="Hernández García" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="59" IDPersonalOrganismoAuditoriasIniciadas="208" Nombre="C. P. Mario" Apellido="Pacheco Rodriguez" Cargo="Secretario de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="252" IDPersonalOrganismoAuditoriasIniciadas="966" Nombre="C. P. Mario" Apellido="Pacheco Rodriguez" Cargo="Secretario de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="55" IDPersonalOrganismoAuditoriasIniciadas="195" Nombre="Lic. Judith Sonia" Apellido="López Olguin" Cargo="Secretario de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="55" IDPersonalOrganismoAuditoriasIniciadas="196" Nombre="Ing. Marco Antonio" Apellido="Martiínez Quintanilla" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="232" IDPersonalOrganismoAuditoriasIniciadas="852" Nombre="Profr. Carlos " Apellido="Martínez Olguin" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="895" Nombre="Profr. Carlos " Apellido="Martínez Olguin" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="896" Nombre="C. Mario Francisco" Apellido="Marquez Linares" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="23" IDPersonalOrganismoAuditoriasIniciadas="60" Nombre="Ing. Ignacio" Apellido="Avila Lara" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="312" IDPersonalOrganismoAuditoriasIniciadas="1304" Nombre="Ing. Ignacio" Apellido="Avila Lara" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="23" IDPersonalOrganismoAuditoriasIniciadas="61" Nombre="Ing. Jorge Antonio" Apellido="Rendon Becerra" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="23" IDPersonalOrganismoAuditoriasIniciadas="62" Nombre="C. P. Juan Rufino" Apellido="Sanchez Sanchez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="212" IDPersonalOrganismoAuditoriasIniciadas="777" Nombre="Ing. Silvestre" Apellido="Curiel Hernández" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="99" IDPersonalOrganismoAuditoriasIniciadas="362" Nombre="L. C. Nadia " Apellido="Duran Pérez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="99" IDPersonalOrganismoAuditoriasIniciadas="363" Nombre="C. Jesus" Apellido="Tellez Asiain" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="99" IDPersonalOrganismoAuditoriasIniciadas="364" Nombre="L. C. Gabriel  " Apellido="Ballesteros Flores" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="40" IDPersonalOrganismoAuditoriasIniciadas="146" Nombre="C. J. Luis " Apellido="Sanchez Becerra" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="40" IDPersonalOrganismoAuditoriasIniciadas="147" Nombre="C. Oscar" Apellido="Zamora Hernández" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="20" IDPersonalOrganismoAuditoriasIniciadas="53" Nombre="C. P. Narcizo " Apellido="Reyna Mera" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="310" IDPersonalOrganismoAuditoriasIniciadas="1298" Nombre="L. A. Javier" Apellido="Pliego Munguia" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="310" IDPersonalOrganismoAuditoriasIniciadas="1299" Nombre="Ing. Osvaldo " Apellido="Rodriguez Mendoza" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="129" IDPersonalOrganismoAuditoriasIniciadas="491" Nombre="L. A. Sergio " Apellido="Mera Sánchez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="310" IDPersonalOrganismoAuditoriasIniciadas="1297" Nombre="L. A. Sergio " Apellido="Mera Sánchez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="306" IDPersonalOrganismoAuditoriasIniciadas="1271" Nombre="L. C. Olga Lidia " Apellido="Enciso Islas" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="306" IDPersonalOrganismoAuditoriasIniciadas="1273" Nombre="Arq. Eliuth " Apellido="Zambrano Bautista" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="128" IDPersonalOrganismoAuditoriasIniciadas="490" Nombre="Lic. Angelica " Apellido="Garcia Orozco" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="306" IDPersonalOrganismoAuditoriasIniciadas="1272" Nombre="Lic. Angelica " Apellido="Garcia Orozco" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="156" IDPersonalOrganismoAuditoriasIniciadas="599" Nombre="Ing. Roberto" Apellido="Bautista Reyez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="156" IDPersonalOrganismoAuditoriasIniciadas="600" Nombre="Ing. Agustin  " Apellido="Rosales Ferrer" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="351" IDPersonalOrganismoAuditoriasIniciadas="1726" Nombre="Ing. Agustin  " Apellido="Rosales Ferrer" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="156" IDPersonalOrganismoAuditoriasIniciadas="601" Nombre="Profr. Israel " Apellido="López Romero" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="8" IDPersonalOrganismoAuditoriasIniciadas="21" Nombre="Lic. Virginia" Apellido="Jiménez Ramírez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="164" IDPersonalOrganismoAuditoriasIniciadas="619" Nombre="Lic. Virginia" Apellido="Jiménez Ramírez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="341" IDPersonalOrganismoAuditoriasIniciadas="1472" Nombre="Lic. Virginia" Apellido="Jiménez Ramírez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="8" IDPersonalOrganismoAuditoriasIniciadas="22" Nombre="Arq. Victor Francisco" Apellido="Reynoso Fermoso" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="164" IDPersonalOrganismoAuditoriasIniciadas="620" Nombre="Arq. Victor Francisco" Apellido="Reynoso Fermoso" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="8" IDPersonalOrganismoAuditoriasIniciadas="23" Nombre="C. P. Lwilly Andrey " Apellido="Hernández Maturano" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="164" IDPersonalOrganismoAuditoriasIniciadas="621" Nombre="C. P. Lwilly Andrey " Apellido="Hernández Maturano" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="14" IDPersonalOrganismoAuditoriasIniciadas="29" Nombre="C. P. José Ma. " Apellido="Ixta Alvarez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="14" IDPersonalOrganismoAuditoriasIniciadas="30" Nombre="Ing. Misael " Apellido="Larragoiti Velez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="14" IDPersonalOrganismoAuditoriasIniciadas="31" Nombre="C. José Encarnacion " Apellido="Ruiz Ramos" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="32" IDPersonalOrganismoAuditoriasIniciadas="103" Nombre="Profr. Flavio " Apellido="Cabrera Lara" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="32" IDPersonalOrganismoAuditoriasIniciadas="107" Nombre="Ing. Armando" Apellido="Bautista Aguado" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="296" IDPersonalOrganismoAuditoriasIniciadas="1185" Nombre="L. C.  Xavier" Apellido="López Jiménez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="28" IDPersonalOrganismoAuditoriasIniciadas="91" Nombre="C. Emmanuel " Apellido="Islas Orgaz" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="78" IDPersonalOrganismoAuditoriasIniciadas="289" Nombre="Lic. Arely Yadira" Apellido="Hernández Dias" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="105" IDPersonalOrganismoAuditoriasIniciadas="391" Nombre="C. Jose Concepcion " Apellido="Pérez Përez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="994" Nombre="Lic. Margarita" Apellido="Rodriguez Vera" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="21" IDPersonalOrganismoAuditoriasIniciadas="56" Nombre="Lic. Anaid Selene" Apellido="Dominguez Trejo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="21" IDPersonalOrganismoAuditoriasIniciadas="57" Nombre="Lic. Jesus Miguel " Apellido="de la Cruzn Trejo" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="138" IDPersonalOrganismoAuditoriasIniciadas="523" Nombre="C. Juan Carlos" Apellido="Garcia Angeles" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="98" IDPersonalOrganismoAuditoriasIniciadas="359" Nombre="Lic. Benigno" Apellido="Prieto Peláez" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="207" IDPersonalOrganismoAuditoriasIniciadas="761" Nombre="Lic. Benigno" Apellido="Prieto Peláez" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="70" IDPersonalOrganismoAuditoriasIniciadas="264" Nombre="Mtro. Luis Andrés" Apellido="Domínguez Alejandro" Cargo="Rector" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="97" IDPersonalOrganismoAuditoriasIniciadas="353" Nombre="Mtro. Jaime" Apellido="Costeira Cruz" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="26" IDPersonalOrganismoAuditoriasIniciadas="77" Nombre="Lic. Yocelin " Apellido="Garcia Barron" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="257" IDPersonalOrganismoAuditoriasIniciadas="979" Nombre="C. P. Jose Luis " Apellido="Martínez Antonio" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="313" IDPersonalOrganismoAuditoriasIniciadas="1309" Nombre="Lic. Elda Roxana" Apellido="Cadena Trejo" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="107" IDPersonalOrganismoAuditoriasIniciadas="403" Nombre="Lic. Sandra Luz" Apellido="Bravo Hernández" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="106" IDPersonalOrganismoAuditoriasIniciadas="398" Nombre="Profr. Roberto" Apellido="Pedraza Martínez" Cargo="Secretario de Turismo y Cultura" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="274" IDPersonalOrganismoAuditoriasIniciadas="1082" Nombre="Profr. Roberto" Apellido="Pedraza Martínez" Cargo="Secretario de Turismo y Cultura" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="67" IDPersonalOrganismoAuditoriasIniciadas="256" Nombre="C. Saul Marcelino" Apellido="Hernández Ramírez" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="210" IDPersonalOrganismoAuditoriasIniciadas="770" Nombre="Dr. Alejandro" Apellido="Moreno Ramos" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="273" IDPersonalOrganismoAuditoriasIniciadas="1079" Nombre="Lic. Esteban " Apellido="Angeles Cerón" Cargo="Presidente " EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="87" IDPersonalOrganismoAuditoriasIniciadas="334" Nombre="L. C. Álvaro" Apellido="Gutiérrez Pérez" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="95" IDPersonalOrganismoAuditoriasIniciadas="346" Nombre="Lic. Isidro " Apellido="Acosta Tavera" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="82" IDPersonalOrganismoAuditoriasIniciadas="306" Nombre="Ing. Luis Eduardo" Apellido="Gonzalez Ortiz" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="21" IDPersonalOrganismoAuditoriasIniciadas="55" Nombre="Lic. Selene" Apellido="Dominguez Trejo" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="64" IDPersonalOrganismoAuditoriasIniciadas="239" Nombre="L. C. Juan Carlos" Apellido="Badillo Trejo" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="73" IDPersonalOrganismoAuditoriasIniciadas="273" Nombre="C. P. María Amparo" Apellido="González Jimate" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="186" IDPersonalOrganismoAuditoriasIniciadas="695" Nombre="C. P. María Amparo" Apellido="González Jimate" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="42" IDPersonalOrganismoAuditoriasIniciadas="153" Nombre="Ing. Angelica" Apellido="Martínez Arias" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="221" IDPersonalOrganismoAuditoriasIniciadas="1230" Nombre="Ing. Angelica" Apellido="Martínez Arias" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="29" IDPersonalOrganismoAuditoriasIniciadas="81" Nombre="C. Doroteo " Apellido="Benitez Falcon" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="64" IDPersonalOrganismoAuditoriasIniciadas="240" Nombre="L. C. Dalila" Apellido="Tolentino Ramírez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="25" IDPersonalOrganismoAuditoriasIniciadas="68" Nombre="C. P. Damian" Apellido="Cortes de la Cruz" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="25" IDPersonalOrganismoAuditoriasIniciadas="70" Nombre="Arq. Juan Carlos" Apellido="Nochebuena Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="311" IDPersonalOrganismoAuditoriasIniciadas="1386" Nombre="Arq. Juan Carlos" Apellido="Nochebuena Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="19" IDPersonalOrganismoAuditoriasIniciadas="47" Nombre="Profr. Moises " Apellido="Penca Demha" Cargo="Secretario de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="19" IDPersonalOrganismoAuditoriasIniciadas="48" Nombre="Ing. Fernando" Apellido="Rangel Angeles" Cargo="Secretario de Obras Públicas y Ordenamiento Territorial" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="229" IDPersonalOrganismoAuditoriasIniciadas="838" Nombre="Ing. Fernando" Apellido="Rangel Angeles" Cargo="Secretario de Obras Públicas y Ordenamiento Territorial" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="153" IDPersonalOrganismoAuditoriasIniciadas="582" Nombre="Profr. Mariano" Apellido="Velez Caceres" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="17" IDPersonalOrganismoAuditoriasIniciadas="41" Nombre="C. Santos" Apellido="Gonzalez Santamaria" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="17" IDPersonalOrganismoAuditoriasIniciadas="43" Nombre="Lic. Marco Arturo" Apellido="Mendoza Maldonado" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="147" IDPersonalOrganismoAuditoriasIniciadas="557" Nombre="C. Israel" Apellido="Benitez Rubio" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="147" IDPersonalOrganismoAuditoriasIniciadas="558" Nombre="Lic. Raciel" Apellido="Lira Vizuet" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="344" IDPersonalOrganismoAuditoriasIniciadas="1490" Nombre="Lic. Raciel" Apellido="Lira Vizuet" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="38" IDPersonalOrganismoAuditoriasIniciadas="135" Nombre="Lic. Olivia" Apellido="Melo Montiel" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="329" IDPersonalOrganismoAuditoriasIniciadas="1421" Nombre="L. C. Juan Carlos " Apellido="Vizuet Trejo" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="65" IDPersonalOrganismoAuditoriasIniciadas="415" Nombre="Lic. Carlos" Apellido="Cravioto Luna" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="251" IDPersonalOrganismoAuditoriasIniciadas="952" Nombre="Lic. Agustín de Jesús" Apellido="Roldan Puerta" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="317" IDPersonalOrganismoAuditoriasIniciadas="1319" Nombre="Lic. Ana Perla" Apellido="Rodríguez Arroyo" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="209" IDPersonalOrganismoAuditoriasIniciadas="766" Nombre="Dr. Eduardo Javier" Apellido="García Alonso" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="249" IDPersonalOrganismoAuditoriasIniciadas="947" Nombre="L. A. Luis Horacio" Apellido="López Paredes" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="145" IDPersonalOrganismoAuditoriasIniciadas="551" Nombre="Lic. Andrés Ivanhoe " Apellido="Monterrubio Meza" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="313" IDPersonalOrganismoAuditoriasIniciadas="1307" Nombre="Lic. Andrés Ivanhoe " Apellido="Monterrubio Meza" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="281" IDPersonalOrganismoAuditoriasIniciadas="1106" Nombre="Lic. María Concepción" Apellido="Hernández Aragón" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="71" IDPersonalOrganismoAuditoriasIniciadas="266" Nombre="Dra. Ana María " Apellido="Tavarez Jiménez" Cargo="Encargada de la Dirección General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="134" IDPersonalOrganismoAuditoriasIniciadas="510" Nombre="Lic. Valentín" Apellido="Echavarría Almanza" Cargo="Secretario del Trabajo y Previsión Social" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="251" IDPersonalOrganismoAuditoriasIniciadas="951" Nombre="Lic. Valentín" Apellido="Echavarría Almanza" Cargo="Secretario del Trabajo y Previsión Social" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="100" IDPersonalOrganismoAuditoriasIniciadas="371" Nombre="C. Julia " Apellido="Canales Cubas" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="196" IDPersonalOrganismoAuditoriasIniciadas="726" Nombre="Arq. Ernesto" Apellido="Cadena Acosta" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="61" IDPersonalOrganismoAuditoriasIniciadas="237" Nombre="Lic. Aunard Agustín " Apellido="de la Rocha Waite" Cargo="Secretario de Finanzas y Administración" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="134" IDPersonalOrganismoAuditoriasIniciadas="511" Nombre="L. C. Pablo " Apellido="Pérez Velasco" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="251" IDPersonalOrganismoAuditoriasIniciadas="953" Nombre="L. C. Pablo " Apellido="Pérez Velasco" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="45" IDPersonalOrganismoAuditoriasIniciadas="169" Nombre="Dra. Rocío " Apellido="Ruiz de la Barrera" Cargo="Directora General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="28" IDPersonalOrganismoAuditoriasIniciadas="83" Nombre="C. Dalia " Apellido="Sánchez Olmos" Cargo="Representante del Municipio" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="30" IDPersonalOrganismoAuditoriasIniciadas="93" Nombre="L. E. Eusebio" Apellido="Nabor Jimenez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="342" IDPersonalOrganismoAuditoriasIniciadas="1477" Nombre="L. E. Eusebio" Apellido="Nabor Jimenez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="30" IDPersonalOrganismoAuditoriasIniciadas="94" Nombre="C. Hilario " Apellido="Mejia Mejia" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="30" IDPersonalOrganismoAuditoriasIniciadas="95" Nombre="C. Fernando " Apellido="Gómez Mendoza" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="30" IDPersonalOrganismoAuditoriasIniciadas="96" Nombre="L. C. Belen" Apellido="Hernández Gómez" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="342" IDPersonalOrganismoAuditoriasIniciadas="1478" Nombre="L. C. Belen" Apellido="Hernández Gómez" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="88" Nombre="C. Carlos" Apellido="Hernández Romero" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="98" Nombre="Lic. Veronica" Apellido="Barragan Sevilla" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="31" IDPersonalOrganismoAuditoriasIniciadas="99" Nombre="C. P. Antonio" Apellido="García Yañez" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="327" IDPersonalOrganismoAuditoriasIniciadas="1409" Nombre="C. P. Antonio" Apellido="García Yañez" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="32" IDPersonalOrganismoAuditoriasIniciadas="116" Nombre="L. C. Liliana" Apellido="Zenteno Arenas" Cargo="Asesor Financiero" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="33" IDPersonalOrganismoAuditoriasIniciadas="109" Nombre="C. Lucia " Apellido="Mejia Hernández" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="33" IDPersonalOrganismoAuditoriasIniciadas="111" Nombre="C. Jorge Luis " Apellido="Gomez Hernández" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="326" IDPersonalOrganismoAuditoriasIniciadas="1402" Nombre="C. Jorge Luis " Apellido="Gomez Hernández" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="33" IDPersonalOrganismoAuditoriasIniciadas="110" Nombre="C. Josefina " Apellido="Pérez Bagui" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="32" IDPersonalOrganismoAuditoriasIniciadas="114" Nombre="L. C. Joel " Apellido="Torres Romero" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="34" IDPersonalOrganismoAuditoriasIniciadas="118" Nombre="C. Mauro " Apellido="López Martínez" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="34" IDPersonalOrganismoAuditoriasIniciadas="119" Nombre="C. Catalino " Apellido="Severiano Severiano" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="34" IDPersonalOrganismoAuditoriasIniciadas="117" Nombre="C. P. Jacinto" Apellido="Pérez Verde" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="36" IDPersonalOrganismoAuditoriasIniciadas="130" Nombre="C. Carlos Alberto" Apellido="Ramirez Martínez" Cargo="Contador" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="36" IDPersonalOrganismoAuditoriasIniciadas="128" Nombre="Lic. Jesus " Apellido="Larragoitia Osorio" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="36" IDPersonalOrganismoAuditoriasIniciadas="127" Nombre="C. Hilario " Apellido="Hernández Hernández" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="36" IDPersonalOrganismoAuditoriasIniciadas="129" Nombre="LIc. Juventino " Apellido="Pérez Hernández" Cargo="Oficial Mayor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="37" IDPersonalOrganismoAuditoriasIniciadas="138" Nombre="C. Silverio " Apellido="Oliva Rubio" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="37" IDPersonalOrganismoAuditoriasIniciadas="139" Nombre="Ing. Abad  " Apellido="Basilio Olguin" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="38" IDPersonalOrganismoAuditoriasIniciadas="134" Nombre="L. C. Sony Saray" Apellido="Melo Hernández" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="38" IDPersonalOrganismoAuditoriasIniciadas="136" Nombre="L.A. E. José Florencio " Apellido="Epifanio Diego" Cargo="Auxiliar de Tesoreria" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="39" IDPersonalOrganismoAuditoriasIniciadas="143" Nombre="M. en A. Raquel " Apellido="Ramírez Vargas" Cargo="Secretaria de Contraloría y Transparencia Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="180" IDPersonalOrganismoAuditoriasIniciadas="675" Nombre="M. en A. Raquel " Apellido="Ramírez Vargas" Cargo="Secretaria de Contraloría y Transparencia Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="39" IDPersonalOrganismoAuditoriasIniciadas="142" Nombre="L. A. Liliana " Apellido="Verde Neri" Cargo="Secretaria de la Tesorería Municipal " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="180" IDPersonalOrganismoAuditoriasIniciadas="674" Nombre="L. A. Liliana " Apellido="Verde Neri" Cargo="Secretaria de la Tesorería Municipal " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="39" IDPersonalOrganismoAuditoriasIniciadas="144" Nombre="Ing. Victor Arturo" Apellido="Bautista Ramírez" Cargo="Secretario de Obra Pública, Desarrollo Urbano, Vivienda y Movilidad" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="297" IDPersonalOrganismoAuditoriasIniciadas="1190" Nombre="Ing. Victor Arturo" Apellido="Bautista Ramírez" Cargo="Secretario de Obra Pública, Desarrollo Urbano, Vivienda y Movilidad" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="98" IDPersonalOrganismoAuditoriasIniciadas="360" Nombre="Lic. Alma" Apellido="Peña Montiel" Cargo="Encargada de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="207" IDPersonalOrganismoAuditoriasIniciadas="762" Nombre="Lic. Alma" Apellido="Peña Montiel" Cargo="Encargada de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="145" IDPersonalOrganismoAuditoriasIniciadas="552" Nombre="Ing. Jorge Daniel" Apellido="González Castillo" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="313" IDPersonalOrganismoAuditoriasIniciadas="1308" Nombre="Ing. Jorge Daniel" Apellido="González Castillo" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="140" IDPersonalOrganismoAuditoriasIniciadas="538" Nombre="Lic. Griselda" Apellido="Villegas González" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="269" IDPersonalOrganismoAuditoriasIniciadas="1064" Nombre="Lic. Griselda" Apellido="Villegas González" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="329" IDPersonalOrganismoAuditoriasIniciadas="1422" Nombre="L. C. Roberto" Apellido="Piña Macías" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="118" IDPersonalOrganismoAuditoriasIniciadas="444" Nombre="Ing. Marco Antonio" Apellido="Sánchez Altamirano" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="97" IDPersonalOrganismoAuditoriasIniciadas="355" Nombre="L. C. Dulce María " Apellido="Habib Tapia" Cargo="Directora de Administración de Recursos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="282" IDPersonalOrganismoAuditoriasIniciadas="1109" Nombre="L. C. Dulce María " Apellido="Habib Tapia" Cargo="Directora de Administración de Recursos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="54" IDPersonalOrganismoAuditoriasIniciadas="193" Nombre="C. P. C. Eleazar " Apellido="Melo Valdez" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="236" IDPersonalOrganismoAuditoriasIniciadas="868" Nombre="C. P. C. Eleazar " Apellido="Melo Valdez" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="126" IDPersonalOrganismoAuditoriasIniciadas="484" Nombre="M.C.A. Margarita" Apellido="Leo Cuevas" Cargo="Titular de la Unidad de Apoyo Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="40" IDPersonalOrganismoAuditoriasIniciadas="152" Nombre="P. L. A. Edwin salvador" Apellido="Bolio Vargas" Cargo="Oficial Mayor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="121" IDPersonalOrganismoAuditoriasIniciadas="458" Nombre="L. C. José Luis " Apellido="González Martínez" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="284" IDPersonalOrganismoAuditoriasIniciadas="1116" Nombre="L. C. José Luis " Apellido="González Martínez" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="86" IDPersonalOrganismoAuditoriasIniciadas="330" Nombre="Mtro. León Maximiliano" Apellido="Hernández Valdez" Cargo="Director General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="202" IDPersonalOrganismoAuditoriasIniciadas="743" Nombre="Mtro. León Maximiliano" Apellido="Hernández Valdez" Cargo="Director General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="150" IDPersonalOrganismoAuditoriasIniciadas="572" Nombre="L. A. P. Francisca" Apellido="Hernández Sánchez" Cargo="Subdirectora Administrativa" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="228" IDPersonalOrganismoAuditoriasIniciadas="835" Nombre="L. A. P. Francisca" Apellido="Hernández Sánchez" Cargo="Subdirectora Administrativa" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="314" IDPersonalOrganismoAuditoriasIniciadas="1311" Nombre="Lic. Sandra Lizeth " Apellido="Zea Hernández" Cargo="Directora de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="42" IDPersonalOrganismoAuditoriasIniciadas="159" Nombre="C. Gabriel" Apellido="Gómez Franco" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="42" IDPersonalOrganismoAuditoriasIniciadas="160" Nombre="C. Sergio" Apellido="Sosa Noya" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="119" IDPersonalOrganismoAuditoriasIniciadas="449" Nombre="C. P. Rafael" Apellido="García González" Cargo="Director de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="276" IDPersonalOrganismoAuditoriasIniciadas="1087" Nombre="C. P. Rafael" Apellido="García González" Cargo="Director de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="176" IDPersonalOrganismoAuditoriasIniciadas="657" Nombre="Lic. Emilio " Apellido="Ángeles Gutiérrez" Cargo="Director General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="273" IDPersonalOrganismoAuditoriasIniciadas="1080" Nombre="Lic. Emilio " Apellido="Ángeles Gutiérrez" Cargo="Director General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="146" IDPersonalOrganismoAuditoriasIniciadas="554" Nombre="C. P. María Guadalupe " Apellido="Goldaracena Martínez" Cargo="Directora de Administración y Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="315" IDPersonalOrganismoAuditoriasIniciadas="1314" Nombre="C. P. María Guadalupe " Apellido="Goldaracena Martínez" Cargo="Directora de Administración y Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="48" IDPersonalOrganismoAuditoriasIniciadas="175" Nombre="L.C. Luis Rosendo" Apellido="Méndez Romero" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="71" IDPersonalOrganismoAuditoriasIniciadas="267" Nombre="Mtra. Norma Olivia" Apellido="Lozada Pérez" Cargo="Encargada de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="50" IDPersonalOrganismoAuditoriasIniciadas="180" Nombre="M. M. T.Leticia" Apellido="Zarco Mendoza" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="67" IDPersonalOrganismoAuditoriasIniciadas="258" Nombre="L. A. Rafael" Apellido="Torres Barragán" Cargo="Subdirector Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="122" IDPersonalOrganismoAuditoriasIniciadas="460" Nombre="L. A. Rafael" Apellido="Torres Barragán" Cargo="Subdirector Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="195" IDPersonalOrganismoAuditoriasIniciadas="722" Nombre="L. A. Rafael" Apellido="Torres Barragán" Cargo="Subdirector Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="184" IDPersonalOrganismoAuditoriasIniciadas="687" Nombre="C. Verónica" Apellido="García Jiménez" Cargo="Enlace de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="196" IDPersonalOrganismoAuditoriasIniciadas="727" Nombre="Lic. Élida " Apellido="Cuéllar Villegas" Cargo="Directora de Programación y Presupuesto" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="183" IDPersonalOrganismoAuditoriasIniciadas="685" Nombre="Lic. Luis Alejandro" Apellido="Campos Macías" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="210" IDPersonalOrganismoAuditoriasIniciadas="771" Nombre="Lic. Luis Alejandro" Apellido="Campos Macías" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="72" IDPersonalOrganismoAuditoriasIniciadas="270" Nombre="Lic. Francisco Fernando" Apellido="Guasco Devereux" Cargo="Subdirector de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="53" IDPersonalOrganismoAuditoriasIniciadas="190" Nombre="Lic. Maximina " Apellido="Enciso Badillo" Cargo="Directora General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="201" IDPersonalOrganismoAuditoriasIniciadas="741" Nombre="Lic. Maximina " Apellido="Enciso Badillo" Cargo="Directora General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="52" IDPersonalOrganismoAuditoriasIniciadas="185" Nombre="C. Miguel " Apellido="Minvielle Prado" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="197" IDPersonalOrganismoAuditoriasIniciadas="729" Nombre="C. Miguel " Apellido="Minvielle Prado" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="109" IDPersonalOrganismoAuditoriasIniciadas="408" Nombre="Lic. Sandra Lizeth" Apellido="Zea Hernández" Cargo="Directora de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="332" IDPersonalOrganismoAuditoriasIniciadas="1431" Nombre="Lic. Sandra Lizeth" Apellido="Zea Hernández" Cargo="Directora de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="46" IDPersonalOrganismoAuditoriasIniciadas="171" Nombre="C. P. Laura Beatriz" Apellido="Romero Ávila" Cargo="Coordinadora Ejecutiva de Administración y Servicio Profesional" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="178" IDPersonalOrganismoAuditoriasIniciadas="663" Nombre="L. C. Arturo " Apellido="Ugalde Soto" Cargo="Director de Planeación y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="227" IDPersonalOrganismoAuditoriasIniciadas="834" Nombre="L. C. Arturo " Apellido="Ugalde Soto" Cargo="Director de Planeación y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="45" IDPersonalOrganismoAuditoriasIniciadas="187" Nombre="L. C. Josué " Apellido="Gómez Vital" Cargo="Director de Enlace Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="172" IDPersonalOrganismoAuditoriasIniciadas="652" Nombre="Lic. Víctor Rogelio" Apellido="Gress Hernández" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="316" IDPersonalOrganismoAuditoriasIniciadas="1316" Nombre="Lic. Víctor Rogelio" Apellido="Gress Hernández" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="174" IDPersonalOrganismoAuditoriasIniciadas="655" Nombre="L. C. P. Rodolfo" Apellido="Picazo Morales" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="108" IDPersonalOrganismoAuditoriasIniciadas="405" Nombre="L. C. Laura Estela" Apellido="Hernández Cruz" Cargo="Encargada del Departamento Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="205" IDPersonalOrganismoAuditoriasIniciadas="757" Nombre="L. C. Laura Estela" Apellido="Hernández Cruz" Cargo="Encargada del Departamento Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="49" IDPersonalOrganismoAuditoriasIniciadas="178" Nombre="L. C. Jesús " Apellido="Hernández Miranda" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="281" IDPersonalOrganismoAuditoriasIniciadas="1107" Nombre="L. C. Jesús " Apellido="Hernández Miranda" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="47" IDPersonalOrganismoAuditoriasIniciadas="173" Nombre="Lic. Anayeli" Apellido="Altamirano Hernández" Cargo="Directora de Planeación, Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="158" IDPersonalOrganismoAuditoriasIniciadas="607" Nombre="L. C. Juan " Apellido="Almaraz Colunga" Cargo="Director de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="193" IDPersonalOrganismoAuditoriasIniciadas="717" Nombre="L. C. Juan " Apellido="Almaraz Colunga" Cargo="Director de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="66" IDPersonalOrganismoAuditoriasIniciadas="252" Nombre="Lic. Arturo" Apellido="Aguado Callejas" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="151" IDPersonalOrganismoAuditoriasIniciadas="575" Nombre="L. C. Roberto" Apellido="González Vargas" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="277" IDPersonalOrganismoAuditoriasIniciadas="1092" Nombre="L. C. Roberto" Apellido="González Vargas" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="69" IDPersonalOrganismoAuditoriasIniciadas="263" Nombre="C. P. Jorge Antonio" Apellido="Betancourt Gómez" Cargo="Subdirector de Servicios Administrativos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="259" IDPersonalOrganismoAuditoriasIniciadas="972" Nombre="C. P. Jorge Antonio" Apellido="Betancourt Gómez" Cargo="Subdirector de Servicios Administrativos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="94" IDPersonalOrganismoAuditoriasIniciadas="344" Nombre="C. P. Aarón " Apellido="Martín Martínez" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="268" IDPersonalOrganismoAuditoriasIniciadas="1062" Nombre="C. P. Aarón " Apellido="Martín Martínez" Cargo="Subdirector de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="68" IDPersonalOrganismoAuditoriasIniciadas="261" Nombre="Lic. Luisa Yuriley" Apellido="Gonzága Ramírez" Cargo="Directora de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="200" IDPersonalOrganismoAuditoriasIniciadas="737" Nombre="Lic. Luisa Yuriley" Apellido="Gonzága Ramírez" Cargo="Directora de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="144" IDPersonalOrganismoAuditoriasIniciadas="549" Nombre="Lic. Armando" Apellido="Pérez López" Cargo="Director de Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="51" IDPersonalOrganismoAuditoriasIniciadas="183" Nombre="L. C. Ruth Margarita" Apellido="Lira Ruiz" Cargo="Encargada del Departamento de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="79" IDPersonalOrganismoAuditoriasIniciadas="292" Nombre="Lic. Carlos " Apellido="Becerril Vargas" Cargo="Director Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="90" IDPersonalOrganismoAuditoriasIniciadas="336" Nombre="L. A. E. Carlos Alberto" Apellido="García Sánchez" Cargo="Subsecretario de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="177" IDPersonalOrganismoAuditoriasIniciadas="669" Nombre="L. A. E. José Alejandro" Apellido="Gutiérrez Cabrera" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="290" IDPersonalOrganismoAuditoriasIniciadas="1154" Nombre="L. A. E. José Alejandro" Apellido="Gutiérrez Cabrera" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="141" IDPersonalOrganismoAuditoriasIniciadas="542" Nombre="Mtra. Karla Iliana " Apellido="Ortiz Prado" Cargo="Subdirector General de Planeación, Administración y Finanzas " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="179" IDPersonalOrganismoAuditoriasIniciadas="672" Nombre="M. C. P. Alma Eloisa" Apellido="Sánchez Ramírez" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="272" IDPersonalOrganismoAuditoriasIniciadas="1077" Nombre="M. C. P. Alma Eloisa" Apellido="Sánchez Ramírez" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="85" IDPersonalOrganismoAuditoriasIniciadas="327" Nombre="C. P. Carlos Daniel" Apellido="García Reyes" Cargo="Coordinador de la División de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="123" IDPersonalOrganismoAuditoriasIniciadas="465" Nombre="L. C. José Humberto" Apellido="Ángeles Hernández" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="206" IDPersonalOrganismoAuditoriasIniciadas="760" Nombre="L. C. José Humberto" Apellido="Ángeles Hernández" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="70" IDPersonalOrganismoAuditoriasIniciadas="265" Nombre="Arq. José" Apellido="Lara Argüelles" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="199" IDPersonalOrganismoAuditoriasIniciadas="753" Nombre="Arq. José" Apellido="Lara Argüelles" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="171" IDPersonalOrganismoAuditoriasIniciadas="650" Nombre="Ing. Jorge Alfredo" Apellido="Fernández Salas" Cargo="Secretario de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="291" IDPersonalOrganismoAuditoriasIniciadas="1157" Nombre="Ing. Jorge Alfredo" Apellido="Fernández Salas" Cargo="Secretario de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="44" IDPersonalOrganismoAuditoriasIniciadas="166" Nombre="Mtro. Luis Alberto " Apellido="Téllez Soto" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="87" IDPersonalOrganismoAuditoriasIniciadas="333" Nombre="L. C. Fernando " Apellido="Gómez Espinoza" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="246" IDPersonalOrganismoAuditoriasIniciadas="938" Nombre="L. C. Fernando " Apellido="Gómez Espinoza" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="173" IDPersonalOrganismoAuditoriasIniciadas="665" Nombre="Ing. Rafael " Apellido="González Pérez" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="275" IDPersonalOrganismoAuditoriasIniciadas="1084" Nombre="Ing. Rafael " Apellido="González Pérez" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="170" IDPersonalOrganismoAuditoriasIniciadas="647" Nombre="Lic. Karina" Apellido="Hernández Medina" Cargo="Encargada de la Dirección de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="159" IDPersonalOrganismoAuditoriasIniciadas="610" Nombre="C. P. Víctor Alberto" Apellido="Sánchez Novelo" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="89" IDPersonalOrganismoAuditoriasIniciadas="358" Nombre="C. P. Daniel Javier" Apellido="Flores Vergara" Cargo="Encargado de la Dirección de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="334" IDPersonalOrganismoAuditoriasIniciadas="1436" Nombre="C. P. Daniel Javier" Apellido="Flores Vergara" Cargo="Encargado de la Dirección de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="149" IDPersonalOrganismoAuditoriasIniciadas="570" Nombre="C. P. Marco Antonio" Apellido="Balandrano Meneses" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="318" IDPersonalOrganismoAuditoriasIniciadas="1320" Nombre="C. P. Marco Antonio" Apellido="Balandrano Meneses" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="55" IDPersonalOrganismoAuditoriasIniciadas="200" Nombre="L. C. Maria Guadalupe" Apellido="Reyes Marquez" Cargo="Directora de Cuenta Publica" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="56" IDPersonalOrganismoAuditoriasIniciadas="214" Nombre="C. Blanca Estela " Apellido="Martínez Nuñez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="56" IDPersonalOrganismoAuditoriasIniciadas="213" Nombre="Lic. Karina" Apellido="García Barrera" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="260" IDPersonalOrganismoAuditoriasIniciadas="989" Nombre="Lic. Karina" Apellido="García Barrera" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="56" IDPersonalOrganismoAuditoriasIniciadas="215" Nombre="Arq. Cristian " Apellido="Escamilla Barrera" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="260" IDPersonalOrganismoAuditoriasIniciadas="990" Nombre="Arq. Cristian " Apellido="Escamilla Barrera" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="57" IDPersonalOrganismoAuditoriasIniciadas="225" Nombre="C. P. Martin " Apellido="Gomez Sanchez" Cargo="Encargado de Presupuesto y Planeacion " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="57" IDPersonalOrganismoAuditoriasIniciadas="226" Nombre="L. E. Edgar " Apellido="Chavez Vargas" Cargo="Director de Administracion y Control de Obras" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="59" IDPersonalOrganismoAuditoriasIniciadas="233" Nombre="C. P. Maria Elena" Apellido="Aguilar Avila" Cargo="Directora de Ingresos y Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="59" IDPersonalOrganismoAuditoriasIniciadas="234" Nombre="C. P. Margarita " Apellido="Lucario Falcon" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="57" IDPersonalOrganismoAuditoriasIniciadas="227" Nombre="L.C. Janeth " Apellido="Rodriguez Garcia" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="58" IDPersonalOrganismoAuditoriasIniciadas="229" Nombre="L. C. Martin " Apellido="Cruz López" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="58" IDPersonalOrganismoAuditoriasIniciadas="228" Nombre="C. Lucia Manuela" Apellido="López Jiménez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="262" IDPersonalOrganismoAuditoriasIniciadas="1003" Nombre="C. Lucia Manuela" Apellido="López Jiménez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="58" IDPersonalOrganismoAuditoriasIniciadas="230" Nombre="P. L. C. Aurea" Apellido="Hernández Hernández" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="60" IDPersonalOrganismoAuditoriasIniciadas="220" Nombre="L.D Lilia Elisa" Apellido="Alvarado Pérez" Cargo="Directora de Planeación, Evaluación y Trasparencia Gubernamental" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="60" IDPersonalOrganismoAuditoriasIniciadas="221" Nombre="L.C.  Cesar" Apellido="Islas García" Cargo="Encargado de Planeación y Evaluación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="67" IDPersonalOrganismoAuditoriasIniciadas="255" Nombre="L. C. Guadalupe" Apellido="Ángeles Trejo" Cargo="Jefa de Oficina" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="195" IDPersonalOrganismoAuditoriasIniciadas="723" Nombre="L. C. Guadalupe" Apellido="Ángeles Trejo" Cargo="Jefa de Oficina" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="67" IDPersonalOrganismoAuditoriasIniciadas="257" Nombre="Ing. Victorino" Apellido="Segura Cardoso" Cargo="Director de Planeación y Programación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="120" IDPersonalOrganismoAuditoriasIniciadas="455" Nombre="L. C. Alberto" Apellido="Monroy Bustamante" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="175" IDPersonalOrganismoAuditoriasIniciadas="660" Nombre="Dr. Arturo" Apellido="Silva Rodríguez" Cargo="Encargado de Rectoría" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="75" IDPersonalOrganismoAuditoriasIniciadas="300" Nombre="Arq. Leon" Apellido="Peña García" Cargo="Director de Planeacion y Desarrollo Urbano Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="75" IDPersonalOrganismoAuditoriasIniciadas="302" Nombre="C. Maria del Carmen" Apellido="Azpeitia Pacheco" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="75" IDPersonalOrganismoAuditoriasIniciadas="301" Nombre="Lic. Yazmin" Apellido="Amador Pagola" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="220" IDPersonalOrganismoAuditoriasIniciadas="1223" Nombre="Lic. Yazmin" Apellido="Amador Pagola" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="77" IDPersonalOrganismoAuditoriasIniciadas="307" Nombre="C. P. Laurencio " Apellido="Alcantara Martínez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="76" IDPersonalOrganismoAuditoriasIniciadas="308" Nombre="L. D. Cesar " Apellido="Rodriguez López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="76" IDPersonalOrganismoAuditoriasIniciadas="310" Nombre="L. A. P. Jose Raul " Apellido="Avila Ramirez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="76" IDPersonalOrganismoAuditoriasIniciadas="309" Nombre="Tec. Julian " Apellido="Santillan Samperio" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="74" IDPersonalOrganismoAuditoriasIniciadas="275" Nombre="L. A. J. Guadalupe " Apellido="Quezada Rivero" Cargo="Director de Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="74" IDPersonalOrganismoAuditoriasIniciadas="311" Nombre="Arq. Miguel Angel " Apellido="Brito Soriano" Cargo="Director de Planeación, Desarrollo Urbano y Ordenamiento Territorial" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="995" Nombre="Arq. Miguel Angel " Apellido="Brito Soriano" Cargo="Director de Planeación, Desarrollo Urbano y Ordenamiento Territorial" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="74" IDPersonalOrganismoAuditoriasIniciadas="313" Nombre="C. Rogelio" Apellido="Ramirez Contla" Cargo="Sindico Procurador Hacendario" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="996" Nombre="C. Rogelio" Apellido="Ramirez Contla" Cargo="Sindico Procurador Hacendario" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="74" IDPersonalOrganismoAuditoriasIniciadas="314" Nombre="C. Maria Carolina " Apellido="Ortiz Jardon" Cargo="Secretaria" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="81" IDPersonalOrganismoAuditoriasIniciadas="299" Nombre="L. C. Nicandro" Apellido="Hernandez Castillo" Cargo="Subdirector de Ingresos y Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="83" IDPersonalOrganismoAuditoriasIniciadas="317" Nombre="Ing. Gerardo " Apellido="Vargas Larios" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="83" IDPersonalOrganismoAuditoriasIniciadas="318" Nombre="Lic. Enrique" Apellido="Estrada Flores" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="266" IDPersonalOrganismoAuditoriasIniciadas="1215" Nombre="Lic. Enrique" Apellido="Estrada Flores" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="84" IDPersonalOrganismoAuditoriasIniciadas="325" Nombre="Ing. Jesus Manuel" Apellido="Tagano Palacios" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="223" IDPersonalOrganismoAuditoriasIniciadas="1374" Nombre="Ing. Jesus Manuel" Apellido="Tagano Palacios" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="250" IDPersonalOrganismoAuditoriasIniciadas="949" Nombre="PROF. MIGUEL ANGEL " Apellido="CUATEPOTZO COSTEIRA" Cargo="Secretario de Educación Pública" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="95" IDPersonalOrganismoAuditoriasIniciadas="347" Nombre="Arq. Alfredo " Apellido="Onofre Trejo" Cargo="Lider de Proyecto" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="95" IDPersonalOrganismoAuditoriasIniciadas="348" Nombre="LIc. Marlene " Apellido="Puertas Ramírez" Cargo="Asesor Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="96" IDPersonalOrganismoAuditoriasIniciadas="350" Nombre="L. C. Leandro Werner" Apellido="Gotschal Hernández" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="96" IDPersonalOrganismoAuditoriasIniciadas="351" Nombre="Arq. Ramon " Apellido="Paredes Martínez" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="96" IDPersonalOrganismoAuditoriasIniciadas="352" Nombre="Lic. Xochilt" Apellido="Pacheco Clemente" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="100" IDPersonalOrganismoAuditoriasIniciadas="370" Nombre="L. C. Citlalli Mildred" Apellido="Bengoa Pazos" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="100" IDPersonalOrganismoAuditoriasIniciadas="367" Nombre="Ing. Gabriel" Apellido="Montes Gómez" Cargo="Director de Planeacion" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="100" IDPersonalOrganismoAuditoriasIniciadas="372" Nombre="Arq. José Luis" Apellido="Velasco San juan " Cargo="Supervisor de Obras " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="102" IDPersonalOrganismoAuditoriasIniciadas="380" Nombre="C. P. Arminda" Apellido="Martínez Hernández" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="264" IDPersonalOrganismoAuditoriasIniciadas="1015" Nombre="C. P. Arminda" Apellido="Martínez Hernández" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="102" IDPersonalOrganismoAuditoriasIniciadas="381" Nombre="Arq. Carlos" Apellido="Garcia Gonzaga" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="264" IDPersonalOrganismoAuditoriasIniciadas="1016" Nombre="Arq. Carlos" Apellido="Garcia Gonzaga" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="102" IDPersonalOrganismoAuditoriasIniciadas="382" Nombre="C. P. Maria Margarita" Apellido="Mera González" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="264" IDPersonalOrganismoAuditoriasIniciadas="1017" Nombre="C. P. Maria Margarita" Apellido="Mera González" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="101" IDPersonalOrganismoAuditoriasIniciadas="383" Nombre="C. Luis Antonio" Apellido="Canales Leo" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="101" IDPersonalOrganismoAuditoriasIniciadas="384" Nombre="C. P. Amalia " Apellido="Tellez Pérez" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="101" IDPersonalOrganismoAuditoriasIniciadas="385" Nombre="C. Claudia " Apellido="Serrano Hernández" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="103" IDPersonalOrganismoAuditoriasIniciadas="387" Nombre="C. P. Rosa Nelly" Apellido="Contreras Melo" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="104" IDPersonalOrganismoAuditoriasIniciadas="392" Nombre="C. P. German" Apellido="Mayorga Barranco" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="258" IDPersonalOrganismoAuditoriasIniciadas="1049" Nombre="C. P. German" Apellido="Mayorga Barranco" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="104" IDPersonalOrganismoAuditoriasIniciadas="393" Nombre="Ing. José Pascual" Apellido="Calva Aldana" Cargo="Director de Planeacion" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="104" IDPersonalOrganismoAuditoriasIniciadas="394" Nombre="C. P. Juan Carlos" Apellido="Ruiz Zerón" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="258" IDPersonalOrganismoAuditoriasIniciadas="1050" Nombre="C. P. Juan Carlos" Apellido="Ruiz Zerón" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="105" IDPersonalOrganismoAuditoriasIniciadas="395" Nombre="L. C. Nely " Apellido="Tovar Angeles" Cargo="Encargada de Control y Presupuesto" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="105" IDPersonalOrganismoAuditoriasIniciadas="396" Nombre="L. C. Citalli Judith" Apellido="Vigil de Alba" Cargo="Encargada de Bancos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="107" IDPersonalOrganismoAuditoriasIniciadas="401" Nombre="L. C. Lourdes" Apellido="Pérez Portillo" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="237" IDPersonalOrganismoAuditoriasIniciadas="871" Nombre="L. C. Lourdes" Apellido="Pérez Portillo" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="111" IDPersonalOrganismoAuditoriasIniciadas="416" Nombre="C. Oscar " Apellido="Gutierrez Trejo" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="111" IDPersonalOrganismoAuditoriasIniciadas="417" Nombre="Lic. Manuel " Apellido="Ramírez Cruz" Cargo="Asesor Financiero" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="111" IDPersonalOrganismoAuditoriasIniciadas="419" Nombre="C. Yesenia" Apellido="García Monroy" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="111" IDPersonalOrganismoAuditoriasIniciadas="418" Nombre="Ing. Mario" Apellido="Reyes Ramos" Cargo="Asesor de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="112" IDPersonalOrganismoAuditoriasIniciadas="420" Nombre="C. Roberto" Apellido="Franco Canales" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="112" IDPersonalOrganismoAuditoriasIniciadas="421" Nombre="C. Beatriz " Apellido="Godinez Jarillo" Cargo="Enlace" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="113" IDPersonalOrganismoAuditoriasIniciadas="423" Nombre="Lic. Fernando Raul" Apellido="Puga López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="113" IDPersonalOrganismoAuditoriasIniciadas="424" Nombre="Lic. José Alberto" Apellido="González Baez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="113" IDPersonalOrganismoAuditoriasIniciadas="425" Nombre="Ing. Arq. Gabriel Daniel" Apellido="Suarez Escamilla" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="114" IDPersonalOrganismoAuditoriasIniciadas="427" Nombre="Ing. Efren" Apellido="Hernández Hernández" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="114" IDPersonalOrganismoAuditoriasIniciadas="431" Nombre="C. P. Cesar Guadalupe" Apellido="Velarde Medina" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="115" IDPersonalOrganismoAuditoriasIniciadas="434" Nombre="L. C. Gustavo " Apellido="Hernández Godoy" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="115" IDPersonalOrganismoAuditoriasIniciadas="433" Nombre="Arq. Carlos Enrique" Apellido="Zepeda Toledo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="115" IDPersonalOrganismoAuditoriasIniciadas="435" Nombre="C. Ma. Isabel " Apellido="Espinoza Rodríguez" Cargo="Contadora Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="116" IDPersonalOrganismoAuditoriasIniciadas="437" Nombre="L. A. E. Daniel" Apellido="Márquez Delgadillo" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="116" IDPersonalOrganismoAuditoriasIniciadas="438" Nombre="L. C. Erik Gabriel" Apellido="Mejia Vera" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="116" IDPersonalOrganismoAuditoriasIniciadas="439" Nombre="L. C. Wendy " Apellido="Vargas Soto" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="116" IDPersonalOrganismoAuditoriasIniciadas="440" Nombre="L. C. Justo" Apellido="Hernández Luna" Cargo="Auxiliar de Tesoreria" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="117" IDPersonalOrganismoAuditoriasIniciadas="450" Nombre="C. Jesús " Apellido="del Rosal Campos" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="352" IDPersonalOrganismoAuditoriasIniciadas="1735" Nombre="C. Jesús " Apellido="del Rosal Campos" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="117" IDPersonalOrganismoAuditoriasIniciadas="451" Nombre="Arq.Hemer" Apellido="González  Monrroy" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="117" IDPersonalOrganismoAuditoriasIniciadas="452" Nombre="Lic. Ma. del Pilar" Apellido="Dominguez Vazquez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="117" IDPersonalOrganismoAuditoriasIniciadas="453" Nombre="Lic. Edgar Alfredo" Apellido="Ogendis Gonzalea" Cargo="Director Juridico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="352" IDPersonalOrganismoAuditoriasIniciadas="1736" Nombre="Lic. Edgar Alfredo" Apellido="Ogendis Gonzalea" Cargo="Director Juridico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="142" IDPersonalOrganismoAuditoriasIniciadas="544" Nombre="Lic. Alberto Alan Joseph" Apellido="Castellanos Roldán" Cargo="Director de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="335" IDPersonalOrganismoAuditoriasIniciadas="1439" Nombre="Lic. Alberto Alan Joseph" Apellido="Castellanos Roldán" Cargo="Director de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="477" Nombre="C. Eleazar" Apellido="Ortega Sánchez" Cargo="Asesor de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="894" Nombre="C. Luis Antonio" Apellido="Alvarado Fuentes" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="181" IDPersonalOrganismoAuditoriasIniciadas="680" Nombre="L. C. Laura Gabriela" Apellido="Huerta Gaona" Cargo="Subdirectora Administrativa" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="225" IDPersonalOrganismoAuditoriasIniciadas="829" Nombre="L. C. Laura Gabriela" Apellido="Huerta Gaona" Cargo="Subdirectora Administrativa" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="309" IDPersonalOrganismoAuditoriasIniciadas="1291" Nombre="Ing. José Manuel" Apellido="Herrera Campos" Cargo="Secretario de Obra Pública, Desarrollo Urbano, Vivienda y Movilidad" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="128" IDPersonalOrganismoAuditoriasIniciadas="514" Nombre="L. C. Ulices" Apellido="Dueñas Matías" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="128" IDPersonalOrganismoAuditoriasIniciadas="515" Nombre="Arq. David " Apellido="Orozco Jímenez" Cargo="Cordinador de Proyectos y Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="129" IDPersonalOrganismoAuditoriasIniciadas="512" Nombre="C. Santos Adrian" Apellido="Flores Gonzalez" Cargo="Contador" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="129" IDPersonalOrganismoAuditoriasIniciadas="513" Nombre="Arq.  Armando" Apellido="Cerón Bonilla" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="135" IDPersonalOrganismoAuditoriasIniciadas="526" Nombre="C. Miguel  " Apellido="Marcelo Caro" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="135" IDPersonalOrganismoAuditoriasIniciadas="527" Nombre="C.  J. Guadalupe " Apellido="Velazco Islas" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="135" IDPersonalOrganismoAuditoriasIniciadas="528" Nombre="Lic. Daysi Yuridia " Apellido="Lucas Modesto" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="337" IDPersonalOrganismoAuditoriasIniciadas="1453" Nombre="Lic. Daysi Yuridia " Apellido="Lucas Modesto" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="147" IDPersonalOrganismoAuditoriasIniciadas="559" Nombre="Lic. Andres " Apellido="Trejo Reyes" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="147" IDPersonalOrganismoAuditoriasIniciadas="560" Nombre="Ing. Ana Beatriz" Apellido="Guerrero Ayala" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="344" IDPersonalOrganismoAuditoriasIniciadas="1488" Nombre="Ing. Ana Beatriz" Apellido="Guerrero Ayala" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="147" IDPersonalOrganismoAuditoriasIniciadas="561" Nombre="C. P. Daniel Simon" Apellido="Pérez Gomez" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="344" IDPersonalOrganismoAuditoriasIniciadas="1487" Nombre="C. P. Daniel Simon" Apellido="Pérez Gomez" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="138" IDPersonalOrganismoAuditoriasIniciadas="532" Nombre="C. Feliciano" Apellido="Romero Chavez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="138" IDPersonalOrganismoAuditoriasIniciadas="533" Nombre="L. C. Gregorio" Apellido="Santana Angeles" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="139" IDPersonalOrganismoAuditoriasIniciadas="534" Nombre="L. C. Martiniano " Apellido="López García " Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="139" IDPersonalOrganismoAuditoriasIniciadas="535" Nombre="Lic. Mayte" Apellido="Escorza Balderrama" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="139" IDPersonalOrganismoAuditoriasIniciadas="536" Nombre="Ing. Luis Armando" Apellido="Tovar González" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="136" IDPersonalOrganismoAuditoriasIniciadas="529" Nombre="L. C. Valentin " Apellido="Cabrera Rivera" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="136" IDPersonalOrganismoAuditoriasIniciadas="530" Nombre="L. C. Alheli " Apellido="Hernández Godinez" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="136" IDPersonalOrganismoAuditoriasIniciadas="531" Nombre="C. José Luis" Apellido="Olivares Espinoza" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="233" IDPersonalOrganismoAuditoriasIniciadas="857" Nombre="C. José Luis" Apellido="Olivares Espinoza" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="211" IDPersonalOrganismoAuditoriasIniciadas="773" Nombre="Lic. Arturo " Apellido="Aguado Callejas" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="148" IDPersonalOrganismoAuditoriasIniciadas="566" Nombre="C. P. Pedro Everardo" Apellido="Melo Luna   " Cargo="Director Operativo de PROBEA" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="213" IDPersonalOrganismoAuditoriasIniciadas="781" Nombre="C. P. Pedro Everardo" Apellido="Melo Luna   " Cargo="Director Operativo de PROBEA" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="148" IDPersonalOrganismoAuditoriasIniciadas="567" Nombre="C. P. Javier Carlos" Apellido="Aquino Barrera " Cargo="Subdirector de Operación de PROBEA " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="213" IDPersonalOrganismoAuditoriasIniciadas="782" Nombre="C. P. Javier Carlos" Apellido="Aquino Barrera " Cargo="Subdirector de Operación de PROBEA " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="148" IDPersonalOrganismoAuditoriasIniciadas="568" Nombre="Arq. Valente Roberto" Apellido="Granados Bárcena" Cargo="Coordinador de PROBEA" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="213" IDPersonalOrganismoAuditoriasIniciadas="783" Nombre="Arq. Valente Roberto" Apellido="Granados Bárcena" Cargo="Coordinador de PROBEA" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="223" IDPersonalOrganismoAuditoriasIniciadas="1375" Nombre="L. C. Oscar" Apellido="Márquez Carbajal" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="198" IDPersonalOrganismoAuditoriasIniciadas="733" Nombre="L. C. Luis Alberto " Apellido="Nieto Ricarte" Cargo="Titular de la Unidad de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="152" IDPersonalOrganismoAuditoriasIniciadas="588" Nombre="Lic. Salvador " Apellido="Ruiz Bautista" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="152" IDPersonalOrganismoAuditoriasIniciadas="589" Nombre="L. C. J. Jesús" Apellido="Alvarez Santiago" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="345" IDPersonalOrganismoAuditoriasIniciadas="1495" Nombre="L. C. J. Jesús" Apellido="Alvarez Santiago" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="153" IDPersonalOrganismoAuditoriasIniciadas="585" Nombre="C. P. Augusto Silvestre" Apellido="Castillo Lozada" Cargo="Director de Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="153" IDPersonalOrganismoAuditoriasIniciadas="586" Nombre="ING. José Damián " Apellido="Doniz Castillo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="153" IDPersonalOrganismoAuditoriasIniciadas="587" Nombre="L. C. Lorenza" Apellido="Mendoza Alvarez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="155" IDPersonalOrganismoAuditoriasIniciadas="596" Nombre="L. C. Jaime" Apellido="García Vargas" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="353" IDPersonalOrganismoAuditoriasIniciadas="1748" Nombre="L. C. Jaime" Apellido="García Vargas" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="155" IDPersonalOrganismoAuditoriasIniciadas="595" Nombre="L. A. Jose Luis " Apellido="Hinojosa Sanchez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="353" IDPersonalOrganismoAuditoriasIniciadas="1749" Nombre="L. A. Jose Luis " Apellido="Hinojosa Sanchez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="155" IDPersonalOrganismoAuditoriasIniciadas="597" Nombre="T. S. U. Fortino " Apellido="Acosta Najera" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="280" IDPersonalOrganismoAuditoriasIniciadas="1103" Nombre="Dra. Miriam" Apellido="Yta" Cargo="Rectora" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="161" IDPersonalOrganismoAuditoriasIniciadas="625" Nombre="C. Conrrado" Apellido="Jimenez Hernández" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="161" IDPersonalOrganismoAuditoriasIniciadas="626" Nombre="L. C. Blanca " Apellido="Herrera Pérez" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="161" IDPersonalOrganismoAuditoriasIniciadas="627" Nombre="T. C. Roberto" Apellido="Arteaga Salas" Cargo="Director de Planeacion" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="161" IDPersonalOrganismoAuditoriasIniciadas="628" Nombre="C. Fernando " Apellido="Baltazar Monzalvo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="161" IDPersonalOrganismoAuditoriasIniciadas="629" Nombre="P. L. C. P. Niceforo Ansberto" Apellido="Palafox Valencia" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="162" IDPersonalOrganismoAuditoriasIniciadas="623" Nombre="C. P. Omar" Apellido="Mendoza Cuvas" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="162" IDPersonalOrganismoAuditoriasIniciadas="622" Nombre="Lic. Jessica Lizet" Apellido="Colin Martinez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="255" IDPersonalOrganismoAuditoriasIniciadas="1117" Nombre="Lic. Jessica Lizet" Apellido="Colin Martinez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="162" IDPersonalOrganismoAuditoriasIniciadas="624" Nombre="Ing. Rodrigo Armando" Apellido="Santana Martinez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="255" IDPersonalOrganismoAuditoriasIniciadas="1035" Nombre="Ing. Rodrigo Armando" Apellido="Santana Martinez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="303" IDPersonalOrganismoAuditoriasIniciadas="1251" Nombre="L. A. P. Kathia" Apellido="Mares Ramírez" Cargo="Directora de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="166" IDPersonalOrganismoAuditoriasIniciadas="636" Nombre="C. Facundo" Apellido="Carrillo Gonzalez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="166" IDPersonalOrganismoAuditoriasIniciadas="637" Nombre="Ing. Alberto " Apellido="Anibal Bautista" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="166" IDPersonalOrganismoAuditoriasIniciadas="638" Nombre="C. P. Santos " Apellido="Hilario Portes" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="167" IDPersonalOrganismoAuditoriasIniciadas="639" Nombre="C. Celia" Apellido="zapata Salcedo" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="167" IDPersonalOrganismoAuditoriasIniciadas="640" Nombre="Ing. Gabino " Apellido="Martínez Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="168" IDPersonalOrganismoAuditoriasIniciadas="644" Nombre="C. Claudia " Apellido="Peña Bautista" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="350" IDPersonalOrganismoAuditoriasIniciadas="1714" Nombre="C. Claudia " Apellido="Peña Bautista" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="240" IDPersonalOrganismoAuditoriasIniciadas="910" Nombre="Mtro. y C.P.C. Javier Concepción" Apellido="Morales Loaiza" Cargo="Director General de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="323" IDPersonalOrganismoAuditoriasIniciadas="1367" Nombre="Lic. Alejandro" Apellido="Ángeles Jiménez" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="182" IDPersonalOrganismoAuditoriasIniciadas="682" Nombre="C. P. Gabriel" Apellido="Galván Pardo" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="280" IDPersonalOrganismoAuditoriasIniciadas="1104" Nombre="Lic. Felix" Apellido="Bustamante Soto" Cargo="Secretario Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="333" IDPersonalOrganismoAuditoriasIniciadas="1433" Nombre="Mtra. Margarita" Apellido="Leo Cuevas" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="222" IDPersonalOrganismoAuditoriasIniciadas="817" Nombre="M. V. Z. Arturo " Apellido="García Mendoza" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="308" IDPersonalOrganismoAuditoriasIniciadas="1284" Nombre="Dr. Armín" Apellido="Alvarado Reséndiz" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="253" IDPersonalOrganismoAuditoriasIniciadas="1236" Nombre="C. Juan Carlos" Apellido="García Ángeles" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="309" IDPersonalOrganismoAuditoriasIniciadas="1290" Nombre="Lic. Juan Álvaro" Apellido="Cornejo Espinosa" Cargo="Secretario de Finanzas y Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="352" IDPersonalOrganismoAuditoriasIniciadas="1737" Nombre="Lic. Ma. del Pilar " Apellido="Domínguez Vázquez" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="238" IDPersonalOrganismoAuditoriasIniciadas="888" Nombre="L. C. Brenda Angélica" Apellido="Valle Doroteo" Cargo="Directora Administrativa" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="180" IDPersonalOrganismoAuditoriasIniciadas="678" Nombre="Lic. Levi" Apellido="Leines Rodríguez" Cargo="Secretario de Servicios Públicos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="330" IDPersonalOrganismoAuditoriasIniciadas="1424" Nombre="L.A. Fausto " Apellido="Olvera Trejo" Cargo="Director Ejecutivo de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="185" IDPersonalOrganismoAuditoriasIniciadas="690" Nombre="Lic. Eugenio" Apellido="Benitez Coyoli" Cargo="Secretario Técnico de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="222" IDPersonalOrganismoAuditoriasIniciadas="816" Nombre="C. Asael" Apellido="Hernández Cerón" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="345" IDPersonalOrganismoAuditoriasIniciadas="1491" Nombre="Lic. Mariano" Apellido="Escorcia Gómez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="220" IDPersonalOrganismoAuditoriasIniciadas="1225" Nombre="Arq. León" Apellido="Peña García" Cargo="Director de Planeacion y Desarrollo Urbano Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="234" IDPersonalOrganismoAuditoriasIniciadas="1325" Nombre="C. Juan " Apellido="Martínez Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="235" IDPersonalOrganismoAuditoriasIniciadas="864" Nombre="Ing. Adelfo" Apellido="Estrada León" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="287" IDPersonalOrganismoAuditoriasIniciadas="1135" Nombre="L. A. E. Miguel" Apellido="Montiel Guzmán" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="287" IDPersonalOrganismoAuditoriasIniciadas="1136" Nombre="Arq. Héctor" Apellido="Mendoza Álvarez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="338" IDPersonalOrganismoAuditoriasIniciadas="1459" Nombre="Ing. Juan de Dios Isan" Apellido="Ruiz Orta" Cargo="Encargado de la Dirección de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="247" IDPersonalOrganismoAuditoriasIniciadas="935" Nombre="Ing. José Damián" Apellido="Doniz Castillo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="346" IDPersonalOrganismoAuditoriasIniciadas="1499" Nombre="Lic. Aarón" Apellido="Cortez Avilés" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="339" IDPersonalOrganismoAuditoriasIniciadas="1462" Nombre="L.C. Severo" Apellido="Tamariz Ortíz" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="327" IDPersonalOrganismoAuditoriasIniciadas="1410" Nombre="C. Antonio" Apellido="Flores Zavala" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="232" IDPersonalOrganismoAuditoriasIniciadas="854" Nombre="Arq. Dante" Apellido="Aguilar Sauz" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="897" Nombre="Arq. Dante" Apellido="Aguilar Sauz" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="312" IDPersonalOrganismoAuditoriasIniciadas="1303" Nombre="Ing. Pedro" Apellido="Ávila Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="267" IDPersonalOrganismoAuditoriasIniciadas="1042" Nombre="Ing. Noé Martín" Apellido="Telpalo Tovar" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="309" IDPersonalOrganismoAuditoriasIniciadas="1292" Nombre="Arq. Jaime" Apellido="Avilés Meneses" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="219" IDPersonalOrganismoAuditoriasIniciadas="901" Nombre="Lic. José Luis" Apellido="Vargas López" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="298" IDPersonalOrganismoAuditoriasIniciadas="1197" Nombre="C. Salvador " Apellido="Ramírez López" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="124" IDPersonalOrganismoAuditoriasIniciadas="898" Nombre="C. Macrina " Apellido="Covarrubias Covarrubias" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="297" IDPersonalOrganismoAuditoriasIniciadas="1187" Nombre="Ing. Eleazar Eduardo " Apellido="García Sánchez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="308" IDPersonalOrganismoAuditoriasIniciadas="1282" Nombre="Dr. José Luis" Apellido="Dávalos López" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="308" IDPersonalOrganismoAuditoriasIniciadas="1283" Nombre="Lic. Marcial " Apellido="Martínez Montes" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="242" IDPersonalOrganismoAuditoriasIniciadas="914" Nombre="Arq. Everardo " Apellido="Cabrera Fernández" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="349" IDPersonalOrganismoAuditoriasIniciadas="1512" Nombre="Lic. Jesús Alberto" Apellido="Aguilar Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="349" IDPersonalOrganismoAuditoriasIniciadas="1513" Nombre="L.C. Sonia Leticia " Apellido="Moreno Sánchez" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="349" IDPersonalOrganismoAuditoriasIniciadas="1516" Nombre="Ing. José Juan " Apellido="Franco Lira" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="295" IDPersonalOrganismoAuditoriasIniciadas="1174" Nombre="Ing. José" Apellido="León López" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="286" IDPersonalOrganismoAuditoriasIniciadas="1124" Nombre="Ing. Francisco Antonio " Apellido="Hernández Hinojosa" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="224" IDPersonalOrganismoAuditoriasIniciadas="879" Nombre="Ing. José Baltazar " Apellido="Carrillo Carrillo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="353" IDPersonalOrganismoAuditoriasIniciadas="1750" Nombre="Ing. Rafael " Apellido="Rojas Fuentes " Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="341" IDPersonalOrganismoAuditoriasIniciadas="1474" Nombre="Ing. Rey " Apellido="Antonio Chávez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="328" IDPersonalOrganismoAuditoriasIniciadas="1417" Nombre="Arq. Griselda " Apellido="Paredes Bautista" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="328" IDPersonalOrganismoAuditoriasIniciadas="1416" Nombre="L.C. Baldomero " Apellido="Hernández Reyes" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="258" IDPersonalOrganismoAuditoriasIniciadas="1048" Nombre="Profr. Julio César" Apellido=" Hernández Jiménez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="345" IDPersonalOrganismoAuditoriasIniciadas="1493" Nombre="Arq. Miguel Ángel " Apellido="Meneses Vera" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="343" IDPersonalOrganismoAuditoriasIniciadas="1485" Nombre="C. Virgilio " Apellido="Díaz  Acevedo" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="323" IDPersonalOrganismoAuditoriasIniciadas="1368" Nombre="C. Celia" Apellido="Zapata Salcedo" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="306" IDPersonalOrganismoAuditoriasIniciadas="1270" Nombre="Profra. Amalia" Apellido="Valencia Lucio" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="296" IDPersonalOrganismoAuditoriasIniciadas="1180" Nombre="Ing. Carlos Teodoro" Apellido="Ortiz Rodríguez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="296" IDPersonalOrganismoAuditoriasIniciadas="1182" Nombre="C. Martín" Apellido="Martínez Cervantes" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="296" IDPersonalOrganismoAuditoriasIniciadas="1186" Nombre="Mtra. Daniela Viridiana" Apellido="Villeda Camacho" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="307" IDPersonalOrganismoAuditoriasIniciadas="1275" Nombre="Tec.  J. Carmelo" Apellido="López Mata" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="299" IDPersonalOrganismoAuditoriasIniciadas="1200" Nombre="Q. L. Blanca" Apellido="Juárez Mora" Cargo="Presidenta Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="351" IDPersonalOrganismoAuditoriasIniciadas="1727" Nombre="Ing. Roberto" Apellido="Bautista Reyes" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="200" IDPersonalOrganismoAuditoriasIniciadas="738" Nombre="Mtro. Herminio" Apellido="Baltazar Cisneros" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="282" IDPersonalOrganismoAuditoriasIniciadas="1110" Nombre="Lic. Dalila" Apellido="Tolentino Ramírez" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="272" IDPersonalOrganismoAuditoriasIniciadas="1078" Nombre="Lic. Jaime Oscar" Apellido="Becerril Olvera" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="304" IDPersonalOrganismoAuditoriasIniciadas="1254" Nombre="L.C. Gabriela" Apellido="Mejía Valencia" Cargo="Coordinadora de la División de Administración y Finanzas " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="328" IDPersonalOrganismoAuditoriasIniciadas="1419" Nombre="Profr. Moisés" Apellido="Bautista Dolores" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="257" IDPersonalOrganismoAuditoriasIniciadas="982" Nombre="Ing. José Alfredo" Apellido="Maravillas Flores" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="194" IDPersonalOrganismoAuditoriasIniciadas="719" Nombre="M. en C. Ricardo" Apellido="Rodríguez Alarcón" Cargo="Encargado de Rectoría" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="194" IDPersonalOrganismoAuditoriasIniciadas="720" Nombre="Lic. Juan Raúl" Apellido="Zaragoza Cortez" Cargo="Encargado de la Dirección de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="343" IDPersonalOrganismoAuditoriasIniciadas="1484" Nombre="Lic. Ma. del Carmen" Apellido="Barrera Ortíz" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="242" IDPersonalOrganismoAuditoriasIniciadas="913" Nombre="L.C. Alberto Jorge" Apellido="Gómez Santos" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="289" IDPersonalOrganismoAuditoriasIniciadas="1151" Nombre="LIc. Gregorio " Apellido="Resendiz Resendiz" Cargo="Director de Administación, Evaluación y Seguimiento" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="209" IDPersonalOrganismoAuditoriasIniciadas="767" Nombre="C.P. Teresa" Apellido="Ángeles Maya" Cargo="Directora de Administración y Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="256" IDPersonalOrganismoAuditoriasIniciadas="1132" Nombre="L. C. Mateo Juan " Apellido="Ramírez Hernández" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="250" IDPersonalOrganismoAuditoriasIniciadas="950" Nombre="Lic. Mirna Yadira" Apellido="Suárez Zarco" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="231" IDPersonalOrganismoAuditoriasIniciadas="844" Nombre="L.C. María Anel " Apellido="Doñu Hernández" Cargo="Jefa de Departamento" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="231" IDPersonalOrganismoAuditoriasIniciadas="845" Nombre="L.F.F. María Guadalupe " Apellido="Rómulo Mendoza" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="254" IDPersonalOrganismoAuditoriasIniciadas="974" Nombre="Lic. Víctor Anastacio" Apellido="Falcón López" Cargo="Subdirector Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="233" IDPersonalOrganismoAuditoriasIniciadas="860" Nombre="Ing. Adriana Yoselin" Apellido="Ortega López" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="213" IDPersonalOrganismoAuditoriasIniciadas="779" Nombre="LIC. ORALIA" Apellido="VEGA ORTÍZ" Cargo="Secretaria de Desarrollo Social" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="335" IDPersonalOrganismoAuditoriasIniciadas="1438" Nombre="Lic. Benigno" Apellido="Prieto Pelaez" Cargo="SUPLENTE TEMPORAL DE LA DIRECCIÓN GENERAL" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="219" IDPersonalOrganismoAuditoriasIniciadas="902" Nombre="C. P. Elías" Apellido="Ávila Ruiz" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="219" IDPersonalOrganismoAuditoriasIniciadas="903" Nombre="L. D. Gustavo" Apellido="Licona Sosa" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="309" IDPersonalOrganismoAuditoriasIniciadas="1287" Nombre="Ing. Filiberto" Apellido="Hernández Monzalvo" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="272" IDPersonalOrganismoAuditoriasIniciadas="1076" Nombre="Ing. José Luis " Apellido="Gallego Hernández" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="235" IDPersonalOrganismoAuditoriasIniciadas="862" Nombre="C. P. Marcolino Celso  " Apellido="Escamilla Reyes" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="213" IDPersonalOrganismoAuditoriasIniciadas="780" Nombre="Lic. Eduardo " Apellido="Cortés González" Cargo="Director General de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="213" IDPersonalOrganismoAuditoriasIniciadas="784" Nombre="L.D. Erick" Apellido="Gutiérrez Rivera" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="212" IDPersonalOrganismoAuditoriasIniciadas="775" Nombre="P. L. C. Sara Elizabeth" Apellido="Osornio Hernández" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="212" IDPersonalOrganismoAuditoriasIniciadas="774" Nombre="C. Mauricio Eréis" Apellido="Osornio Hernández" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="344" IDPersonalOrganismoAuditoriasIniciadas="1486" Nombre="Lic. Andrés " Apellido="Trejo Reyes" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="240" IDPersonalOrganismoAuditoriasIniciadas="909" Nombre="M.I. VICTOR MANUEL " Apellido="GÓMEZ NAVARRO" Cargo="Secretario de Medio Ambiente y Recursos Naturales" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="208" IDPersonalOrganismoAuditoriasIniciadas="768" Nombre="ING. FRANCISCO JAVIER " Apellido="GARCÍA LÓPEZ" Cargo="Director General de Administración y Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="208" IDPersonalOrganismoAuditoriasIniciadas="769" Nombre="L.C. ODILON " Apellido="RIVERA HERNÁNDEZ" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="274" IDPersonalOrganismoAuditoriasIniciadas="1083" Nombre="C. P. Antonio" Apellido="Assaid Abaid" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="223" IDPersonalOrganismoAuditoriasIniciadas="1372" Nombre="C. Mario" Apellido="Pacheco Pérez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="203" IDPersonalOrganismoAuditoriasIniciadas="754" Nombre="L.C. Gabriel" Apellido="Galvan Pardo" Cargo="Director de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="204" IDPersonalOrganismoAuditoriasIniciadas="755" Nombre="L.C. Maria Basilisa" Apellido="Mendoza Maldonado" Cargo="Responsable Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="215" IDPersonalOrganismoAuditoriasIniciadas="789" Nombre="L. C. Luis Enrique" Apellido="Falcón Tapia" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="222" IDPersonalOrganismoAuditoriasIniciadas="820" Nombre="C. Luis Alonso" Apellido="Barrera Cruz" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="321" IDPersonalOrganismoAuditoriasIniciadas="1353" Nombre="Arq. Miguel " Apellido="Naranjo García" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="344" IDPersonalOrganismoAuditoriasIniciadas="1489" Nombre="C. P. Víctor " Apellido="Díaz López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="263" IDPersonalOrganismoAuditoriasIniciadas="1012" Nombre="L. C. José Ramiro" Apellido="Reyes Conde" Cargo="Contralor Interno Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="297" IDPersonalOrganismoAuditoriasIniciadas="1188" Nombre="M. en A. Raquel" Apellido="Ramírez Vargas" Cargo="Secretaria de la Tesorería Municipal " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="262" IDPersonalOrganismoAuditoriasIniciadas="1006" Nombre="C. Víctor Hugo" Apellido="Hernández Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="216" IDPersonalOrganismoAuditoriasIniciadas="797" Nombre="Dr. Mauricio " Apellido="Llaca Castelán" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="216" IDPersonalOrganismoAuditoriasIniciadas="904" Nombre="Ing. Víctor " Apellido="Hernández Salvador" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="220" IDPersonalOrganismoAuditoriasIniciadas="1222" Nombre="L. A. E. T. María del Carmen" Apellido="Azpeitia Pacheco" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="216" IDPersonalOrganismoAuditoriasIniciadas="799" Nombre="Arq. Gumaro" Apellido="López Mejía" Cargo="Secretario de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="298" IDPersonalOrganismoAuditoriasIniciadas="1198" Nombre="L. A. E. Norma" Apellido="Acevedo García" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="298" IDPersonalOrganismoAuditoriasIniciadas="1196" Nombre="C. P. Cesar Guadalupe" Apellido="Medina Velarde " Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="252" IDPersonalOrganismoAuditoriasIniciadas="961" Nombre="M. en C. Miguel Ángel" Apellido="Jaramillo Callejas" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="235" IDPersonalOrganismoAuditoriasIniciadas="861" Nombre="Dr. Edgar" Apellido="Reyes Martínez" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="217" IDPersonalOrganismoAuditoriasIniciadas="808" Nombre="Lic. Maria de Lourdes" Apellido="García Gómez" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="217" IDPersonalOrganismoAuditoriasIniciadas="827" Nombre="M.A. Fabiola " Apellido="Mendoza Lazcano" Cargo="Jefa de Departamento de Recursos Financieros" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="267" IDPersonalOrganismoAuditoriasIniciadas="1041" Nombre="Ing. Mario" Apellido="Callejas Juárez" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="244" IDPersonalOrganismoAuditoriasIniciadas="928" Nombre="Arq. Lebek" Apellido="Acosta Jurado" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="243" IDPersonalOrganismoAuditoriasIniciadas="924" Nombre="C.T.C. Elvia Laura" Apellido="Olmos Ángeles" Cargo="Enlace de Auditoría" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="243" IDPersonalOrganismoAuditoriasIniciadas="925" Nombre="C.P. María Enriqueta " Apellido="Ortiz Ramírez" Cargo="Testigo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="243" IDPersonalOrganismoAuditoriasIniciadas="926" Nombre="L.C. Jesús " Apellido="Hernández Miranda" Cargo="Testigo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="220" IDPersonalOrganismoAuditoriasIniciadas="1224" Nombre="I.F.I. Edgar Alan " Apellido="Venado García" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="325" IDPersonalOrganismoAuditoriasIniciadas="1395" Nombre="Lic. Marisol" Apellido="Muñoz García" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="324" IDPersonalOrganismoAuditoriasIniciadas="1380" Nombre="Arq. Ponciano " Apellido="Oviedo Espinoza" Cargo="Directora de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="308" IDPersonalOrganismoAuditoriasIniciadas="1285" Nombre="Ing. Agustín" Apellido="Zúñiga Lara" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="252" IDPersonalOrganismoAuditoriasIniciadas="962" Nombre="C.P. María Elena " Apellido="Aguilar Ávila" Cargo="Directora de Ingresos y Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="252" IDPersonalOrganismoAuditoriasIniciadas="967" Nombre="Arq. Adán " Apellido="Gómez Reséndiz" Cargo="Secretario de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="254" IDPersonalOrganismoAuditoriasIniciadas="976" Nombre="Lic. Blanca Alejandra" Apellido="Hernández Trejo" Cargo="Sindico Procurador Jurídico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="254" IDPersonalOrganismoAuditoriasIniciadas="977" Nombre="L.C. José Antonio " Apellido="Sánchez Monzón" Cargo="Coordinador de la División de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="257" IDPersonalOrganismoAuditoriasIniciadas="986" Nombre="Arq. Erik Osvaldo " Apellido="Abreo Montiel" Cargo="Encargado" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="257" IDPersonalOrganismoAuditoriasIniciadas="985" Nombre="Ing. Gustavo " Apellido="Pérez Solares" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="326" IDPersonalOrganismoAuditoriasIniciadas="1401" Nombre="C. Jorge Luis" Apellido="Cruz Cruz" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="295" IDPersonalOrganismoAuditoriasIniciadas="1175" Nombre="Lic. César" Apellido="Rodríguez López" Cargo="Tesorero Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="295" IDPersonalOrganismoAuditoriasIniciadas="1176" Nombre="L. A. P. José Raúl" Apellido="Ávila Ramírez" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="286" IDPersonalOrganismoAuditoriasIniciadas="1123" Nombre="L. T. Anaid Selene" Apellido="Domínguez Trejo" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="286" IDPersonalOrganismoAuditoriasIniciadas="1126" Nombre="Lic. Aurelia" Apellido="Torres Trejo" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="998" Nombre="Lic. Yuridia Ángeles " Apellido="Valdez Silva" Cargo="Contralora" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="260" IDPersonalOrganismoAuditoriasIniciadas="992" Nombre="L.A. Luis Adolfo " Apellido="Cruz Pérez" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="263" IDPersonalOrganismoAuditoriasIniciadas="1013" Nombre="L.C. Maria Luisa " Apellido="Vargas Mayorga" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="1000" Nombre="Ing. Francisco Javier " Apellido="Hernández Gómez" Cargo="Secretario de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="261" IDPersonalOrganismoAuditoriasIniciadas="1001" Nombre="L.A. J. Guadalupe " Apellido="Quezada Rivero" Cargo="Director de Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="262" IDPersonalOrganismoAuditoriasIniciadas="1007" Nombre="L.C. José Luis " Apellido="Pérez Soni" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="265" IDPersonalOrganismoAuditoriasIniciadas="1021" Nombre="Ing. Vicente Gerardo " Apellido="Sevilla Díaz" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="265" IDPersonalOrganismoAuditoriasIniciadas="1028" Nombre="C.P. Laurencio " Apellido="Alcántara Martínez" Cargo="Subdirector de Ingresos y Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="265" IDPersonalOrganismoAuditoriasIniciadas="1023" Nombre="L.C. Jaime " Apellido="Martínez Jiménez" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="267" IDPersonalOrganismoAuditoriasIniciadas="1043" Nombre="Arq. Ricardo Emir" Apellido="Ramírez Cisneros" Cargo="Enlace" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="267" IDPersonalOrganismoAuditoriasIniciadas="1044" Nombre="Arq. Joghanzer " Apellido="Rodríguez Mata" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="267" IDPersonalOrganismoAuditoriasIniciadas="1045" Nombre="C.P. Pedro Siteo" Apellido="Falcón Rodríguez" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="258" IDPersonalOrganismoAuditoriasIniciadas="1055" Nombre="C. José Pascual" Apellido=" Calva Aldana" Cargo="Director de Planeacion" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="271" IDPersonalOrganismoAuditoriasIniciadas="1074" Nombre="L.C. Brenda" Apellido="Hernández Labra" Cargo="Jefa de Departamento" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="294" IDPersonalOrganismoAuditoriasIniciadas="1171" Nombre="L. A. E. Olga Olivia" Apellido="Gómez Mijares" Cargo="Coordinadora Administrativa" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="270" IDPersonalOrganismoAuditoriasIniciadas="1075" Nombre="L.C. Víctor Manuel" Apellido="Chavez Vargas" Cargo="Coordinador de Asesores en Seguimiento de Auditorias" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="305" IDPersonalOrganismoAuditoriasIniciadas="1264" Nombre="L. A. E. Daniel" Apellido="Márquez Delgadillo" Cargo="Contralor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="330" IDPersonalOrganismoAuditoriasIniciadas="1425" Nombre="L.C. Teresita de Jesús " Apellido="Talamantes Castro" Cargo="Contralora Interna" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="283" IDPersonalOrganismoAuditoriasIniciadas="1112" Nombre="L.C. Lilia" Apellido="Téllez Rojo" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="283" IDPersonalOrganismoAuditoriasIniciadas="1113" Nombre="Lic. Felipe de Jesús" Apellido="Ramírez Barragan" Cargo="Contralor Interno" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="278" IDPersonalOrganismoAuditoriasIniciadas="1098" Nombre="Lic. Vicente Octavio " Apellido="Castillo Lazcano" Cargo="Secretario Ejecutivo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="278" IDPersonalOrganismoAuditoriasIniciadas="1099" Nombre="Lic. Sigifredo" Apellido="Rivera Mercado" Cargo="Director de Acceso a la Información y Protección de Datos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="278" IDPersonalOrganismoAuditoriasIniciadas="1100" Nombre="Mtro. Diego Daniel" Apellido="Cárdenas de la O" Cargo="Secretario Particular" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="332" IDPersonalOrganismoAuditoriasIniciadas="1430" Nombre="ARQ. Alfonso" Apellido="Bejos Paredes" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="320" IDPersonalOrganismoAuditoriasIniciadas="1344" Nombre="C. Sonia Lissette" Apellido="de Dios Vite" Cargo="Tesorera Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="324" IDPersonalOrganismoAuditoriasIniciadas="1377" Nombre="C. José Alfredo" Apellido="San Román Duval" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="286" IDPersonalOrganismoAuditoriasIniciadas="1127" Nombre="Lic. Citlaly" Apellido="Martínez Martínez" Cargo="Secretaría General Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="292" IDPersonalOrganismoAuditoriasIniciadas="1159" Nombre="L.C. Juan Carlos" Apellido="Badillo Trejo" Cargo="Subdirector General de Planeación, Administración y Finanzas " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="256" IDPersonalOrganismoAuditoriasIniciadas="1133" Nombre="L.C.P. José Edgar " Apellido="Hernández Soto" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="247" IDPersonalOrganismoAuditoriasIniciadas="1142" Nombre="C. Augusto Silvestre" Apellido="Castillo Lozada" Cargo="Director de Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="247" IDPersonalOrganismoAuditoriasIniciadas="1143" Nombre="Ing. Dianca Yesenia " Apellido="Olguín Domínguez" Cargo="Contadora de Cuenta Pública" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="288" IDPersonalOrganismoAuditoriasIniciadas="1149" Nombre="L.C. Nicolás " Apellido="Dorantes Beristain" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="293" IDPersonalOrganismoAuditoriasIniciadas="1168" Nombre="Tec. Mireya " Apellido="Arteaga Rodríguez" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="294" IDPersonalOrganismoAuditoriasIniciadas="1172" Nombre="L.C. Alejandra " Apellido="Rivera Hernández" Cargo="Encargada Ingresos Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="295" IDPersonalOrganismoAuditoriasIniciadas="1177" Nombre="L.A.P. Carolina " Apellido="López Samperio" Cargo="Juez Conciliador" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="296" IDPersonalOrganismoAuditoriasIniciadas="1181" Nombre="L.C. Esmeralda " Apellido="Estrada Morán" Cargo="Coordinadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="297" IDPersonalOrganismoAuditoriasIniciadas="1189" Nombre="L.C. Rafael " Apellido="Zuviri Guzmán" Cargo="Secretario de Administración" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="297" IDPersonalOrganismoAuditoriasIniciadas="1194" Nombre="L.C. Josefina  " Apellido="Ruiz Sánchez" Cargo="Directora de Presupuesto y Contabilidad" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="302" IDPersonalOrganismoAuditoriasIniciadas="1247" Nombre="MTRO. HERMINIO" Apellido="BALTAZAR CISNEROS" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="302" IDPersonalOrganismoAuditoriasIniciadas="1249" Nombre="LIC. CARLOS " Apellido="BECERRIL VARGAS" Cargo="Director de la Coordinación Financiera y Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="300" IDPersonalOrganismoAuditoriasIniciadas="1210" Nombre="C.P. María Elena " Apellido="Ortíz Velázquez" Cargo="Auxiliar de Tesoreria" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="300" IDPersonalOrganismoAuditoriasIniciadas="1211" Nombre="C. Aracely " Apellido="Mendez Campos" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="300" IDPersonalOrganismoAuditoriasIniciadas="1212" Nombre="LIC. Horacio" Apellido="Arriaga Roque" Cargo="Secretaría General Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="266" IDPersonalOrganismoAuditoriasIniciadas="1216" Nombre="C. Ma. Isabel" Apellido="Franco Mendoza" Cargo="Auxiliar de Tesoreria" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="266" IDPersonalOrganismoAuditoriasIniciadas="1217" Nombre="C. Ing. Gerardo" Apellido="Vargas Larios" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="221" IDPersonalOrganismoAuditoriasIniciadas="1228" Nombre="L.C. Gabriel " Apellido="Gómez Franco" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="221" IDPersonalOrganismoAuditoriasIniciadas="1229" Nombre="Ing. Sergio " Apellido="Sosa Noya" Cargo="Responsable Técnico de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="253" IDPersonalOrganismoAuditoriasIniciadas="1235" Nombre="Ing. Agustín " Apellido="Lozada Morgado" Cargo="Asesor de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="253" IDPersonalOrganismoAuditoriasIniciadas="1237" Nombre="L.C. Gregorio " Apellido="Santana Ángeles" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="301" IDPersonalOrganismoAuditoriasIniciadas="1242" Nombre="C. Amalia" Apellido="Téllez Pérez" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="304" IDPersonalOrganismoAuditoriasIniciadas="1253" Nombre="Lic. Gerardo" Apellido="Sosa Castelan" Cargo="Presidente del Patronato Universitario" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="304" IDPersonalOrganismoAuditoriasIniciadas="1256" Nombre="Mtro. Tomás" Apellido="Herrera González" Cargo="Director General de Planeación" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="304" IDPersonalOrganismoAuditoriasIniciadas="1257" Nombre="C.P Carlos Daniel" Apellido="García Reyes" Cargo="Vicepresidente del Patronato Universitario" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="314" IDPersonalOrganismoAuditoriasIniciadas="1310" Nombre="ARQ. ALFONSO " Apellido="BEJOS PAREDES" Cargo="Director General" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="305" IDPersonalOrganismoAuditoriasIniciadas="1261" Nombre="L.C. Wendy " Apellido="Vargas Soto" Cargo="Auxiliar" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="305" IDPersonalOrganismoAuditoriasIniciadas="1263" Nombre="L.C. Justo" Apellido="Hernández Luna" Cargo="Técnico Especializado " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="305" IDPersonalOrganismoAuditoriasIniciadas="1265" Nombre="L.C. Erik Gabriel" Apellido="Mejia Vera" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="307" IDPersonalOrganismoAuditoriasIniciadas="1276" Nombre="C. Manuel" Apellido="Andrade Zúñiga" Cargo="Secretaría General Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="307" IDPersonalOrganismoAuditoriasIniciadas="1278" Nombre="C. Clemente Casimiro" Apellido="Gómez Ortega" Cargo="Encargado de Armonización Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="309" IDPersonalOrganismoAuditoriasIniciadas="1288" Nombre="Arq. Luis Fernando" Apellido="Marcial Amezcua" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="309" IDPersonalOrganismoAuditoriasIniciadas="1289" Nombre="L.C. Oscar " Apellido="Ojeda Gonzales" Cargo="Director de Contabilidad y Control Presupuestal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="312" IDPersonalOrganismoAuditoriasIniciadas="1302" Nombre="C.P. Yara Carolina" Apellido="Romero Hernández" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="317" IDPersonalOrganismoAuditoriasIniciadas="1317" Nombre="Lic. Armando" Apellido="Pérez López" Cargo="Director de Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="234" IDPersonalOrganismoAuditoriasIniciadas="1324" Nombre="C. P. Adán " Apellido="Molina Arellano" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="234" IDPersonalOrganismoAuditoriasIniciadas="1326" Nombre="Lic. Fernando " Apellido="Pimentel Pérez" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="234" IDPersonalOrganismoAuditoriasIniciadas="1327" Nombre="L. C. Estefana " Apellido="Estrella Muñoz" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="320" IDPersonalOrganismoAuditoriasIniciadas="1343" Nombre="Lic. Fernando " Apellido="Flores Hernández" Cargo="Asesor Técnico" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="320" IDPersonalOrganismoAuditoriasIniciadas="1347" Nombre="Ing. Vicente" Apellido="Maravilla Flores" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="319" IDPersonalOrganismoAuditoriasIniciadas="1333" Nombre="C. L. C. Itcel" Apellido="Maldonado Ponce" Cargo="Contador General Enlace" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="319" IDPersonalOrganismoAuditoriasIniciadas="1334" Nombre="C. L. C. Mireya" Apellido="Duran Vera" Cargo="Encargada de nomina" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="319" IDPersonalOrganismoAuditoriasIniciadas="1335" Nombre="L. C. Alberto Antonio" Apellido="Cortes Guerrero" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="321" IDPersonalOrganismoAuditoriasIniciadas="1352" Nombre="Arq. Vicente " Apellido="Martinez Hernández" Cargo="Supervisor de Obras " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="321" IDPersonalOrganismoAuditoriasIniciadas="1354" Nombre="Tec. Nicandro " Apellido="Hernández Castillo" Cargo="Subdirector de Ingresos y Egresos" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="320" IDPersonalOrganismoAuditoriasIniciadas="1342" Nombre="C. Baltasar" Apellido="Hernández Delgado" Cargo="Presidente Municipal Constitucional" EsTitular="True" />
+  <PersonalEntidad IDAuditoriasIniciadas="322" IDPersonalOrganismoAuditoriasIniciadas="1359" Nombre="C. C. P. Jacinto" Apellido="Pérez Verde" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="322" IDPersonalOrganismoAuditoriasIniciadas="1360" Nombre="C. Arq. Emmanuel " Apellido="Falcón Hernández" Cargo="Supervisor de Obras " EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="322" IDPersonalOrganismoAuditoriasIniciadas="1361" Nombre="C. T. C. Catalina " Apellido="Severino Severino" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="323" IDPersonalOrganismoAuditoriasIniciadas="1369" Nombre="C. José Luis" Apellido="Serna Téllez" Cargo="Subdirector de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="324" IDPersonalOrganismoAuditoriasIniciadas="1378" Nombre="Ing. Rodolfo " Apellido="Redondo Gonzalez" Cargo="Encardado de Supervisor de obra" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="324" IDPersonalOrganismoAuditoriasIniciadas="1379" Nombre="Ing. Jesús" Apellido="Barragán Torres" Cargo="Encargado de  Programa Federales" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="331" IDPersonalOrganismoAuditoriasIniciadas="1428" Nombre="M.M.T. Leticia" Apellido="Zarco Mendoza" Cargo="Directora de Administración y Finanzas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="311" IDPersonalOrganismoAuditoriasIniciadas="1387" Nombre="Lic. Irma" Apellido="Bautista Martínez" Cargo="Supervisor" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="325" IDPersonalOrganismoAuditoriasIniciadas="1392" Nombre="L.C. Janeth" Apellido="Rodríguez García" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="325" IDPersonalOrganismoAuditoriasIniciadas="1393" Nombre="L.E. Edgar " Apellido="Chávez Vargas" Cargo="Jefe de Departamento de Administración y Control de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="325" IDPersonalOrganismoAuditoriasIniciadas="1394" Nombre="Ing. Karina " Apellido="Sánchez  Chávez" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="326" IDPersonalOrganismoAuditoriasIniciadas="1400" Nombre="L.C. Josefina " Apellido="Pérez Bagui" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="327" IDPersonalOrganismoAuditoriasIniciadas="1408" Nombre="C. Veronica" Apellido="Barragán Sevilla" Cargo="Auxiliar de Tesoreria" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="327" IDPersonalOrganismoAuditoriasIniciadas="1411" Nombre="C.P. Miguel Ángel " Apellido="Rojas Vázquez" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="328" IDPersonalOrganismoAuditoriasIniciadas="1415" Nombre="C.P. Antonio " Apellido="Santana Ponce" Cargo="Contador Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="218" IDPersonalOrganismoAuditoriasIniciadas="1441" Nombre="C.P. Gabriela Lesbia" Apellido="Rodríguez Olvera" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="337" IDPersonalOrganismoAuditoriasIniciadas="1452" Nombre="C.L.A. Rubén " Apellido=" Asiain  Gallegos " Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="337" IDPersonalOrganismoAuditoriasIniciadas="1454" Nombre="L.D. Edwin Viliulfo" Apellido="Lazcano Rosales" Cargo="Encargado" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="338" IDPersonalOrganismoAuditoriasIniciadas="1457" Nombre="Ing. Ulises " Apellido="Samaniego Vite" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="339" IDPersonalOrganismoAuditoriasIniciadas="1463" Nombre="L.C. Francisco Ines" Apellido="Azuara Arguelles" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="339" IDPersonalOrganismoAuditoriasIniciadas="1612" Nombre="L.A.E. José Manuel " Apellido="Portes Martínez" Cargo="Encargado" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="340" IDPersonalOrganismoAuditoriasIniciadas="1467" Nombre="Ing. Marín " Apellido="Hernández Martínez" Cargo="Director de Obras Públicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="340" IDPersonalOrganismoAuditoriasIniciadas="1468" Nombre="Ing. Bonifacio Nahum" Apellido="Melo Godinez" Cargo="Encargado" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="340" IDPersonalOrganismoAuditoriasIniciadas="1469" Nombre="L.C. Liliana " Apellido="Zenteno Arenas" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="342" IDPersonalOrganismoAuditoriasIniciadas="1479" Nombre="C. Noemi " Apellido="Angeles Mejía" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="342" IDPersonalOrganismoAuditoriasIniciadas="1633" Nombre="C. Elizabeth " Apellido="Pérez Atilano" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="343" IDPersonalOrganismoAuditoriasIniciadas="1482" Nombre="C.P. Anastacia " Apellido="Martínez Trejo" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="343" IDPersonalOrganismoAuditoriasIniciadas="1483" Nombre="Ing. Paulo Alfonso " Apellido="Velázquez Cruz" Cargo="Residente de Obra" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="346" IDPersonalOrganismoAuditoriasIniciadas="1497" Nombre="Arq. Ana Ruth" Apellido="Contreras Hernández" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="346" IDPersonalOrganismoAuditoriasIniciadas="1498" Nombre="C. Ma. Isabel " Apellido="Lira Rivera" Cargo="Auxiliar Contable" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="347" IDPersonalOrganismoAuditoriasIniciadas="1502" Nombre="L.C. María " Apellido="Ramírez Reyes" Cargo="Directora de Contabilidad y Cuenta Pública" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="347" IDPersonalOrganismoAuditoriasIniciadas="1504" Nombre="L.A. Diana " Apellido="Palacios Lozano" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="347" IDPersonalOrganismoAuditoriasIniciadas="1667" Nombre="Lic. Ángel Daniel" Apellido="Suarez Zarco" Cargo="Secretario Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="347" IDPersonalOrganismoAuditoriasIniciadas="1668" Nombre="C. Mario " Apellido="Angeles Sánchez" Cargo="Auxiliar Administrativo" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="349" IDPersonalOrganismoAuditoriasIniciadas="1515" Nombre="L.C. Luz Janett" Apellido="Jiménez Rosales" Cargo="Encargada" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="341" IDPersonalOrganismoAuditoriasIniciadas="1473" Nombre="C.P. Ma. Adriana " Apellido="Enciso Cervantes" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="239" IDPersonalOrganismoAuditoriasIniciadas="1698" Nombre="L.C. María Cristina" Apellido="Verde Pérez" Cargo="Contadora General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="239" IDPersonalOrganismoAuditoriasIniciadas="1711" Nombre="L.C. Julieta " Apellido="Marce Espinosa" Cargo="Contadora Municipal" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="350" IDPersonalOrganismoAuditoriasIniciadas="1715" Nombre="C. Verónica " Apellido="García Enciso" Cargo="Auxiliar de Obras Publicas" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="351" IDPersonalOrganismoAuditoriasIniciadas="1725" Nombre="L.C. Hector " Apellido="Serrano  Cruz" Cargo="Contador General" EsTitular="False" />
+  <PersonalEntidad IDAuditoriasIniciadas="351" IDPersonalOrganismoAuditoriasIniciadas="1728" Nombre="LIC. Gerardo " Apellido="Otero Ponce" Cargo="Auxiliar Administrativo" EsTitular="False" />
+</InicioAuditorias>

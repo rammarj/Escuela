@@ -1,0 +1,2 @@
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\RAMMARJ\Documents\VS\Projects\Prog.Concurrente\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config

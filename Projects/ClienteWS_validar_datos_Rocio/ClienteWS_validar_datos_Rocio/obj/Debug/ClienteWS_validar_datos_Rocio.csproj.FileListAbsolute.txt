@@ -1,0 +1,10 @@
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\bin\Debug\ClienteWS_validar_datos_Rocio.exe.config
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\bin\Debug\ClienteWS_validar_datos_Rocio.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\bin\Debug\ClienteWS_validar_datos_Rocio.pdb
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.Form1.resources
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.Properties.Resources.resources
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.csproj.GenerateResource.Cache
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.pdb
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.FormularioCliente.resources
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\ClienteWS_validar_datos_Rocio\ClienteWS_validar_datos_Rocio\obj\Debug\ClienteWS_validar_datos_Rocio.FormularioPagar.resources

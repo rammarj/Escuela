@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="i0akinsec.wordpress.com.examenparcial2.Registro"
+    tools:showIn="@layout/activity_registro">
+
+    <TextView
+        android:id="@+id/txtvTituloRegistro"
+        android:layout_margin="@dimen/margen_boton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/registro"
+        android:textSize="@dimen/size_titulo"/>
+
+    <RelativeLayout
+        android:layout_margin="@dimen/margen_centro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnPonente"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="@dimen/margen_boton"
+            android:textSize="@dimen/tam_texto"
+            android:padding="@dimen/padding_boton"
+            android:background="@color/colorPrimary"
+            android:layout_width="@dimen/width_boton"
+            android:layout_height="wrap_content"
+            android:text="@string/ponente"
+            android:layout_centerHorizontal="true"
+            android:onClick="btnPonenteClick" />
+
+
+        <Button
+            android:id="@+id/btnAsistente"
+            android:layout_below="@+id/btnPonente"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_boton"
+            android:layout_width="@dimen/width_boton"
+            android:padding="@dimen/padding_boton"
+            android:background="@color/colorPrimary"
+            android:layout_height="wrap_content"
+            android:text="@string/asistente"
+            android:layout_centerHorizontal="true"
+            android:onClick="btnAsistenteClick" />
+
+    </RelativeLayout>
+
+</LinearLayout>

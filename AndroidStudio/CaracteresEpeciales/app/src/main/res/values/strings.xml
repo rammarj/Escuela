@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaracteresEpeciales</string>
+    <string name="label">Texto a validar</string>
+</resources>

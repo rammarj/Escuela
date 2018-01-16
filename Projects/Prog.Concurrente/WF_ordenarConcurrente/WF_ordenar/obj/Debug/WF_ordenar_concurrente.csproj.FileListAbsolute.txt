@@ -1,0 +1,8 @@
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\obj\Debug\WF_ordenar.Form1.resources
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\obj\Debug\WF_ordenar.Properties.Resources.resources
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\obj\Debug\WF_ordenar_concurrente.csproj.GenerateResource.Cache
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\obj\Debug\WF_ordenar.exe
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\obj\Debug\WF_ordenar.pdb
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\bin\Debug\WF_ordenar.exe.config
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\bin\Debug\WF_ordenar.exe
+C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Prog.Concurrente\WF_ordenarConcurrente\WF_ordenar\bin\Debug\WF_ordenar.pdb

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="i0akinsec.wordpress.com.examenparcial2.NavGaleriaActivity"
+    tools:showIn="@layout/activity_nav_galeria">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/galeria_menu"
+        android:layout_marginLeft="@dimen/margen_centro"
+        android:textSize="@dimen/size_titulo"/>
+
+    <LinearLayout
+        android:layout_margin="@dimen/margen_centro"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_margin="@dimen/margen_boton"
+            android:src="@drawable/ic_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_margin="@dimen/margen_boton"
+            android:src="@drawable/ic_about"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/ic_galeria"
+            android:layout_margin="@dimen/margen_boton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_margin="@dimen/margen_boton"
+            android:src="@drawable/ic_ponente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

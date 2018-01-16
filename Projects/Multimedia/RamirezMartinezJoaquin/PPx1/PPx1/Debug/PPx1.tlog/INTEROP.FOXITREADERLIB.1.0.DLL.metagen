@@ -1,0 +1,121 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Interop.FOXITREADERLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Interface FOXITREADERLib._IFoxitCtlEvents: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Methods:
+    OnError(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OnMessage(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class FOXITREADERLib.FoxitCtlClass: AutoLayout, AnsiClass, Class, Public, Import
+  :System.__ComObject
+    Void .ctor(): PrivateScope, Public, SpecialName, RTSpecialName
+  Interfaces:
+    FOXITREADERLib.IFoxitCtl
+    FOXITREADERLib.FoxitCtl
+    FOXITREADERLib._IFoxitCtlEvents_Event
+  Properties:
+    System.String src 'get set' : 
+    System.Object messageHandler 'get set' : 
+  Events:
+    FOXITREADERLib._IFoxitCtlEvents_OnErrorEventHandler OnError: 
+    FOXITREADERLib._IFoxitCtlEvents_OnMessageEventHandler OnMessage: 
+  Methods:
+    get_src(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_src(String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    OpenFile(String(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    PrintFile(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetProgress(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    postMessage(Object(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    get_messageHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_messageHandler(Object(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    add_OnError(_IFoxitCtlEvents_OnErrorEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    remove_OnError(_IFoxitCtlEvents_OnErrorEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    add_OnMessage(_IFoxitCtlEvents_OnMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    remove_OnMessage(_IFoxitCtlEvents_OnMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Interface FOXITREADERLib._IFoxitCtlEvents_Event: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract
+  Events:
+    FOXITREADERLib._IFoxitCtlEvents_OnErrorEventHandler OnError: 
+    FOXITREADERLib._IFoxitCtlEvents_OnMessageEventHandler OnMessage: 
+  Methods:
+    add_OnError(_IFoxitCtlEvents_OnErrorEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    remove_OnError(_IFoxitCtlEvents_OnErrorEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    add_OnMessage(_IFoxitCtlEvents_OnMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    remove_OnMessage(_IFoxitCtlEvents_OnMessageEventHandler): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class FOXITREADERLib._IFoxitCtlEvents_OnErrorEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, UIntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Virtual
+Class FOXITREADERLib._IFoxitCtlEvents_OnMessageEventHandler: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, UIntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Virtual
+Interface FOXITREADERLib.FoxitCtl: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    FOXITREADERLib.IFoxitCtl
+    FOXITREADERLib._IFoxitCtlEvents_Event
+Interface FOXITREADERLib.IFoxitCtl: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Properties:
+    System.String src 'get set' : 
+    System.Object messageHandler 'get set' : 
+  Methods:
+    get_src(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_src(String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    OpenFile(String(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    PrintFile(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    SetProgress(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    postMessage(Object(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    get_messageHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    set_messageHandler(Object(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+Class FOXITREADERLib.FoxitSPOpenDocumentsClass: AutoLayout, AnsiClass, Class, Public, Import
+  :System.__ComObject
+    Void .ctor(): PrivateScope, Public, SpecialName, RTSpecialName
+  Interfaces:
+    FOXITREADERLib.ISPOpenDocuments
+    FOXITREADERLib.FoxitSPOpenDocuments
+  Methods:
+    ViewDocument(String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ViewDocument2(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ViewDocument3(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Int32(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CheckinDocument(String(In, HasFieldMarshal), Int32(In), String(In, HasFieldMarshal), Boolean(In, Optional)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CheckoutDocumentPrompt(String(In, HasFieldMarshal), Boolean(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CreateNewDocument(String(In, HasFieldMarshal), String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CreateNewDocument2(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    DiscardLocalCheckout(String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EditDocument(String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EditDocument2(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EditDocument3(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Boolean(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    NewBlogPost(String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    PromptedOnLastOpen(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ViewInExcel(String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal), Int32(In), Int32(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Interface FOXITREADERLib.FoxitSPOpenDocuments: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Interfaces:
+    FOXITREADERLib.ISPOpenDocuments
+Interface FOXITREADERLib.ISPOpenDocuments: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, Import
+  Methods:
+    ViewDocument(String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ViewDocument2(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ViewDocument3(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Int32(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CheckinDocument(String(In, HasFieldMarshal), Int32(In), String(In, HasFieldMarshal), Boolean(In, Optional)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CheckoutDocumentPrompt(String(In, HasFieldMarshal), Boolean(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CreateNewDocument(String(In, HasFieldMarshal), String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CreateNewDocument2(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    DiscardLocalCheckout(String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    EditDocument(String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    EditDocument2(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    EditDocument3(Object(In, HasFieldMarshal), String(In, HasFieldMarshal), Boolean(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    NewBlogPost(String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    PromptedOnLastOpen(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ViewInExcel(String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal), String(In, HasFieldMarshal), Int32(In), Int32(In), Object(In, Optional, HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class FOXITREADERLib._IFoxitCtlEvents_SinkHelper: AutoLayout, AnsiClass, Class, Public, Sealed
+  Interfaces:
+    FOXITREADERLib._IFoxitCtlEvents
+  Fields:
+    FOXITREADERLib._IFoxitCtlEvents_OnErrorEventHandler m_OnErrorDelegate : Public
+    FOXITREADERLib._IFoxitCtlEvents_OnMessageEventHandler m_OnMessageDelegate : Public
+    Int32 m_dwCookie : Public
+  Methods:
+    OnError(): PrivateScope, Public, Virtual
+    OnMessage(): PrivateScope, Public, Virtual

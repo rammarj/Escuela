@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798310665043",
+    "project_id": "recetas-164017"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798310665043:android:564a50cfa32885af",
+        "android_client_info": {
+          "package_name": "com.rammarj.recetas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798310665043-e8kj9qong1jobgfj2f8c6l4m949tosce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rammarj.recetas",
+            "certificate_hash": "1f6d28afb0a292716cf6879d06402625b4c9b378"
+          }
+        },
+        {
+          "client_id": "798310665043-893a0jvlr9ve6cgcr9k6fkrs6achqbtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDqoKzAiJRDlr_IVSpRMlrBHYshBzXALg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

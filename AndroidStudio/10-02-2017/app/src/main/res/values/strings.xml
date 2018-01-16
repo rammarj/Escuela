@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paso de datos</string>
+    <string name="texto_boton">Enviar</string>
+    <string name="nombre">Escribe tu nombre</string>
+</resources>

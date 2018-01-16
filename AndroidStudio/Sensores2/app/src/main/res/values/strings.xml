@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensores2</string>
+    <string name="btnSensor">Lista de Sensores</string>
+    <string name="btnProximity">Sensor de Proximidad</string>
+    <string name="btnBrujula">Brújula</string>
+    <string name="btnExit">Salir</string>
+    <string name="btnBack">Regresar</string>
+</resources>

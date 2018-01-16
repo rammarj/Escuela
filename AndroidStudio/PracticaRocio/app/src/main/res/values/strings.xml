@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica Rocio</string>
+    <string name="apagar">Apagar computadora</string>
+    <string name="salir">Salir de aplicacion</string>
+    <string name="ip_servidor">IP del servidor</string>
+    <string name="puerto">Puerto</string>
+    <string name="defaultPuerto">5000</string>
+    <string name="sep">:</string>
+</resources>

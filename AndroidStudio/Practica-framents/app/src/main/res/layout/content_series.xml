@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SeriesActivity">
+
+    <TextView
+        android:id="@+id/txtvTituloSeries"
+        android:textSize="@dimen/size_titulo_principal"
+        android:text="@string/titulo_fragment_series"
+        android:layout_margin="@dimen/margen_titulo_principal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/lay_btn_fib"
+        android:layout_below="@+id/txtvTituloSeries"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/txtNumSerie"
+            android:hint="@string/teclea_n"
+            android:textSize="@dimen/tam_texto"
+            android:inputType="number"
+            android:layout_margin="@dimen/margen_titulo_principal"
+            android:layout_below="@+id/txtvTituloSeries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtvSerie"
+            android:text=""
+            android:textSize="@dimen/tam_texto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btnFibonacci"
+            android:text="@string/fibonacci"
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_titulo_principal"
+            android:layout_width="@dimen/padding_fib"
+            android:paddingRight="@dimen/padding_fib_left"
+            android:onClick="btnFibonacciClick"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/colorWhite"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"/>
+
+        <EditText
+            android:id="@+id/txtNumPrimos"
+            android:textSize="@dimen/tam_texto"
+            android:hint="@string/teclea_n"
+            android:inputType="number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtvNumPrimos"
+            android:textSize="@dimen/tam_texto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:id="@+id/btnPrimos"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/colorWhite"
+            android:text="@string/num_primos"
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_titulo_principal"
+            android:layout_width="@dimen/padding_fib"
+            android:onClick="btnPrimosClick"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

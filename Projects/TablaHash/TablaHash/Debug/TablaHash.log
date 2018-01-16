@@ -1,0 +1,19 @@
+﻿Compilación iniciada a las 26/04/2016 09:17:36 a. m..
+     1>Proyecto "c:\Users\joaquin r. martinez\documents\visual studio 2013\Projects\TablaHash\TablaHash\TablaHash.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\TablaHash.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TablaHash.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lista.cpp main.cpp nodo.cpp NodoHash.cpp TablaHash.cpp
+         TablaHash.cpp
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablahash\tablahash\tablahash.cpp(109): warning C4018: '<' : no coinciden signed/unsigned
+         NodoHash.cpp
+         nodo.cpp
+         main.cpp
+         Lista.cpp
+         Generando código...
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablahash\tablahash\tablahash.cpp(56): error C4700: se utilizó la variable local 'acum' sin inicializar
+     1>Compilación del proyecto terminada "c:\Users\joaquin r. martinez\documents\visual studio 2013\Projects\TablaHash\TablaHash\TablaHash.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:02.17

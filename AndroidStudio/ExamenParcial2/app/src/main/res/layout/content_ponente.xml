@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="i0akinsec.wordpress.com.examenparcial2.PonenteActivity"
+    tools:showIn="@layout/activity_ponente">
+
+    <TextView
+        android:id="@+id/txtvTituloPonente"
+        android:layout_margin="@dimen/margen_boton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ponente"
+        android:textSize="@dimen/size_titulo" />
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/margen_centro"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/txtNombre"
+            android:hint="@string/nombre"
+            android:layout_margin="@dimen/margen_boton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/txtCorreo"
+            android:hint="@string/correo"
+            android:layout_margin="@dimen/margen_boton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/txtTemaPonencia"
+            android:hint="@string/tema_ponencia"
+            android:layout_margin="@dimen/margen_boton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/txtUniOrigen"
+            android:hint="@string/uni_origen"
+            android:layout_margin="@dimen/margen_boton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnRegistrarPonente"
+        android:layout_width="@dimen/width_boton"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_margin="@dimen/margen_boton"
+        android:background="@color/colorPrimary"
+        android:onClick="btnRegistrarPonenteClick"
+        android:padding="@dimen/padding_boton"
+        android:text="@string/registrar"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/tam_texto" />
+
+</LinearLayout>

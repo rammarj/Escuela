@@ -1,0 +1,5 @@
+c:\users\joaquin r. martinez\documents\visual studio 2013\Projects\Sort\Sort\bin\Debug\Sort.exe.config
+c:\users\joaquin r. martinez\documents\visual studio 2013\Projects\Sort\Sort\bin\Debug\Sort.exe
+c:\users\joaquin r. martinez\documents\visual studio 2013\Projects\Sort\Sort\bin\Debug\Sort.pdb
+c:\users\joaquin r. martinez\documents\visual studio 2013\Projects\Sort\Sort\obj\Debug\Sort.exe
+c:\users\joaquin r. martinez\documents\visual studio 2013\Projects\Sort\Sort\obj\Debug\Sort.pdb

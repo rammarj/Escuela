@@ -1,0 +1,5 @@
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\bin\Debug\ProcesosOffice.exe.config
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\bin\Debug\ProcesosOffice.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\bin\Debug\ProcesosOffice.pdb
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\obj\Debug\ProcesosOffice.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\AgenteInteligente\ProcessWatcher\obj\Debug\ProcesosOffice.pdb

@@ -1,0 +1,121 @@
+﻿Compilación iniciada a las 23/01/2017 12:34:47 p. m..
+     1>Proyecto "C:\Users\RAMMARJ\Documents\VS\Projects\Multimedia\RamirezMartinezJoaquin\PPx1\PPx1\PPx1.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(1635,5): warning MSB3245: No se pudo resolver esta referencia. No se encuentra el ensamblado "MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d". Compruebe si el ensamblado existe en el disco. Si el código necesita esta referencia, podrían producirse errores de compilación.
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(2151,5): warning MSB3284: No se puede obtener la ruta de acceso del archivo para la biblioteca de tipos "3a8bd65e-9922-4162-a649-83f2d5326bbe", versión 1.0. Biblioteca no registrada. (Excepción de HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED))
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(2151,5): warning MSB3284: No se puede obtener la ruta de acceso del archivo para la biblioteca de tipos "3a8bd65e-9922-4162-a649-83f2d5326bbe", versión 1.0. Biblioteca no registrada. (Excepción de HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED))
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\ITEXTSHARP-ALL-5.5.9\ITEXTSHARP-DLL-CORE\ITEXTSHARP.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\ITEXTSHARP-ALL-5.5.9\ITEXTSHARP-DLL-XTRA\ITEXTSHARP.XTRA.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\PROGRAM FILES (X86)\MYSQL\MYSQL CONNECTOR NET 6.9.8\ASSEMBLIES\V4.5\MYSQL.DATA.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\PROGRAM FILES (X86)\MYSQL\MYSQL CONNECTOR NET 6.9.8\ASSEMBLIES\V4.5\MYSQL.DATA.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\PPX1\PPX1\INTEROP\INTEROP.WMPLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\PPX1\PPX1\INTEROP\INTEROP.FOXITREADERLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\PPX1\PPX1\INTEROP\AXINTEROP.WMPLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\PPX1\PPX1\INTEROP\AXINTEROP.FOXITREADERLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\RAMIREZMARTINEZJOAQUIN\PPX1\DEBUG\ITEXTSHARP.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\RAMIREZMARTINEZJOAQUIN\PPX1\DEBUG\ITEXTSHARP.XTRA.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\RAMIREZMARTINEZJOAQUIN\PPX1\PPX1\INTEROP\INTEROP.WMPLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\RAMIREZMARTINEZJOAQUIN\PPX1\PPX1\INTEROP\INTEROP.FOXITREADERLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\RAMIREZMARTINEZJOAQUIN\PPX1\PPX1\INTEROP\AXINTEROP.WMPLIB.1.0.DLL" is missing.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\JOAQUIN R. MARTINEZ\DOCUMENTS\VISUAL STUDIO 2013\PROJECTS\MULTIMEDIA\RAMIREZMARTINEZJOAQUIN\PPX1\PPX1\INTEROP\AXINTEROP.FOXITREADERLIB.1.0.DLL" is missing.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FUC:\Users\RAMMARJ\Documents\VS\Projects\Multimedia\RamirezMartinezJoaquin\PPx1\Debug\itextsharp.dll /FUC:\Users\RAMMARJ\Documents\VS\Projects\Multimedia\RamirezMartinezJoaquin\PPx1\Debug\itextsharp.xtra.dll /FUC:\WINDOWS\assembly\GAC_MSIL\Microsoft.ReportViewer.Common\11.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.Common.dll /FUC:\WINDOWS\assembly\GAC_MSIL\Microsoft.ReportViewer.WinForms\11.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.WinForms.dll /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Web.Services.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /FUInterop\Interop.WMPLib.1.0.dll /FUInterop\AxInterop.WMPLib.1.0.dll /analyze- /errorReport:prompt /clr:nostdlib main.cpp Nota.cpp Reporte.cpp
+         main.cpp
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(6): error C2653: 'MySql' : no es un nombre de clase o espacio de nombres
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(6): error C2871: 'MySqlClient' : no existe ningún espacio de nombres con este nombre
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(23): error C2143: error de sintaxis : falta ';' delante de '^'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(34): error C2143: error de sintaxis : falta ';' delante de '^'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(34): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(43): warning C4183: 'getConexion': falta el tipo de valor devuelto; se supone que se trata de una función miembro que devuelve 'int'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(35): error C2653: 'MySql' : no es un nombre de clase o espacio de nombres
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(35): error C2065: 'MySqlConnectionStringBuilder' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(35): error C2065: 's' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(35): error C2061: error de sintaxis : identificador 'MySqlConnectionStringBuilder'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(36): error C2065: 's' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(36): error C2227: el operando izquierdo de '->Database' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(37): error C2065: 's' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(37): error C2227: el operando izquierdo de '->Server' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(38): error C2065: 's' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(38): error C2227: el operando izquierdo de '->Port' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(39): error C2065: 's' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(39): error C2227: el operando izquierdo de '->Password' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(40): error C2065: 's' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(40): error C2227: el operando izquierdo de '->UserID' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(41): error C2065: 'MySqlConnection' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(41): error C2065: 'conn' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(41): error C2061: error de sintaxis : identificador 'MySqlConnection'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Conexion.h(42): error C2065: 'conn' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(138): error C2065: 'MySqlConnection' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(138): error C2065: 'mysql_conn' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(139): error C2065: 'mysql_conn' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(139): error C2227: el operando izquierdo de '->Open' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(140): error C2065: 'MySqlCommand' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(140): error C2065: 'cmd' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(140): error C2065: 'mysql_conn' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(140): error C2227: el operando izquierdo de '->CreateCommand' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(141): error C2065: 'cmd' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(141): error C2227: el operando izquierdo de '->CommandText' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(142): error C2065: 'MySqlDataReader' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(142): error C2065: 'res' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(142): error C2065: 'cmd' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(142): error C2227: el operando izquierdo de '->ExecuteReader' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(143): error C2065: 'res' : identificador no declarado
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(143): error C2227: el operando izquierdo de '->Read' debe señalar al tipo class/struct/union/generic
+                 el tipo es 'unknown-type'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\AgregarProducto.h(143): fatal error C1903: no se puede recuperar de errores anteriores; se detiene la compilación
+         Nota.cpp
+         Reporte.cpp
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(38): error C2653: 'AxFOXITREADERLib' : no es un nombre de clase o espacio de nombres
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(38): error C2143: error de sintaxis : falta ';' delante de '^'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(38): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(53): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(53): error C2653: 'AxFOXITREADERLib' : no es un nombre de clase o espacio de nombres
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(53): error C2061: error de sintaxis : identificador 'AxFoxitCtl'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(54): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(54): error C2227: el operando izquierdo de '->BeginInit' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(59): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(59): error C2227: el operando izquierdo de '->Anchor' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(62): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(62): error C2227: el operando izquierdo de '->Enabled' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(63): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(63): error C2227: el operando izquierdo de '->Location' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(64): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(64): error C2227: el operando izquierdo de '->Name' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(65): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(65): error C2227: el operando izquierdo de '->OcxState' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(66): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(66): error C2227: el operando izquierdo de '->Size' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(67): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(67): error C2227: el operando izquierdo de '->TabIndex' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(74): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(77): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(77): error C2227: el operando izquierdo de '->EndInit' debe señalar al tipo class/struct/union/generic
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(84): error C2039: 'fxt_pdf' : no es un miembro de 'PPx1::Reporte'
+                 c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(18) : vea la declaración de 'PPx1::Reporte'
+     1>c:\users\rammarj\documents\vs\projects\multimedia\ramirezmartinezjoaquin\ppx1\ppx1\Reporte.h(84): error C2227: el operando izquierdo de '->OpenFile' debe señalar al tipo class/struct/union/generic
+         Generando código...
+     1>Compilación del proyecto terminada "C:\Users\RAMMARJ\Documents\VS\Projects\Multimedia\RamirezMartinezJoaquin\PPx1\PPx1\PPx1.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:09.09

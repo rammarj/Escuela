@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="i0akinsec.wordpress.com.factorial.MainActivity">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_weight="3"
+            android:layout_width="@dimen/cero"
+            android:text="@string/numero"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/txtNumero"
+            android:layout_width="@dimen/cero"
+            android:layout_weight="3"
+            android:inputType="number"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_width="@dimen/cero"
+            android:layout_weight="3"
+            android:background="@color/colorAccent"
+            android:text="@string/calcular"
+            android:onClick="calcular"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txtvRes"
+        android:text="@string/resultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

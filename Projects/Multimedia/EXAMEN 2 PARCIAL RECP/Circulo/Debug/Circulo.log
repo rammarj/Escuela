@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 18/08/2016 03:56:44 p. m..
+     1>Proyecto "C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\EXAMEN 2 PARCIAL RECP\Circulo\Circulo.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Circulo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\multimedia\examen 2 parcial recp\circulo\main.cpp(22): warning C4138: '*/' se encontró fuera del comentario
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\multimedia\examen 2 parcial recp\circulo\main.cpp(23): warning C4138: '*/' se encontró fuera del comentario
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\EXAMEN 2 PARCIAL RECP\Debug\Examen 2 parc rec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\EXAMEN 2 PARCIAL RECP\Debug\Examen 2 parc rec.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\EXAMEN 2 PARCIAL RECP\Debug\Examen 2 parc rec.lib" /MACHINE:X86 Debug\main.obj
+         Circulo.vcxproj -> C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\EXAMEN 2 PARCIAL RECP\Debug\Examen 2 parc rec.exe
+     1>Compilación del proyecto terminada "C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\EXAMEN 2 PARCIAL RECP\Circulo\Circulo.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.67

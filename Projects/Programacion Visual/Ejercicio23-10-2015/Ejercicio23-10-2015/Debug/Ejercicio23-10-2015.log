@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 23/10/2015 11:46:18.
+     1>Proyecto "D:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\Ejercicio23-10-2015\Ejercicio23-10-2015\Ejercicio23-10-2015.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp principal.cpp
+         main.cpp
+         principal.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\Ejercicio23-10-2015\Debug\ejercicio23102015.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\Ejercicio23-10-2015\Debug\ejercicio23102015.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\main.obj
+         Debug\principal.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Ejercicio23-10-2015.vcxproj -> D:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\Ejercicio23-10-2015\Debug\ejercicio23102015.exe
+     1>Compilación del proyecto terminada "D:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\Ejercicio23-10-2015\Ejercicio23-10-2015\Ejercicio23-10-2015.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.35

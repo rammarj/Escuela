@@ -1,0 +1,77 @@
+  PPx1.AgregarProducto.resources - Embedded, ContainedInManifestFile, 
+  PPx1.Inicio.resources - Embedded, ContainedInManifestFile, 
+  PPx1.Login.resources - Embedded, ContainedInManifestFile, 
+  PPx1.Nota.resources - Embedded, ContainedInManifestFile, 
+  PPx1.Reporte.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PPx1, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly itextsharp, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca: 
+	hash=None, flags=None
+Assembly itextsharp.xtra, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca: 
+	hash=None, flags=None
+Assembly Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91: 
+	hash=None, flags=None
+Assembly Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91: 
+	hash=None, flags=None
+Assembly MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.WMPLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly Interop.FOXITREADERLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly AxInterop.WMPLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly AxInterop.FOXITREADERLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class PPx1.Conexion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getConexion(): PrivateScope, Public, HideBySig
+Class PPx1.AgregarProducto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox txt_cantidad : Public
+    System.Windows.Forms.ComboBox cbx_producto : Public
+    System.Windows.Forms.Button btn_aceptar : Public
+    System.Windows.Forms.Button btn_cancelar : Public
+Class PPx1.Nota: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox txt_nota : Public
+Class PPx1.Reporte: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    AxFOXITREADERLib.AxFoxitCtl fxt_pdf : Public
+Class PPx1.Inicio: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    AxWMPLib.AxWindowsMediaPlayer wmp_media_player : Public
+    System.Windows.Forms.ToolStripMenuItem tsmi_cerrarSesión : Public
+  Methods:
+    setId(Int32): PrivateScope, Public, HideBySig
+Class PPx1.Login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

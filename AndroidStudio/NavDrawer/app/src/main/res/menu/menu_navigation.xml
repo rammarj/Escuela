@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/inicio" android:title="inicio" android:icon="@drawable/ic_inicio"/>
+    <item android:id="@+id/cerrar" android:title="cerrar" android:icon="@drawable/ic_cerrar"/>
+    <item android:id="@+id/galeria" android:title="galeria" android:icon="@drawable/ic_galeria"/>
+    <item android:id="@+id/configurar" android:title="configurar" android:icon="@drawable/ic_brightness_5_black_24dp"/>
+    <item android:id="@+id/contenido" android:title="contenido" android:icon="@drawable/ic_contenido"/>
+
+</menu>

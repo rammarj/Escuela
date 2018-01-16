@@ -1,0 +1,23 @@
+﻿Compilación iniciada a las 01/02/2016 10:48:16 a. m..
+     1>Proyecto "E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Grafo\Grafo.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Grafo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Grafo.cpp
+         Grafo.cpp
+     1>e:\musica (2)\visual studio 2013\projects\estructuradedatosavanzada\grafo\grafo\grafo.cpp(12): warning C4101: 'adyacencias' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\estructuradedatosavanzada\grafo\grafo\grafo.cpp(13): warning C4101: 'nodos' : variable local sin referencia
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Debug\Grafo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Debug\Grafo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Debug\Grafo.lib" /MACHINE:X86 Debug\Grafo.obj
+         Debug\GrafoImpl.obj
+         Debug\Lista.obj
+         Debug\Nodo.obj
+         Debug\NodoHash.obj
+         Debug\NodoHash2.obj
+         Debug\stdafx.obj
+         Debug\Tabla.obj
+         Debug\Tabla2.obj
+         Grafo.vcxproj -> E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Debug\Grafo.exe
+     1>Compilación del proyecto terminada "E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Grafo\Grafo.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.67

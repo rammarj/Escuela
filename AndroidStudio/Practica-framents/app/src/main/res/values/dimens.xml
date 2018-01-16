@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="size_titulo_principal">30dp</dimen>
+    <dimen name="margen_titulo_principal">20dp</dimen>
+    <dimen name="tam_texto">20dp</dimen>
+    <dimen name="tam_btn_areas">200dp</dimen>
+    <dimen name="padding_controles">20dp</dimen>
+    <dimen name="btn_home_size">50dp</dimen>
+    <dimen name="padding_fib">230dp</dimen>
+    <dimen name="padding_fib_left">80dp</dimen>
+</resources>
+

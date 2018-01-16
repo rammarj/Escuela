@@ -1,0 +1,1 @@
+c:\users\rammarj\documents\visual studio 2013\Projects\KNN\KNN\bin\Debug\KNN.exe.config

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://wsDatos/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="WSDDatosSOAP" targetNamespace="http://wsDatos/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://192.168.1.68:8080/WSDatosBD/WSDDatosSOAP?xsd=1" namespace="http://wsDatos/" />
+    </xsd:schema>
+  </types>
+  <message name="consulta">
+    <part name="parameters" element="tns:consulta" />
+  </message>
+  <message name="consultaResponse">
+    <part name="parameters" element="tns:consultaResponse" />
+  </message>
+  <message name="insertar">
+    <part name="parameters" element="tns:insertar" />
+  </message>
+  <message name="insertarResponse">
+    <part name="parameters" element="tns:insertarResponse" />
+  </message>
+  <message name="actualizar">
+    <part name="parameters" element="tns:actualizar" />
+  </message>
+  <message name="actualizarResponse">
+    <part name="parameters" element="tns:actualizarResponse" />
+  </message>
+  <message name="borrar">
+    <part name="parameters" element="tns:borrar" />
+  </message>
+  <message name="borrarResponse">
+    <part name="parameters" element="tns:borrarResponse" />
+  </message>
+  <portType name="WSDDatosSOAP">
+    <operation name="consulta">
+      <input wsam:Action="http://wsDatos/WSDDatosSOAP/consultaRequest" message="tns:consulta" />
+      <output wsam:Action="http://wsDatos/WSDDatosSOAP/consultaResponse" message="tns:consultaResponse" />
+    </operation>
+    <operation name="insertar">
+      <input wsam:Action="http://wsDatos/WSDDatosSOAP/insertarRequest" message="tns:insertar" />
+      <output wsam:Action="http://wsDatos/WSDDatosSOAP/insertarResponse" message="tns:insertarResponse" />
+    </operation>
+    <operation name="actualizar">
+      <input wsam:Action="http://wsDatos/WSDDatosSOAP/actualizarRequest" message="tns:actualizar" />
+      <output wsam:Action="http://wsDatos/WSDDatosSOAP/actualizarResponse" message="tns:actualizarResponse" />
+    </operation>
+    <operation name="borrar">
+      <input wsam:Action="http://wsDatos/WSDDatosSOAP/borrarRequest" message="tns:borrar" />
+      <output wsam:Action="http://wsDatos/WSDDatosSOAP/borrarResponse" message="tns:borrarResponse" />
+    </operation>
+  </portType>
+  <binding name="WSDDatosSOAPPortBinding" type="tns:WSDDatosSOAP">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="consulta">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="insertar">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="actualizar">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="borrar">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="WSDDatosSOAP">
+    <port name="WSDDatosSOAPPort" binding="tns:WSDDatosSOAPPortBinding">
+      <soap:address location="http://192.168.1.68:8080/WSDatosBD/WSDDatosSOAP" />
+    </port>
+  </service>
+</definitions>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Examen Parcial No. 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="aldea_tec_2017">ALDEA TECNOLÓGICA 2017</string>
+    <string name="registro">REGISTRO</string>
+    <string name="programa">PROGRAMA</string>
+    <string name="ponente">PONENTE</string>
+    <string name="asistente">ASISTENTE</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="tema_ponencia">Tema de la ponencia</string>
+    <string name="uni_origen">Universidad de Origen</string>
+    <string name="registrar">Registrar</string>
+
+    <!-- titulos -->
+    <string name="title_activity_ponente_registrado"></string>
+    <string name="title_activity_ponente"></string>
+    <string name="title_activity_programa"></string>
+    <string name="title_activity_aldea_tecnologica"></string>
+    <string name="title_activity_registro"></string>
+    <string name="title_activity_nav_ponentes"></string>
+    <string name="title_activity_nav_galeria"></string>
+
+    <string name="registro_ponente">REGISTRO PONENTE</string>
+    <string name="texto_regstro_ponente">Los siguientes dato se han registrado con éxito:</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="navigation_drawer_open">Abrir navigación</string>
+    <string name="navigation_drawer_close">Cerrar navigación</string>
+    <string name="galeria_menu">Galería</string>
+    <string name="ponentes_menu">Ponentes</string>
+    <string name="acercade_menu">Acerca de</string>
+
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+
+    <string name="title_activity_nav_acerca_de">NavAcercaDeActivity</string>
+    <string name="acercade_info">Esta app es para la Aldea Tecnológica. Creado por Joaquín Ramírez Martínez</string>
+    <string name="galeria_info">Estamos en la galería</string>
+    <string name="titulo_tab_1">Tab 1</string>
+    <string name="titulo_tab_2">Contenido del tab 2</string>
+    <string name="titulo_tab_3">Contenido tab 3</string>
+</resources>

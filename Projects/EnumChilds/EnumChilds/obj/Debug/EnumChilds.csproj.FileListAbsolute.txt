@@ -1,0 +1,5 @@
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\EnumChilds\EnumChilds\bin\Debug\EnumChilds.exe.config
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\EnumChilds\EnumChilds\bin\Debug\EnumChilds.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\EnumChilds\EnumChilds\bin\Debug\EnumChilds.pdb
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\EnumChilds\EnumChilds\obj\Debug\EnumChilds.exe
+C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\EnumChilds\EnumChilds\obj\Debug\EnumChilds.pdb

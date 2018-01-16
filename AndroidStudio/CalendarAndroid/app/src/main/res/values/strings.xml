@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Recetas Nutritivas</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">Cerrada la sesión</string>
+    <string name="cargando">Cargando</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="logueado_como">Seguir como: %s</string>
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login_subtitulo">Ingrese con su cuenta Gmail</string>
+    <string name="salir">Salir</string>
+    <string name="buscar_recetas">Buscar</string>
+    <string name="title_activity_receta">Receta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="summary_hint">Sumary</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+</resources>

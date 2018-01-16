@@ -1,0 +1,12 @@
+﻿Compilación iniciada a las 23/06/2016 02:36:16 p. m..
+     1>Proyecto "C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\Practica-22-06-2016\Practica-22-06-2016\Practica-22-06-2016.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\multimedia\practica-22-06-2016\practica-22-06-2016\main.cpp(84): error C2660: 'glRotatef' : la función no acepta 0 argumentos
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6006: "CL.exe" salió con el código 2.
+     1>Compilación del proyecto terminada "C:\Users\Joaquin R. Martinez\Documents\Visual Studio 2013\Projects\Multimedia\Practica-22-06-2016\Practica-22-06-2016\Practica-22-06-2016.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.56

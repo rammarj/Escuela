@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_estatal"
+
+            android:title="Estatal" />
+        <item
+            android:id="@+id/nav_municipal"
+
+            android:title="Municipal" />
+        <item
+            android:id="@+id/nav_paraestatal"
+            android:title="Paraestatal" />
+
+        <item
+            android:id="@+id/desempeño"
+            android:title="Desempeño" />
+        <item
+            android:id="@+id/comentarios"
+            android:title="Comentarios" />
+    </group>
+
+
+
+
+</menu>

@@ -1,0 +1,361 @@
+ImageRuntimeVersion: v2.0.50727
+Assembly itextsharp.xtra, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly itextsharp, Version=5.5.9.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca: 
+	hash=None, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class iTextSharp.text.pdf.mc.MCFieldFlattener: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Process(PdfReader, Stream): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.mc.MCParser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(iTextSharp.text.pdf.mc.StructureItems): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String DEFAULTOPERATOR : Public, Static
+    iTextSharp.text.pdf.PdfLiteral TSTAR : Public, Static
+  Methods:
+    Parse(PdfDictionary, PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Interface iTextSharp.text.pdf.mc.MCParser+PdfOperator: AutoLayout, AnsiClass, Class, NestedPublic, ClassSemanticsMask, Abstract
+  Methods:
+    Process(MCParser, PdfLiteral, IList`1): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class iTextSharp.text.pdf.mc.StructureItem: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Methods:
+    GetPageref(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CheckMCID(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CheckStructParent(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.mc.StructureItems: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Collections.Generic.List`1[iTextSharp.text.pdf.mc.StructureItem]
+    Void .ctor(iTextSharp.text.pdf.PdfReader): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    RemoveFromParentTree(PdfNumber): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ProcessMCID(PdfNumber, PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    WriteParentTree(PdfWriter): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.mc.StructureMCID: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.mc.StructureItem
+    Void .ctor(iTextSharp.text.pdf.PdfIndirectReference, iTextSharp.text.pdf.PdfNumber): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.PdfDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CheckMCID(Int32, Int32): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class iTextSharp.text.pdf.mc.StructureObject: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.mc.StructureItem
+    Void .ctor(iTextSharp.text.pdf.PdfDictionary, iTextSharp.text.pdf.PdfIndirectReference, iTextSharp.text.pdf.PdfDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetStructElem(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetRef(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetObjAsDict(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetObjRef(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CheckStructParent(Int32, Int32): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class iTextSharp.text.pdf.ocg.OCGParser: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.Collections.Generic.ICollection`1[System.String]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String DEFAULTOPERATOR = DefaultOperator : Public, Static, Literal, HasDefault
+  Methods:
+    Parse(PRStream, PdfDictionary): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Interface iTextSharp.text.pdf.ocg.OCGParser+PdfOperator: AutoLayout, AnsiClass, Class, NestedPublic, ClassSemanticsMask, Abstract
+  Methods:
+    Process(OCGParser, PdfLiteral, IList`1): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class iTextSharp.text.pdf.ocg.OCGRemover: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    RemoveLayers(PdfReader, String[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.xtra.iTextSharp.text.pdf.pdfcleanup.PdfCleanUpLocation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, iTextSharp.text.Rectangle): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32, iTextSharp.text.Rectangle, iTextSharp.text.BaseColor): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 Page 'get ' : 
+    iTextSharp.text.Rectangle Region 'get ' : 
+    iTextSharp.text.BaseColor CleanUpColor 'get ' : 
+  Methods:
+    get_Page(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_Region(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_CleanUpColor(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.xtra.iTextSharp.text.pdf.pdfcleanup.PdfCleanUpProcessor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.Collections.Generic.IList`1[iTextSharp.xtra.iTextSharp.text.pdf.pdfcleanup.PdfCleanUpLocation], iTextSharp.text.pdf.PdfStamper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.PdfStamper): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double FloatMultiplier : Public, Static
+    Boolean FillCleanedArea : Public, Static
+    Double ArcTolerance : Public, Static
+  Methods:
+    CleanUp(): PrivateScope, Public, HideBySig
+Class iTextSharp.text.pdf.richmedia.CuePoint: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(iTextSharp.text.pdf.PdfName): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfString Name 'set' : 
+    Int32 Time 'set' : 
+    iTextSharp.text.pdf.PdfObject Action 'set' : 
+  Methods:
+    set_Name(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Time(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Action(PdfObject): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaActivation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfName Condition 'set' : 
+    iTextSharp.text.pdf.richmedia.RichMediaAnimation Animation 'set' : 
+    iTextSharp.text.pdf.PdfIndirectReference View 'set' : 
+    iTextSharp.text.pdf.PdfIndirectReference Configuration 'set' : 
+    iTextSharp.text.pdf.richmedia.RichMediaPresentation Presentation 'set' : 
+    iTextSharp.text.pdf.PdfArray Scripts 'set' : 
+  Methods:
+    set_Condition(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Animation(RichMediaAnimation): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_View(PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Configuration(PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Presentation(RichMediaPresentation): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Scripts(PdfArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaAnimation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(iTextSharp.text.pdf.PdfName): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 PlayCount 'set' : 
+    Single Speed 'set' : 
+  Methods:
+    set_PlayCount(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Speed(Single): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaAnnotation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(iTextSharp.text.pdf.PdfWriter, iTextSharp.text.Rectangle): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.PdfWriter, iTextSharp.text.Rectangle, iTextSharp.text.pdf.PdfIndirectReference): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfIndirectReference RichMediaContentReference 'get ' : 
+    iTextSharp.text.pdf.richmedia.RichMediaActivation Activation 'set' : 
+    iTextSharp.text.pdf.richmedia.RichMediaDeactivation Deactivation 'set' : 
+  Methods:
+    get_RichMediaContentReference(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    AddAsset(String, PdfFileSpecification): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    AddAsset(String, PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    AddConfiguration(RichMediaConfiguration): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    AddConfiguration(PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    AddView(PdfDictionary): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    AddView(PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    set_Activation(RichMediaActivation): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Deactivation(RichMediaDeactivation): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    CreateAnnotation(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.richmedia.RichMediaCommand: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(iTextSharp.text.pdf.PdfString): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfObject Arguments 'set' : 
+  Methods:
+    set_Arguments(PdfObject): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaConfiguration: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(iTextSharp.text.pdf.PdfName): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfString Name 'set' : 
+  Methods:
+    set_Name(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    AddInstance(RichMediaInstance): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.richmedia.RichMediaDeactivation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfName Condition 'set' : 
+  Methods:
+    set_Condition(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaExecuteAction: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfAction
+    Void .ctor(iTextSharp.text.pdf.PdfIndirectReference, iTextSharp.text.pdf.richmedia.RichMediaCommand): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfIndirectReference RichMediaInstance 'set' : 
+  Methods:
+    set_RichMediaInstance(PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaInstance: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(iTextSharp.text.pdf.PdfName): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.richmedia.RichMediaParams Params 'set' : 
+    iTextSharp.text.pdf.PdfIndirectReference Asset 'set' : 
+  Methods:
+    set_Params(RichMediaParams): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Asset(PdfIndirectReference): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaParams: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String FlashVars 'set' : 
+    iTextSharp.text.pdf.PdfName Binding 'set' : 
+    iTextSharp.text.pdf.PdfString BindingMaterialName 'set' : 
+    iTextSharp.text.pdf.PdfArray CuePoints 'set' : 
+    iTextSharp.text.pdf.PdfString Settings 'set' : 
+  Methods:
+    set_FlashVars(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Binding(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_BindingMaterialName(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_CuePoints(PdfArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Settings(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaPosition: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfName HAlign 'set' : 
+    iTextSharp.text.pdf.PdfName VAlign 'set' : 
+    Single HOffset 'set' : 
+    Single VOffset 'set' : 
+  Methods:
+    set_HAlign(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_VAlign(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_HOffset(Single): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_VOffset(Single): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaPresentation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.PdfName Style 'set' : 
+    iTextSharp.text.pdf.richmedia.RichMediaWindow Window 'set' : 
+    iTextSharp.text.pdf.PdfBoolean Transparent 'set' : 
+    iTextSharp.text.pdf.PdfBoolean NavigationPane 'set' : 
+    iTextSharp.text.pdf.PdfBoolean Toolbar 'set' : 
+    iTextSharp.text.pdf.PdfBoolean PassContextClick 'set' : 
+  Methods:
+    set_Style(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Window(RichMediaWindow): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Transparent(PdfBoolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_NavigationPane(PdfBoolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_Toolbar(PdfBoolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_PassContextClick(PdfBoolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Class iTextSharp.text.pdf.richmedia.RichMediaWindow: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    iTextSharp.text.pdf.richmedia.RichMediaPosition Position 'set' : 
+  Methods:
+    SetWidth(Single, Single, Single): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetHeight(Single, Single, Single): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    set_Position(RichMediaPosition): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+Struct iTextSharp.text.pdf.spatial.units.Angular: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    iTextSharp.text.pdf.spatial.units.Angular DEGREE = 0 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Angular GRAD = 1 : Public, Static, Literal, HasDefault
+Struct iTextSharp.text.pdf.spatial.units.Fraction: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    iTextSharp.text.pdf.spatial.units.Fraction DECIMAL = 0 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Fraction FRACTION = 1 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Fraction ROUND = 2 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Fraction TRUNCATE = 3 : Public, Static, Literal, HasDefault
+Struct iTextSharp.text.pdf.spatial.units.Linear: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    iTextSharp.text.pdf.spatial.units.Linear METER = 0 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Linear KILOMETER = 1 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Linear INTERNATIONAL_FOOT = 2 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Linear US_SURVEY_FOOT = 3 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Linear INTERNATIONAL_MILE = 4 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Linear INTERNATIONAL_NAUTICAL_MILE = 5 : Public, Static, Literal, HasDefault
+Struct iTextSharp.text.pdf.spatial.units.PtIdentifier: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    iTextSharp.text.pdf.spatial.units.PtIdentifier LATITUDE = 0 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.PtIdentifier LONGITUDE = 1 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.PtIdentifier ALTITUDE = 2 : Public, Static, Literal, HasDefault
+Struct iTextSharp.text.pdf.spatial.units.Square: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    iTextSharp.text.pdf.spatial.units.Square SQUARE_METER = 0 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Square HECTARE = 1 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Square SQUARE_KILOMETER = 2 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Square SQUARE_FOOT = 3 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Square ACRE = 4 : Public, Static, Literal, HasDefault
+    iTextSharp.text.pdf.spatial.units.Square SQUARE_MILE = 5 : Public, Static, Literal, HasDefault
+Class iTextSharp.text.pdf.spatial.units.DecodeUnits: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    Decode(Angular): PrivateScope, Public, Static, HideBySig
+    Decode(Fraction): PrivateScope, Public, Static, HideBySig
+    Decode(Linear): PrivateScope, Public, Static, HideBySig
+    Decode(PtIdentifier): PrivateScope, Public, Static, HideBySig
+    Decode(Square): PrivateScope, Public, Static, HideBySig
+Class iTextSharp.text.pdf.spatial.CoordinateSystem: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(iTextSharp.text.pdf.PdfName): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetEPSG(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetWKT(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.spatial.GeographicCoordinateSystem: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.spatial.CoordinateSystem
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class iTextSharp.text.pdf.spatial.Measure: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class iTextSharp.text.pdf.spatial.MeasureGeospatial: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.spatial.Measure
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetBounds(NumberArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetCoordinateSystem(CoordinateSystem): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetDisplayCoordinateSystem(GeographicCoordinateSystem): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetDisplayUnits(Linear, Square, Angular): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetGPTS(NumberArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetLPTS(NumberArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.spatial.MeasureRectilinear: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.spatial.Measure
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetScaleRatio(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetX(NumberFormatArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetY(NumberFormatArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetD(NumberFormatArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetA(NumberFormatArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetT(NumberFormatArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetS(NumberFormatArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetO(XYArray): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetCYX(PdfNumber): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.spatial.objects.NumberFormatArray: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfArray
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary, iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.Collections.Generic.IList`1[iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class iTextSharp.text.pdf.spatial.objects.NumberFormatDictionary: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetLabel(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetConversionFactor(PdfNumber): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetFractionalValue(Fraction): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetPrecision(PdfNumber): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetFixedDenominator(PdfBoolean): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetCipherGroupingCharacter(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetDecimalChartacter(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetLabelLeftString(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetLabelRightString(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetLabelPosition(PdfName): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.spatial.objects.XYArray: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.NumberArray
+    Void .ctor(Single, Single): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class iTextSharp.text.pdf.spatial.PointData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AddXPTSValue(PdfNumber, PtIdentifier): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class iTextSharp.text.pdf.spatial.ProjectedCoordinateSystem: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.spatial.CoordinateSystem
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class iTextSharp.text.pdf.spatial.Viewport: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :iTextSharp.text.pdf.PdfDictionary
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    SetBBox(Rectangle): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetName(PdfString): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetMeasure(Measure): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetPtData(PointData): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask

@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 03/11/2015 03:16:42 p. m..
+     1>Proyecto "E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\ProyectoColores\ProyectoColores\ProyectoColores.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib init.cpp
+         init.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\ProyectoColores\Debug\ProyectoColores.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\ProyectoColores\Debug\ProyectoColores.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"init" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\init.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ProyectoColores.vcxproj -> E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\ProyectoColores\Debug\ProyectoColores.exe
+     1>Compilación del proyecto terminada "E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\ProyectoColores\ProyectoColores\ProyectoColores.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.92

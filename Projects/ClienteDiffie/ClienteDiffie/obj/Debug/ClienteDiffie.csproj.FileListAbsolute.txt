@@ -1,0 +1,8 @@
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\bin\Debug\ClienteDiffie.exe.config
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\bin\Debug\ClienteDiffie.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\bin\Debug\ClienteDiffie.pdb
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\obj\Debug\ClienteDiffie.Form1.resources
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\obj\Debug\ClienteDiffie.Properties.Resources.resources
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\obj\Debug\ClienteDiffie.csproj.GenerateResource.Cache
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\obj\Debug\ClienteDiffie.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\ClienteDiffie\ClienteDiffie\obj\Debug\ClienteDiffie.pdb

@@ -1,0 +1,88 @@
+﻿Compilación iniciada a las 31/07/2016 01:00:02 p. m..
+     1>Proyecto "C:\Users\Joaquin R. Martinez\documents\visual studio 2013\Projects\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Acceso.cpp Analizador.cpp AnalizadorLexico.cpp And.cpp Arit.cpp Arreglo.cpp Break.cpp Constante.cpp Do.cpp Else.cpp Ent.cpp Est.cpp EstElem.cpp Etiqueta.cpp Expr.cpp HashTableAL.cpp Id.cpp If.cpp Instr.cpp Logica.cpp main.cpp Nodo.cpp Not.cpp Numero.cpp Op.cpp Or.cpp Palabra.cpp Real.cpp Rel.cpp Sec.cpp Temp.cpp Tipo.cpp Token.cpp Unario.cpp While.cpp
+         Acceso.cpp
+         Analizador.cpp
+         AnalizadorLexico.cpp
+     1>AnalizadorLexico.cpp(71): warning C4244: 'inicializando' : conversión de 'int' a 'float'; posible pérdida de datos
+         And.cpp
+         Arit.cpp
+         Arreglo.cpp
+         Break.cpp
+         Constante.cpp
+         Do.cpp
+         Else.cpp
+         Ent.cpp
+         Est.cpp
+         EstElem.cpp
+         Etiqueta.cpp
+         Expr.cpp
+         HashTableAL.cpp
+         Id.cpp
+         If.cpp
+         Instr.cpp
+         Logica.cpp
+         Generando código...
+         Compilando...
+         main.cpp
+         Nodo.cpp
+         Not.cpp
+         Numero.cpp
+         Op.cpp
+         Or.cpp
+         Palabra.cpp
+         Real.cpp
+         Rel.cpp
+         Sec.cpp
+         Temp.cpp
+         Tipo.cpp
+         Token.cpp
+         Unario.cpp
+         While.cpp
+         Generando código...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Joaquin R. Martinez\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Joaquin R. Martinez\documents\visual studio 2013\Projects\AnalizadorLexico\Debug\AnalizadorLexico.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Joaquin R. Martinez\documents\visual studio 2013\Projects\AnalizadorLexico\Debug\AnalizadorLexico.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Acceso.obj
+         Debug\Analizador.obj
+         Debug\AnalizadorLexico.obj
+         Debug\And.obj
+         Debug\Arit.obj
+         Debug\Arreglo.obj
+         Debug\Break.obj
+         Debug\Constante.obj
+         Debug\Do.obj
+         Debug\Else.obj
+         Debug\Ent.obj
+         Debug\Est.obj
+         Debug\EstElem.obj
+         Debug\Etiqueta.obj
+         Debug\Expr.obj
+         Debug\HashTableAL.obj
+         Debug\Id.obj
+         Debug\If.obj
+         Debug\Instr.obj
+         Debug\Logica.obj
+         Debug\main.obj
+         Debug\Nodo.obj
+         Debug\Not.obj
+         Debug\Numero.obj
+         Debug\Op.obj
+         Debug\Or.obj
+         Debug\Palabra.obj
+         Debug\Real.obj
+         Debug\Rel.obj
+         Debug\Sec.obj
+         Debug\Temp.obj
+         Debug\Tipo.obj
+         Debug\Token.obj
+         Debug\Unario.obj
+         Debug\While.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         AnalizadorLexico.vcxproj -> C:\Users\Joaquin R. Martinez\documents\visual studio 2013\Projects\AnalizadorLexico\Debug\AnalizadorLexico.exe
+     1>Compilación del proyecto terminada "C:\Users\Joaquin R. Martinez\documents\visual studio 2013\Projects\AnalizadorLexico\AnalizadorLexico\AnalizadorLexico.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:10.37

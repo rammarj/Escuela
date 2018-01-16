@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaHilos</string>
+    <string name="cantidad">Cantidad de números</string>
+    <string name="generar">Generar</string>
+</resources>

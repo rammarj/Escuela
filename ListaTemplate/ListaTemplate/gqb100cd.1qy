@@ -1,0 +1,217 @@
+#include "stdafx.h"
+#include "Lista.h"
+
+template<class tipo>
+Lista<tipo>::Lista<tipo>()
+{
+	this->first = nullptr;
+	this->size = 0;
+	this->aux = nullptr;
+}
+
+template<class tipo>
+Nodo<tipo>* Lista<tipo>::getLast(Nodo<tipo>* n){
+	if (n != nullptr){
+		this->aux = n->getNext();
+		if (aux)
+		{
+			getLast(this->aux);
+		}
+		else{
+			return n;
+		}
+	}
+	else{
+		return aux;
+	}
+}
+
+template<class tipo>
+Nodo<tipo>* Lista<tipo>::getNodeAt(int index){
+	Nodo<tipo>* ret = this->first;
+	if (index >= 0 && index<this->size)
+	{
+		for (size_t i = 0; i < index; i++)
+		{
+			ret = ret->getNext();
+		}
+	}
+	return ret;
+}
+
+template<class tipo>
+void Lista<tipo>::add(tipo val){
+	Nodo<tipo>* nuevo = new Nodo<tipo>();
+	if (nuevo){
+		nuevo->setData(val);
+		if (this->size == 0)
+		{
+			this->first = nuevo;
+		}
+		else{
+			Nodo<tipo>* last = nullptr;
+			last = getLast(this->first);
+			last->setNext(nuevo);
+			nuevo->setAfter(last);
+		}
+		this->size++;
+	}
+}
+
+template<class tipo>
+int Lista<tipo>::indexOf(tipo val){
+	for (size_t i = 0; i < this->size; i++)
+	{
+		int current = getValueAt(i);
+		if (current == val)
+		{
+			return i;
+		}
+	}
+	return -1;
+}
+
+template<class tipo>
+tipo Lista<tipo>::getValueAt(int index){
+	Nodo<tipo>* ret = getNodeAt(index);
+	return ret->getData();
+}
+template<class tipo>
+
+void Lista<tipo>::setValueAt(int index, tipo val){
+	getNodeAt(index)->setData(val);
+}
+
+template<class tipo>
+bool Lista<tipo>::isEmpty(){
+	return(this->first==nullptr);
+}
+
+template<class tipo>
+void Lista<tipo>::removeElementAt(int index){
+	if (index>=0 && index<this->size)
+	{
+		Nodo<tipo>* del = nullptr;
+		if (index>0)
+		{
+			Nodo<tipo>* ret = getNodeAt(index - 1);
+			del = ret->getNext();
+			if (del->getNext())
+			{
+				ret->setNext(del->getNext());
+				del->getNext()->setAfter(ret);
+			}
+			delete del;
+		}
+		else if (index == 0)
+		{
+			del = getNodeAt(index);
+			this->first = del->getNext();
+			delete del;
+		}
+		this->size--;
+	}
+}
+
+template<class tipo>
+void Lista<tipo>::insertElementAt(unsigned int index, tipo data){
+	if (index >= 0){
+		Nodo<tipo>* nuevo = new Nodo<tipo>();
+		if (nuevo)
+		{
+			nuevo->setData(data);
+			Nodo<tipo>* pos = getNodeAt(index);
+			if (pos){
+				Nodo<tipo>* ant = pos->getAfter();
+				nuevo->setAfter(ant);
+				nuevo->setNext(pos);
+				pos->setAfter(nuevo);
+				if (index>0)
+				{
+					ant->setNext(nuevo);
+				}
+			}
+			if (index == 0){
+				this->first = nuevo;
+			}
+			this->size++;
+		}
+	}
+}
+
+template<class tipo>
+unsigned int Lista<tipo>::getSize(){
+	return(this->size);
+}
+
+template<class tipo>
+void Lista<tipo>::clear(){
+	if (!isEmpty() && this->size>0)
+	{
+		removeElementAt(0);
+		clear();
+	}
+}
+
+template<class tipo>
+int Lista<tipo>::pivot(int izq, int der){
+	int i;
+	int pivote, valor_pivote;
+	int aux;
+	pivote = izq;
+	valor_pivote = getValueAt(pivote);
+	for (i = izq + 1; i <= der; i++){
+		if (getValueAt(i) < valor_pivote){
+			pivote++;
+			aux = getValueAt(i);
+			setValueAt(i, getValueAt(pivote));
+			setValueAt(pivote, aux);
+
+		}
+	}
+	aux = getValueAt(izq);
+	setValueAt(izq, getValueAt(pivote));
+	setValueAt(pivote, aux);
+	return pivote;
+}
+
+template<class tipo>
+void Lista<tipo>::quickSort(int izq, int der){
+	int pivote;
+	if (izq < der){
+		pivote = pivot(izq, der);
+		quickSort(izq, pivote - 1);
+		quickSort(pivote + 1, der);
+	}
+}
+
+
+template<class tipo>
+void Lista<tipo>::quick_sort(){
+	quickSort(0, this->size-1);
+}
+
+template<class tipo>
+void Lista<tipo>::sort_burbuja(){
+	tipo aux;
+	for (size_t i = 0; i < this->getSize(); i++)
+	{
+		for (size_t j = 0; j < (this->getSize() - 1); j++)
+		{
+			if (this->getValueAt(j) > this->getValueAt((j + 1)))
+			{
+				aux = this->getValueAt(j);
+				this->setValueAt(j, this->getValueAt((j + 1)));
+				this->setValueAt((j + 1), aux);
+			}
+		}
+	}
+}
+
+template<class tipo>
+void Lista<tipo>::sort_seleccion_directa(){
+	tipo menor, aux;
+	int pos_menor;
+	for (unsigned int i = 0; i < this->getSize(); i++)
+	{
+		menor = this->getVal

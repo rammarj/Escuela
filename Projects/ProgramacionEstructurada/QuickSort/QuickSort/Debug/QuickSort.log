@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 30/11/2015 10:18:34 a. m..
+     1>Proyecto "E:\musica (2)\Visual Studio 2013\Projects\ProgramacionEstructurada\QuickSort\QuickSort\QuickSort.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QuickSort.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lista.cpp Nodo.cpp
+         Nodo.cpp
+         Lista.cpp
+     1>e:\musica (2)\visual studio 2013\projects\programacionestructurada\quicksort\quicksort\lista.cpp(29): warning C4018: '<' : no coinciden signed/unsigned
+     1>e:\musica (2)\visual studio 2013\projects\programacionestructurada\quicksort\quicksort\lista.cpp(31): warning C4018: '<' : no coinciden signed/unsigned
+     1>e:\musica (2)\visual studio 2013\projects\programacionestructurada\quicksort\quicksort\lista.cpp(113): warning C4018: '<' : no coinciden signed/unsigned
+         Generando código...
+     1>e:\musica (2)\visual studio 2013\projects\programacionestructurada\quicksort\quicksort\lista.cpp(25): warning C4715: 'Lista::getLast' : no todas las rutas de acceso de control devuelven un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\musica (2)\Visual Studio 2013\Projects\ProgramacionEstructurada\QuickSort\Debug\QuickSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\musica (2)\Visual Studio 2013\Projects\ProgramacionEstructurada\QuickSort\Debug\QuickSort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\musica (2)\Visual Studio 2013\Projects\ProgramacionEstructurada\QuickSort\Debug\QuickSort.lib" /MACHINE:X86 Debug\Lista.obj
+         Debug\Nodo.obj
+         Debug\QuickSort.obj
+         Debug\stdafx.obj
+         QuickSort.vcxproj -> E:\musica (2)\Visual Studio 2013\Projects\ProgramacionEstructurada\QuickSort\Debug\QuickSort.exe
+     1>Compilación del proyecto terminada "E:\musica (2)\Visual Studio 2013\Projects\ProgramacionEstructurada\QuickSort\QuickSort\QuickSort.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.78

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PracticaFragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="areas_y_perimetros">Áreas y perímetros</string>
+    <string name="btn_areas">Áreas</string>
+    <string name="btn_series">Series</string>
+    <string name="btn_contacto">Contacto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo_fragment_areas">Áreas</string>
+    <string name="texto_farea_instrucciones">(Debes poner información relacionada con la fórmula para calcular el perímetro de 3 figuras diferentes)</string>
+    <string name="teclea_n">Teclea n</string>
+    <string name="titulo_fragment_series">Series</string>
+    <string name="fibonacci">Fibonacci</string>
+    <string name="num_primos">Números primos</string>
+    <string name="formula_triangulo">Triángulo: A = B * H / 2</string>
+    <string name="formula_cuadrado">Cuadrado: A = L * L</string>
+    <string name="title_activity_areas">ActivityAreas</string>
+    <string name="title_activity_series">SeriesActivity</string>
+</resources>

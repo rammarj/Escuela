@@ -1,0 +1,31 @@
+﻿Compilación iniciada a las 16/12/2015 04:33:31 p. m..
+     1>Proyecto "E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\EditorImages\EditorImages\EditorImages.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib init.cpp
+         init.cpp
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(168): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(176): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(222): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(230): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(245): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(261): warning C4101: 'e' : variable local sin referencia
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Ventana.cpp
+         Ventana.cpp
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(168): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(176): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(222): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(230): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(245): warning C4101: 'e' : variable local sin referencia
+     1>e:\musica (2)\visual studio 2013\projects\programacion visual\editorimages\editorimages\Ventana.h(261): warning C4101: 'e' : variable local sin referencia
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Joaquin R. Martinez\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\EditorImages\Debug\EditorImages.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\EditorImages\Debug\EditorImages.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"init" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\init.obj
+         Debug\Ventana.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         EditorImages.vcxproj -> E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\EditorImages\Debug\EditorImages.exe
+     1>Compilación del proyecto terminada "E:\musica (2)\Visual Studio 2013\Projects\Programacion Visual\EditorImages\EditorImages\EditorImages.vcxproj" (Rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.87

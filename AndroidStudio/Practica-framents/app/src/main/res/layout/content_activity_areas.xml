@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityAreas">
+
+    <TextView
+        android:id="@+id/tituloFAreas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margen_titulo_principal"
+        android:textSize="@dimen/size_titulo_principal"
+        android:paddingLeft="@dimen/margen_titulo_principal"
+        android:text="@string/titulo_fragment_areas" />
+
+        <LinearLayout
+            android:id="@+id/layTriang"
+            android:layout_below="@+id/tituloFAreas"
+            android:layout_margin="@dimen/margen_titulo_principal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtvFormTriangulo"
+                android:textSize="@dimen/tam_texto"
+                android:text="@string/formula_triangulo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:id="@+id/imgTriangulo"
+                android:layout_gravity="end"
+                android:src="@drawable/ic_triangulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layCuad"
+            android:layout_below="@+id/layTriang"
+            android:layout_margin="@dimen/margen_titulo_principal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtvFormCuadrado"
+                android:textSize="@dimen/tam_texto"
+                android:text="@string/formula_cuadrado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:id="@+id/imgCuadrado"
+                android:src="@drawable/ic_cuadrado"
+                android:layout_gravity="end"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layCirc"
+            android:layout_below="@+id/layCuad"
+            android:layout_margin="@dimen/margen_titulo_principal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtvFormCirc"
+                android:textSize="@dimen/tam_texto"
+                android:text="@string/formula_cuadrado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:id="@+id/imgCirc"
+                android:src="@drawable/ic_circulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end" />
+
+        </LinearLayout>
+
+</RelativeLayout>

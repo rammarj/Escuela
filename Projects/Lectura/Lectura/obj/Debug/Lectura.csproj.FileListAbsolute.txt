@@ -1,0 +1,8 @@
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\bin\Debug\Lectura.exe.config
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\bin\Debug\Lectura.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\bin\Debug\Lectura.pdb
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\obj\Debug\Lectura.Form1.resources
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\obj\Debug\Lectura.Properties.Resources.resources
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\obj\Debug\Lectura.csproj.GenerateResource.Cache
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\obj\Debug\Lectura.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\Lectura\Lectura\obj\Debug\Lectura.pdb

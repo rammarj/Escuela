@@ -1,0 +1,27 @@
+﻿Compilación iniciada a las 21/08/2017 03:03:18 p. m..
+     1>Proyecto "C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\PPx1\PPx1\PPx1.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(2151,5): warning MSB3284: No se puede obtener la ruta de acceso del archivo para la biblioteca de tipos "3a8bd65e-9922-4162-a649-83f2d5326bbe", versión 1.0. Biblioteca no registrada. (Excepción de HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED))
+     1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(2151,5): warning MSB3284: No se puede obtener la ruta de acceso del archivo para la biblioteca de tipos "3a8bd65e-9922-4162-a649-83f2d5326bbe", versión 1.0. Biblioteca no registrada. (Excepción de HRESULT: 0x8002801D (TYPE_E_LIBNOTREGISTERED))
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\PPx1\Debug\itextsharp.dll" /FUC:\WINDOWS\assembly\GAC_MSIL\Microsoft.ReportViewer.Common\11.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.Common.dll /FUC:\WINDOWS\assembly\GAC_MSIL\Microsoft.ReportViewer.WinForms\11.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.WinForms.dll /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.5\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Web.Services.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /FUInterop\Interop.WMPLib.1.0.dll /FUInterop\AxInterop.WMPLib.1.0.dll /analyze- /errorReport:prompt /clr:nostdlib Conexion.cpp Inicio.cpp Producto.cpp Usuario.cpp main.cpp
+         Conexion.cpp
+         Inicio.cpp
+         Producto.cpp
+         Usuario.cpp
+         main.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\PPx1\Debug\PPx1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\PPx1.Inicio.resources /ASSEMBLYRESOURCE:Debug\PPx1.Login.resources /ASSEMBLYRESOURCE:Debug\PPx1.Producto.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\PPx1\Debug\PPx1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\PPx1.res
+         Debug\Conexion.obj
+         Debug\Inicio.obj
+         Debug\main.obj
+         Debug\Producto.obj
+         Debug\Usuario.obj
+         Debug\Util.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         PPx1.vcxproj -> C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\PPx1\Debug\PPx1.exe
+     1>Compilación del proyecto terminada "C:\Users\RAMMARJ\Documents\Visual Studio 2013\Projects\PPx1\PPx1\PPx1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:12.14

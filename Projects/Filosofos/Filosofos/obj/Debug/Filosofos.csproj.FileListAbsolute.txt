@@ -1,0 +1,6 @@
+c:\users\rammarj\documents\visual studio 2013\Projects\Filosofos\Filosofos\bin\Debug\Filosofos.exe.config
+c:\users\rammarj\documents\visual studio 2013\Projects\Filosofos\Filosofos\bin\Debug\Filosofos.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\Filosofos\Filosofos\bin\Debug\Filosofos.pdb
+c:\users\rammarj\documents\visual studio 2013\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.csprojResolveAssemblyReference.cache
+c:\users\rammarj\documents\visual studio 2013\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\Filosofos\Filosofos\obj\Debug\Filosofos.pdb

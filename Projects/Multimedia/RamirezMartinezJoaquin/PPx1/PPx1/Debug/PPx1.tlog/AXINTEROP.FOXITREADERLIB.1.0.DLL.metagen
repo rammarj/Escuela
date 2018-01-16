@@ -1,0 +1,40 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly AxInterop.FOXITREADERLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.FOXITREADERLib.1.0, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class AxFOXITREADERLib.AxFoxitCtl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.AxHost
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String src 'get set' : 
+    System.Object messageHandler 'get set' : 
+  Events:
+    System.EventHandler OnError: 
+    System.EventHandler OnMessage: 
+  Methods:
+    get_src(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_src(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    get_messageHandler(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    set_messageHandler(Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, SpecialName
+    add_OnError(EventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_OnError(EventHandler): PrivateScope, Public, HideBySig, SpecialName
+    add_OnMessage(EventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_OnMessage(EventHandler): PrivateScope, Public, HideBySig, SpecialName
+    OpenFile(String): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    PrintFile(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetProgress(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    postMessage(Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class AxFOXITREADERLib.AxFoxitCtlEventMulticaster: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(AxFOXITREADERLib.AxFoxitCtl): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    FOXITREADERLib._IFoxitCtlEvents
+  Methods:
+    OnError(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    OnMessage(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask

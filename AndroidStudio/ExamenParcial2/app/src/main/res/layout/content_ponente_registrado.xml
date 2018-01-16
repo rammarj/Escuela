@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="i0akinsec.wordpress.com.examenparcial2.PonenteRegistrado"
+    tools:showIn="@layout/activity_ponente_registrado">
+
+
+    <TextView
+        android:id="@+id/txtvTituloPonente"
+        android:layout_margin="@dimen/margen_boton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/registro_ponente"
+        android:textSize="@dimen/size_titulo"/>
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/margen_centro"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/texto_regstro_ponente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/tam_texto"/>
+
+        <TextView
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_boton"
+            android:id="@+id/txtvDatosRegistradoNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_boton"
+            android:id="@+id/txtvDatosRegistradoCorreo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_boton"
+            android:id="@+id/txtvDatosRegistradoTema"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="@dimen/tam_texto"
+            android:layout_margin="@dimen/margen_boton"
+            android:id="@+id/txtvDatosRegistradoUni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

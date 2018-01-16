@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_galeria"
+            android:icon="@drawable/ic_galeria"
+            android:title="@string/galeria_menu" />
+        <item
+            android:id="@+id/nav_ponentes"
+            android:icon="@drawable/ic_ponente"
+            android:title="@string/ponentes_menu" />
+        <item
+            android:id="@+id/nav_acerca_de"
+            android:icon="@drawable/ic_about"
+            android:title="@string/acercade_menu" />
+    </group>
+
+</menu>

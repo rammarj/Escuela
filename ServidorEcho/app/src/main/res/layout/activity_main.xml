@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.example.veritassc.servidorecho.MainActivity">
+
+    <EditText
+        android:id="@+id/IP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="IP"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:textColorHint="#FFFFFF"/>
+    <EditText
+        android:id="@+id/Message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Accion (Apagar, Reiniciar, Cerrar Sesion, Bloquear)"
+        android:layout_below="@id/IP"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:textColorHint="#FFFFFF"/>
+    <Button
+        android:id="@+id/btnEnviar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Message"
+        android:layout_centerHorizontal="true"
+        android:text="Enviar"
+        android:onClick="ejecutarCliente"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="16dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnEnviar"
+        android:text="Esperando acción..."
+        android:textSize="20dp"
+        android:layout_marginTop="16dp"
+        android:textColor="#FFFFFF"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

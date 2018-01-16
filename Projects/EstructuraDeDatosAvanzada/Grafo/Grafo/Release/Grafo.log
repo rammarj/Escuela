@@ -1,0 +1,28 @@
+﻿Compilación iniciada a las 01/02/2016 10:10:33 a. m..
+     1>Proyecto "E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Grafo\Grafo.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Grafo.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Tabla.cpp
+         Tabla.cpp
+     1>Tabla.cpp(12): warning C4018: '<' : no coinciden signed/unsigned
+     1>Tabla.cpp(49): warning C4018: '<' : no coinciden signed/unsigned
+     1>Tabla.cpp(51): warning C4018: '<' : no coinciden signed/unsigned
+     1>Tabla.cpp(109): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Release\Grafo.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Release\Grafo.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Release\Grafo.lib" /MACHINE:X86 /SAFESEH Release\Grafo.obj
+         Release\GrafoImpl.obj
+         Release\Lista.obj
+         Release\Nodo.obj
+         Release\NodoHash.obj
+         Release\NodoHash2.obj
+         Release\stdafx.obj
+         Release\Tabla.obj
+         Release\Tabla2.obj
+         Generando código
+     1>e:\musica (2)\visual studio 2013\projects\estructuradedatosavanzada\grafo\grafo\tabla2.cpp(45): warning C4715: 'Tabla2::getLast' : no todas las rutas de acceso de control devuelven un valor
+         Generación de código finalizada
+         Grafo.vcxproj -> E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Release\Grafo.exe
+     1>Compilación del proyecto terminada "E:\musica (2)\Visual Studio 2013\Projects\EstructuraDeDatosAvanzada\Grafo\Grafo\Grafo.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:08.21

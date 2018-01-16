@@ -1,0 +1,6 @@
+c:\users\rammarj\documents\visual studio 2013\Projects\FilosofosComenzales\FilosofosComenzales\bin\Debug\FilosofosComenzales.exe.config
+c:\users\rammarj\documents\visual studio 2013\Projects\FilosofosComenzales\FilosofosComenzales\bin\Debug\FilosofosComenzales.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\FilosofosComenzales\FilosofosComenzales\bin\Debug\FilosofosComenzales.pdb
+c:\users\rammarj\documents\visual studio 2013\Projects\FilosofosComenzales\FilosofosComenzales\obj\Debug\FilosofosComenzales.exe
+c:\users\rammarj\documents\visual studio 2013\Projects\FilosofosComenzales\FilosofosComenzales\obj\Debug\FilosofosComenzales.pdb
+C:\Users\RAMMARJ\documents\visual studio 2013\Projects\FilosofosComenzales\FilosofosComenzales\obj\Debug\FilosofosComenzales.csprojResolveAssemblyReference.cache

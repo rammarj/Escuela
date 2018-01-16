@@ -1,0 +1,24 @@
+﻿Compilación iniciada a las 18/04/2016 12:32:44 p. m..
+     1>Proyecto "c:\Users\joaquin r. martinez\documents\visual studio 2013\Projects\NumerosRomanos\NumerosRomanos\NumerosRomanos.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\NumerosRomanos.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NumerosRomanos.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "D:\Ejercicio 30 - NumerosRomanos\main.cpp" "D:\Ejercicio 30 - NumerosRomanos\romano.cpp"
+         romano.cpp
+     1>d:\ejercicio 30 - numerosromanos\romano.cpp(1): warning C4627: '#include "romano.h"': se omite al buscar el uso del encabezado precompilado
+                 Agregar directiva a 'stdafx.h' o recompilar el encabezado precompilado
+     1>d:\ejercicio 30 - numerosromanos\romano.cpp(71): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "stdafx.h"' al código fuente?
+         main.cpp
+     1>d:\ejercicio 30 - numerosromanos\main.cpp(1): warning C4627: '#include <iostream>': se omite al buscar el uso del encabezado precompilado
+                 Agregar directiva a 'stdafx.h' o recompilar el encabezado precompilado
+     1>d:\ejercicio 30 - numerosromanos\main.cpp(2): warning C4627: '#include <stdlib.h>': se omite al buscar el uso del encabezado precompilado
+                 Agregar directiva a 'stdafx.h' o recompilar el encabezado precompilado
+     1>d:\ejercicio 30 - numerosromanos\main.cpp(3): warning C4627: '#include "romano.h"': se omite al buscar el uso del encabezado precompilado
+                 Agregar directiva a 'stdafx.h' o recompilar el encabezado precompilado
+     1>d:\ejercicio 30 - numerosromanos\main.cpp(28): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "stdafx.h"' al código fuente?
+         Generando código...
+     1>Compilación del proyecto terminada "c:\Users\joaquin r. martinez\documents\visual studio 2013\Projects\NumerosRomanos\NumerosRomanos\NumerosRomanos.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:04.17

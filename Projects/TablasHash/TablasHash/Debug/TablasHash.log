@@ -1,0 +1,57 @@
+﻿Compilación iniciada a las 18/04/2016 07:29:17 a. m..
+     1>Proyecto "c:\Users\joaquin r. martinez\documents\visual studio 2013\Projects\TablasHash\TablasHash\TablasHash.vcxproj" en el nodo 2 (Rebuild destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\TablasHash.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TablasHash.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TablaHash.cpp Nodo.cpp main.cpp
+         main.cpp
+         Nodo.cpp
+         TablaHash.cpp
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(33): error C2977: 'TablaHash' : hay demasiados argumentos de plantilla
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(5): error C2039: '{ctor}' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(5): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(5): error C2904: 'TablaHash' : el nombre ya ha sido utilizado para una plantilla en el ámbito actual
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(13): error C2039: 'getLast' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(30): error C2039: 'getNodeAt' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(46): error C2039: 'getNodeAt' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(59): error C2039: 'add' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(77): error C2039: 'getValue' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(83): error C2039: 'setValueAt' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(89): error C2039: 'setValueAt' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(95): error C2039: 'isEmpty' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(100): error C2039: 'removeElement' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(115): error C2039: 'getSize' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(120): error C2039: 'clear' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(126): error C2039: 'pivot' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(151): error C2039: 'quickSort' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(162): error C2039: 'quick_sort' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(167): error C2039: '{dtor}' : no es un miembro de 'TablaHash'
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(169): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(169): error C2995: 'int TablaHash(void)' : ya se ha definido la plantilla de función
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(5) : vea la declaración de 'TablaHash'
+     1>c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.cpp(169): error C2904: 'TablaHash' : el nombre ya ha sido utilizado para una plantilla en el ámbito actual
+                 c:\users\joaquin r. martinez\documents\visual studio 2013\projects\tablashash\tablashash\tablahash.h(9) : vea la declaración de 'TablaHash'
+         Generando código...
+     1>Compilación del proyecto terminada "c:\Users\joaquin r. martinez\documents\visual studio 2013\Projects\TablasHash\TablasHash\TablasHash.vcxproj" (Rebuild destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:01.50

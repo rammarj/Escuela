@@ -1,0 +1,65 @@
+﻿Compilación iniciada a las 30/12/2016 09:38:50 p. m..
+     1>Proyecto "C:\Users\RAMMARJ\Documents\VS\Projects\Arbol\Arbol\Arbol.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Arbol.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Arbol.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Arbol.cpp Lista.cpp main.cpp NodoArbol.cpp NodoLista.cpp
+         NodoLista.cpp
+         NodoArbol.cpp
+         main.cpp
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(5): warning C4812: estilo de declaración obsoleto: utilice 'Lista<tipo>::Lista' en su lugar
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(306): warning C4812: estilo de declaración obsoleto: utilice 'Lista<tipo>::~Lista' en su lugar
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\main.cpp(42): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(32): warning C4018: '<' : no coinciden signed/unsigned
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(30) : durante la compilación de la función miembro de plantilla de clase 'NodoLista<tipo> *Lista<tipo>::getNodeAt(int)'
+                 with
+                 [
+                     tipo=int
+                 ]
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(76) : vea la referencia a la creación de instancias de plantilla de función 'NodoLista<tipo> *Lista<tipo>::getNodeAt(int)' que se está compilando
+                 with
+                 [
+                     tipo=int
+                 ]
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\arbol.cpp(9) : durante la compilación de la función miembro de plantilla de clase 'Arbol<int>::Arbol(void)'
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\main.cpp(17) : vea la referencia a la creación de instancias de plantilla de función 'Arbol<int>::Arbol(void)' que se está compilando
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\main.cpp(17) : vea la referencia a la creación de instancias de plantilla de clase 'Arbol<int>' que se está compilando
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(34): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(5): warning C4812: estilo de declaración obsoleto: utilice 'Lista<int>::Lista' en su lugar
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(6) : durante la compilación de la función miembro de plantilla de clase 'Lista<int>::Lista(void)'
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\arbol.cpp(11) : vea la referencia a la creación de instancias de plantilla de función 'Lista<int>::Lista(void)' que se está compilando
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(92): warning C4018: '<' : no coinciden signed/unsigned
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(91) : durante la compilación de la función miembro de plantilla de clase 'void Lista<int>::removeElementAt(int)'
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(151) : vea la referencia a la creación de instancias de plantilla de función 'void Lista<int>::removeElementAt(int)' que se está compilando
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\arbol.cpp(215) : durante la compilación de la función miembro de plantilla de clase 'void Arbol<int>::imprimirInOrder(Nodo<type> *)'
+                 with
+                 [
+                     type=int
+                 ]
+                 c:\users\rammarj\documents\vs\projects\arbol\arbol\arbol.cpp(249) : vea la referencia a la creación de instancias de plantilla de función 'void Arbol<int>::imprimirInOrder(Nodo<type> *)' que se está compilando
+                 with
+                 [
+                     type=int
+                 ]
+         Lista.cpp
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(5): warning C4812: estilo de declaración obsoleto: utilice 'Lista<tipo>::Lista' en su lugar
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(306): warning C4812: estilo de declaración obsoleto: utilice 'Lista<tipo>::~Lista' en su lugar
+         Arbol.cpp
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(5): warning C4812: estilo de declaración obsoleto: utilice 'Lista<tipo>::Lista' en su lugar
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(306): warning C4812: estilo de declaración obsoleto: utilice 'Lista<tipo>::~Lista' en su lugar
+         Generando código...
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\arbol.cpp(63): warning C4715: 'Arbol<int>::inOrder' : no todas las rutas de acceso de control devuelven un valor
+     1>c:\users\rammarj\documents\vs\projects\arbol\arbol\lista.cpp(27): warning C4715: 'Lista<int>::getLast' : no todas las rutas de acceso de control devuelven un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RAMMARJ\Documents\VS\Projects\Arbol\Debug\Arbol.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\RAMMARJ\Documents\VS\Projects\Arbol\Debug\Arbol.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RAMMARJ\Documents\VS\Projects\Arbol\Debug\Arbol.lib" /MACHINE:X86 Debug\Arbol.obj
+         Debug\Lista.obj
+         Debug\main.obj
+         Debug\NodoArbol.obj
+         Debug\NodoLista.obj
+         Debug\stdafx.obj
+         Arbol.vcxproj -> C:\Users\RAMMARJ\Documents\VS\Projects\Arbol\Debug\Arbol.exe
+     1>Compilación del proyecto terminada "C:\Users\RAMMARJ\Documents\VS\Projects\Arbol\Arbol\Arbol.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.29
