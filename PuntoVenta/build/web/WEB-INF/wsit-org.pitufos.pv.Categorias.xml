@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <definitions 
+ xmlns="http://schemas.xmlsoap.org/wsdl/" 
+ xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" 
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+ xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" name="Categorias" targetNamespace="http://pv.pitufos.org/" xmlns:tns="http://pv.pitufos.org/" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:sp="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" xmlns:sc="http://schemas.sun.com/2006/03/wss/server" xmlns:wspp="http://java.sun.com/xml/ns/wsit/policy" 
+ >
+    <message name="agregar"/>
+    <message name="agregarResponse"/>
+    <message name="eliminar"/>
+    <message name="eliminarResponse"/>
+    <message name="actualizar"/>
+    <message name="actualizarResponse"/>
+    <message name="obtenerIntervalo"/>
+    <message name="obtenerIntervaloResponse"/>
+    <message name="obtenerTodo"/>
+    <message name="obtenerTodoResponse"/>
+    <message name="obtener"/>
+    <message name="obtenerResponse"/>
+    <message name="contar"/>
+    <message name="contarResponse"/>
+    <portType name="Categorias">
+        <operation name="agregar">
+            <input message="tns:agregar"/>
+            <output message="tns:agregarResponse"/>
+        </operation>
+        <operation name="eliminar">
+            <input message="tns:eliminar"/>
+            <output message="tns:eliminarResponse"/>
+        </operation>
+        <operation name="actualizar">
+            <input message="tns:actualizar"/>
+            <output message="tns:actualizarResponse"/>
+        </operation>
+        <operation name="obtenerIntervalo">
+            <input message="tns:obtenerIntervalo"/>
+            <output message="tns:obtenerIntervaloResponse"/>
+        </operation>
+        <operation name="obtenerTodo">
+            <input message="tns:obtenerTodo"/>
+            <output message="tns:obtenerTodoResponse"/>
+        </operation>
+        <operation name="obtener">
+            <input message="tns:obtener"/>
+            <output message="tns:obtenerResponse"/>
+        </operation>
+        <operation name="contar">
+            <input message="tns:contar"/>
+            <output message="tns:contarResponse"/>
+        </operation>
+    </portType>
+    <binding name="CategoriasPortBinding" type="tns:Categorias">
+        <operation name="agregar">
+             <input></input>
+            <output></output>
+        </operation>
+        <operation name="eliminar">
+             <input></input>
+            <output></output>
+        </operation>
+        <operation name="actualizar">
+             <input></input>
+            <output></output>
+        </operation>
+        <operation name="obtenerIntervalo">
+             <input></input>
+            <output></output>
+        </operation>
+        <operation name="obtenerTodo">
+             <input></input>
+            <output></output>
+        </operation>
+        <operation name="obtener">
+             <input></input>
+            <output></output>
+        </operation>
+        <operation name="contar">
+             <input></input>
+            <output></output>
+        </operation>
+    </binding>
+    <service name="Categorias">
+        <port name="CategoriasPort" binding="tns:CategoriasPortBinding"/>
+    </service>
+</definitions>

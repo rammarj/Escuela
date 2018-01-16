@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="Ventas">
+      <implementation-class>org.pitufos.pv.Ventas</implementation-class>
+    </service>
+    <service name="Login">
+      <implementation-class>org.pitufos.pv.Login</implementation-class>
+    </service>
+    <service name="Usuarios">
+      <implementation-class>org.pitufos.pv.Usuarios</implementation-class>
+    </service>
+    <service name="Corte">
+      <implementation-class>org.pitufos.pv.Corte</implementation-class>
+    </service>
+    <service name="Productos">
+      <implementation-class>org.pitufos.pv.Productos</implementation-class>
+    </service>
+    <service name="Categorias">
+      <implementation-class>org.pitufos.pv.Categorias</implementation-class>
+    </service>
+    <service name="Roles">
+      <implementation-class>org.pitufos.pv.Roles</implementation-class>
+    </service>
+    <service name="Proveedores">
+      <implementation-class>org.pitufos.pv.Proveedores</implementation-class>
+    </service>
+  </services>
+  <clients/>
+  <jsr109>false</jsr109>
+</jax-ws>

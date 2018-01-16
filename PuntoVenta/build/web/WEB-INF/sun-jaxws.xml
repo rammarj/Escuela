@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="org.pitufos.pv.Ventas" name="Ventas" url-pattern="/Ventas"/>
+  <endpoint implementation="org.pitufos.pv.Login" name="Login" url-pattern="/Login"/>
+  <endpoint implementation="org.pitufos.pv.Usuarios" name="Usuarios" url-pattern="/Usuarios"/>
+  <endpoint implementation="org.pitufos.pv.Corte" name="Corte" url-pattern="/Corte"/>
+  <endpoint implementation="org.pitufos.pv.Productos" name="Productos" url-pattern="/Productos"/>
+  <endpoint implementation="org.pitufos.pv.Categorias" name="Categorias" url-pattern="/Categorias"/>
+  <endpoint implementation="org.pitufos.pv.Roles" name="Roles" url-pattern="/Roles"/>
+  <endpoint implementation="org.pitufos.pv.Proveedores" name="Proveedores" url-pattern="/Proveedores"/>
+</endpoints>
